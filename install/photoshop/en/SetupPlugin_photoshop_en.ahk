@@ -24,18 +24,30 @@ ThisApp := "photoshop"
 ThisLang := "en"
 ; @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ (Line 22) Installer Number and Number of Install Zip Files
 ;
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+InstallTempFolder := A_Temp "\PopUpMenu"
+if !FileExist(InstallTempFolder)
+{
+  FileCreateDir, %InstallTempFolder%
+}
 ; -------------------------------------------
-DeleteDir1 := A_Temp "\PopUpMenu\PopUpMenu_PUM"
-if FileExist(DeleteDir1)
+if (A_IsAdmin == 0) ; Always Run As AdMin
 {
-  FileRemoveDir, %A_Temp%\PopUpMenu\PopUpMenu_PUM, 1
-}
-DeleteDir2 := A_Temp "\PopUpMenu\"
-if FileExist(DeleteDir1)
-{
-  DeleteTheseFiles := A_Temp "\PopUpMenu\*.*"
-  FileDelete, %DeleteTheseFiles%
-}
+  ; -------------------------------------------
+  CheckedForAdmin := A_Temp "\PopUpMenu\CheckedForAdmin.txt"
+  ; -------------------------------------------
+  if !FileExist(CheckedForAdmin)
+  {
+    ; -------------------------------------------
+    FileAppend, 1, CheckedForAdmin
+    ; -------------------------------------------
+    Run, *RunAs %A_ScriptFullPath%
+    ; -------------------------------------------
+  }
+  ; -------------------------------------------
+} ; Always Run As AdMin
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+;
 ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ; Vars
 ; -------------------------------------------
@@ -1974,23 +1986,21 @@ GuiControl, Hide, Var_ProgressBar
 ; Hide All Objects
 ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ;
-; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [Plugin]
-; [CHECK] (Admin Rights), if 0 (E4 No Admin Rights)
-; ------------------------------------------- [Plugin]
-HasAdminRights := CheckHasAdminRights()
-; ------------------------------------------- [Plugin]
-if (HasAdminRights == 0) ; [ERROR] Message_E4_(Admin Rights)
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+; [CHECK] (Admin Rights)
+if (A_IsAdmin == 0) ; The Current User Does Not have Admin Rights
 {
-  ; ------------------------------------------- [Plugin]
-  HadError := 1
-  ; ------------------------------------------- [Plugin]
-  ErrorNum := ErrorGUI(UserLang, "E4", InstallerNumber, "Plugin", ThisApp, ThisLang) ; (E4)(Admin Rights)
   ; -------------------------------------------
-} ; [End] if (HasAdminRights == 0) ; [ERROR] Message_E4_(Admin Rights)
-; ------------------------------------------- [Plugin]
-; [CHECK] (Admin Rights), if 0 (E4 No Admin Rights)
-; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [Plugin]
+  HadError := 1
+  ; -------------------------------------------
+  ErrorNum := ErrorGUI(UserLang, "E4", InstallerNumber, "Plugin", ThisApp, ThisLang) ; (E4)(NO Admin Rights)
+  ; -------------------------------------------
+}
+; -------------------------------------------
+; [CHECK] (Admin Rights)
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ;
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 if (HadError == 0) ; (OK) (Admin Rights)
 {
   ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> [Plugin]
@@ -2355,11 +2365,18 @@ Label_ButtonLeft: ; ("Yes") (Do Install)
     ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     ;
     ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-    ; Run, *RunAs A_Temp "\PopUpMenu\PluginMover.ahk"
+    ; Move Files
     ; -------------------------------------------
-    RunWait, *RunAs %PluginMover%
+    SourcePattern := A_Temp "\PopUpMenu\PopUpMenu_PUM\menu\*.*"
+    DestinationFolder := A_ProgramFiles "\PopUpMenu_PUM\menu"
     ; -------------------------------------------
-    ; Run, *RunAs A_Temp "\PopUpMenu\PluginMover.ahk"
+    FileMove, %SourcePattern%, %DestinationFolder%, 1
+	  Loop, %SourcePattern%, 2  ; 2 means "retrieve folders only".
+	  {
+  		FileMoveDir, %A_LoopFileFullPath%, %DestinationFolder%\%A_LoopFileName%, 1
+  	}
+    ; -------------------------------------------
+    ; Move Files
     ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     ;
     Sleep, 500 ; Give time to complete Process
@@ -2501,14 +2518,7 @@ return
 ; -------------------------------------------
 ; [GUI] [INSTALLER] (Labels)
 ; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
-
-
-
-
-
-
-
+;
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+; END OF FILE
+; >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
