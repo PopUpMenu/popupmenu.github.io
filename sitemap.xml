@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://popupmenu.github.io/index.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/fr_photoshop_adjustbw.html</loc>
+    <lastmod>2023-02-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/en.html</loc>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -36,46 +48,8 @@
     </image:image>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/fr_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://popupmenu.github.io/en.html</loc>
-    <lastmod>2023-06-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/midnight.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/popupmenu.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/demo_en.png</image:loc>
-      <image:caption>Interactive Demonstration, Pop Up Menu</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/logo_windows.png</image:loc>
-      <image:caption>windows Interactive Demo, Pop Up Menu</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/logo_internet.png</image:loc>
-      <image:caption>internet browser Interactive Demo, Pop Up Menu</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/logo_word.png</image:loc>
-      <image:caption>document Interactive Demo, Pop Up Menu</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/logo_photoshop.png</image:loc>
-      <image:caption>application Interactive Demo, Pop Up Menu</image:caption>
-    </image:image>
-  </url>
-  <url>
     <loc>https://popupmenu.github.io/es.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,10 +78,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_es.png</image:loc>
       <image:caption>Demostración Interactiva, Menú Pop Up</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -136,10 +113,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_fr.png</image:loc>
       <image:caption>Démonstration interactive, menu pop up</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -168,10 +148,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_it.png</image:loc>
       <image:caption>Dimostrazione interattiva, menu pop-up</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -200,10 +183,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_pl.png</image:loc>
       <image:caption>Interaktywna demonstracja, menu podręczne</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -232,10 +218,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_pt.png</image:loc>
       <image:caption>Demonstração interactiva, Menu Pop Up</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -264,10 +253,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_ru.png</image:loc>
       <image:caption>Интерактивная демонстрация, всплывающее меню</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -296,10 +288,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_sv.png</image:loc>
       <image:caption>Interaktiv demonstration, pop-up-meny</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -328,10 +323,13 @@
       <image:loc>https://popupmenu.github.io/images/demo_tr.png</image:loc>
       <image:caption>Etkileşimli gösteri, açılır menü</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -349,7 +347,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -367,7 +365,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -385,7 +383,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -403,7 +401,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -421,7 +419,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -439,7 +437,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -457,7 +455,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -475,7 +473,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -493,7 +491,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_download.html</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -511,7 +509,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/de.html</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -539,6 +537,9 @@
     <image:image>
       <image:loc>https://popupmenu.github.io/images/demo_de.png</image:loc>
       <image:caption>Interaktive Demonstration, Pop Up Menü</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -783,1561 +784,1561 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/de_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/en_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/es_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/it_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_acad.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_photoshop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_folderpictures.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_foldermusic.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_whatsapp.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_dreamweaver.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_photoshop.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_word_file2.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_desktop_chrome.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_getintopc.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_midnightitsalmost.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_ipcgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_oceanofgames.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_reichelt.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_web-air.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_chrome_folderdownloads.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_word_address.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_photoshop_canvassize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_word_file1.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_word_folderdocuments.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_word_email.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_photoshop_adjustbw.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_photoshop_colorrange.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_photoshop_imagesize.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_photoshop_exportas.html</loc>
-    <lastmod>2023-03-02</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/photoshop_en.html</loc>
-    <lastmod>2023-03-05</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2355,7 +2356,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/photoshop_de.html</loc>
-    <lastmod>2023-03-05</lastmod>
+    <lastmod>2023-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
