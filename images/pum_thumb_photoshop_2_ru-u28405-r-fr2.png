@@ -1,656 +1,0 @@
-[Version]
-Signature = "$WINDOWS NT$"
-Class     = PnpMigration
-ClassGuid = {8ffff596-d7f4-4afa-82a2-28a0a63b90bf}
-Provider  = %MSFT%
-
-;----------------------------------------------------------------
-; Device migration
-;----------------------------------------------------------------
-[Migration]
-; Migrate device classes with additional filtering
-MigrateClass = %GUID_DEVCLASS_SYSTEM%,System_MigrateClass
-MigrateClass = %GUID_DEVCLASS_PROCESSOR%,Processor_MigrateClass
-MigrateClass = %GUID_DEVCLASS_MONITOR%,Monitor_MigrateClass
-MigrateClass = %GUID_DEVCLASS_MEDIA%,Media_MigrateClass
-MigrateClass = %GUID_DEVCLASS_HOLOGRAPHIC%,Holographic_MigrateClass
-MigrateClass = %GUID_DEVCLASS_NET%,Net_MigrateClass
-MigrateClass = %GUID_DEVCLASS_USB%,Usb_MigrateClass
-MigrateClass = %GUID_DEVCLASS_HIDCLASS%,Hid_MigrateClass
-MigrateClass = %GUID_DEVCLASS_PORTS%,Ports_MigrateClass
-MigrateClass = %GUID_DEVCLASS_MODEM%,Modem_MigrateClass
-MigrateClass = %GUID_DEVCLASS_BLUETOOTH%,Bluetooth_MigrateClass
-MigrateClass = %GUID_DEVCLASS_IMAGE%,Image_MigrateClass
-MigrateClass = %GUID_DEVCLASS_SENSOR%,Sensor_MigrateClass
-MigrateClass = %GUID_DEVCLASS_WPD%,Wpd_MigrateClass
-MigrateClass = %GUID_DEVCLASS_FIRMWARE%,Firmware_MigrateClass
-MigrateClass = %GUID_DEVCLASS_SOFTWAREDEVICE%,SoftwareDevice_MigrateClass
-MigrateClass = %GUID_DEVCLASS_PRINTER%,Printer_MigrateClass
-
-; Exclude device classes from migration
-ExcludeClass = %GUID_DEVCLASS_DISPLAY%
-ExcludeClass = %GUID_DEVCLASS_VOLUME%,,%FLG_DEVICE_EXCLUDE_ALL%
-ExcludeClass = %GUID_DEVCLASS_VOLUMESNAPSHOT%,,%FLG_DEVICE_EXCLUDE_ALL%
-
-; Migrate device buses with additional filtering
-MigrateBus = %GUID_BUS_TYPE_ACPI%,Acpi_MigrateBus
-MigrateBus = %GUID_BUS_TYPE_PCI%,Pci_MigrateBus
-MigrateBus = %GUID_BUS_TYPE_USB%,Usb_MigrateBus
-MigrateBus = BTHENUM,BthEnum_MigrateBus
-
-; Migrate 3D printer device bus with additional filtering
-MigrateBus = 3DPRINTER,3dPrinter_MigrateBus
-
-; Migrate inbox VMS root devices
-MigrateDevice = vms_mp, VmsRootDevice_MigrateDevice
-MigrateDevice = vms_vsmp, VmsRootDevice_MigrateDevice
-
-; Migrate inbox VSC root devices
-MigrateDevice = VirtualSmartCardReader\reader, TpmVscRootDevice_MigrateDevice
-
-; Migrate ACPI COM port devices with additional filtering
-MigrateDevice = ACPI\PNP0501, AcpiComPort_MigrateDevice
-
-; Migrate Intel WiMAX root devices with additional filtering
-MigrateDevice = WiMAX\bpenum, IntelWiMAX_MigrateDevice
-
-; Exclude deprecated Win7 root devices from migration
-ExcludeDevice = ROOT\BLBDRIVE
-ExcludeDevice = ROOT\RDPBUS
-ExcludeDevice = ROOT\RDP_KBD
-ExcludeDevice = ROOT\RDP_MOU
-
-; Exclude Win7 network RAS/WAN miniport root devices from migration
-ExcludeDevice = MS_IrdaMiniport
-ExcludeDevice = MS_IrModemMiniport
-ExcludeDevice = MS_L2tpMiniport
-ExcludeDevice = MS_NdisWanBh
-ExcludeDevice = MS_NdisWanIp
-ExcludeDevice = MS_NdiswanIpv6
-ExcludeDevice = MS_NdisWanNbfIn
-ExcludeDevice = MS_NdisWanNbfOut
-ExcludeDevice = MS_PppoeMiniport
-ExcludeDevice = MS_PptpMiniport
-ExcludeDevice = MS_SstpMiniport
-ExcludeDevice = MS_AgileVpnMiniport
-
-; Exclude device drivers from migration
-ExcludeDriver = umbus.inf
-ExcludeDriver = basicdisplay.inf
-ExcludeDriver = basicrender.inf
-
-; Any other unlisted/custom device classes are implicitly migrated
-
-;----------------------------------------------------------------
-; System device class migration
-;----------------------------------------------------------------
-[System_MigrateClass]
-ExcludeProperty = System_ExcludeProperty
-
-[System_ExcludeProperty]
-{f0e20f09-d97a-49a9-8046-bb6e22e6bb2e},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; Processor device class migration
-;----------------------------------------------------------------
-[Processor_MigrateClass]
-ExcludeProperty = Processor_ExcludeProperty
-
-[Processor_ExcludeProperty]
-{5724c81d-d5af-4c1f-a103-a06e28f204c6},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; Volume device class migration
-;----------------------------------------------------------------
-[Volume_MigrateClass]
-
-[Volume_MigrateClass.Services]
-ExcludeService = volsnap
-
-[Volume_MigrateClass.Interfaces]
-ExcludeInterface = %GUID_DEVINTERFACE_VOLUME%
-ExcludeInterface = {7f108a28-9833-4b3b-b780-2c6b5fa5c062}
-
-;----------------------------------------------------------------
-; Display device class migration
-;----------------------------------------------------------------
-[Display_MigrateClass]
-ExcludeReg = Display_ExcludeReg
-
-[Display_MigrateClass.Hw]
-ExcludeReg = Display_ExcludeReg_Hw
-
-[Display_ExcludeReg]
-HKR,Display,,%FLG_REG_KEYONLY%
-HKR,Session,,%FLG_REG_KEYONLY%
-HKR,Settings,,%FLG_REG_KEYONLY%
-HKR,VolatileSettings,,%FLG_REG_KEYONLY%
-HKR,,DriverInstalled
-
-[Display_ExcludeReg_Hw]
-HKR,_DISPLAY_ACPI_INFO,,%FLG_REG_KEYONLY%
-HKR,,VideoID
-HKR,,VidPnLkgTopology
-HKR,,InstallCount
-HKR,,LastInstallTime
-HKR,,MasterInstallCount
-
-;----------------------------------------------------------------
-; Monitor device class migration
-;----------------------------------------------------------------
-[Monitor_MigrateClass]
-ExcludeReg = Monitor_ExcludeReg
-
-[Monitor_MigrateClass.Hw]
-ExcludeReg = Monitor_ExcludeReg_Hw
-
-[Monitor_ExcludeReg]
-HKR,MODES,,%FLG_REG_KEYONLY%
-HKR,,DPMS
-HKR,,ICMProfile
-HKR,,MaxResolution
-
-[Monitor_ExcludeReg_Hw]
-HKR,,EDID
-HKR,,BAD_EDID
-
-[Monitor_MigrateClass.Services]
-MigrateService = monitor,Monitor_MigrateService
-
-[Monitor_MigrateService]
-ExcludeReg = MonitorService_ExcludeReg
-
-[MonitorService_ExcludeReg]
-HKR,Parameters,,%FLG_REG_KEYONLY%
-
-;----------------------------------------------------------------
-; Net device class migration
-;----------------------------------------------------------------
-[Net_MigrateClass]
-ExcludeReg      = Net_ExcludeReg
-PersistDisabled = 1
-
-[Net_MigrateClass.Hw]
-ExcludeReg = Net_ExcludeReg_Hw
-
-[Net_ExcludeReg]
-HKR,Linkage,,%FLG_REG_KEYONLY%
-HKR,Ndi,,%FLG_REG_KEYONLY%
-HKR,,*IfType
-HKR,,*MediaType
-HKR,,*PhysicalMediaType
-HKR,,BusType
-HKR,,Characteristics
-HKR,,EnableDHCP
-HKR,,BootNIC
-HKR,,ComponentId
-HKR,,DeviceInstanceID
-HKR,,IfTypePrestart
-HKR,,InstallTimeStamp
-HKR,,NetCfgInstanceId
-HKR,,NetLuidIndex
-HKR,,DownlevelNetCfgInstanceId
-HKR,,RetiredNetCfgInstanceId
-HKR,,NewDeviceInstall
-HKR,,BusNumber
-HKR,,NoDisplayClass
-HKR,,Port1DeviceNumber
-HKR,,Port1FunctionNumber
-HKR,,NetworkInterfaceInstallTimestamp
-
-[Net_ExcludeReg_Hw]
-HKR,,InstanceIndex
-
-[Net_MigrateClass.Interfaces]
-ExcludeInterface = {ad498944-762f-11d0-8dcb-00c04fc3358c}
-ExcludeInterface = {01a35fbe-1bc0-4d73-aea1-b8589d4c2818}
-
-;----------------------------------------------------------------
-; Media device class migration
-;----------------------------------------------------------------
-[Media_MigrateClass]
-ExcludeReg = Media_ExcludeReg
-
-[Media_MigrateClass.Hw]
-ExcludeReg = Media_ExcludeReg_Hw
-
-[Media_ExcludeReg]
-HKR,UnretainedSettings,,%FLG_REG_KEYONLY%
-HKR,,DevLoader
-HKR,,Driver
-HKR,,EnumPropPages
-HKR,,NTMPDriver
-HKR,,AssociatedFilters
-HKR,,FDMA
-HKR,,PreferDeviceInfo
-HKR,,MediaInterfaces
-HKR,,DisableSetupDiChangeState
-HKR,,BackupContext
-HKR,,KS
-
-[Media_ExcludeReg_Hw]
-
-[Media_MigrateClass.Interfaces]
-MigrateInterface = %KSCATEGORY_AUDIO%,KSAudio_MigrateInterface
-
-[KSAudio_MigrateInterface]
-ExcludeProperty = KSAudioInterface_ExcludeProperty
-
-[KSAudioInterface_ExcludeProperty]
-{840b8171-b0ad-410f-8581-cccc0382cfef},0
-
-;----------------------------------------------------------------
-; Holographic device class migration
-;----------------------------------------------------------------
-[Holographic_MigrateClass]
-MatchFlags = %MATCH_FLAGS_EXACT_DEVICE%
-
-;----------------------------------------------------------------
-; USB device class migration
-;----------------------------------------------------------------
-[Usb_MigrateClass]
-ExcludeReg = Usb_ExcludeReg
-
-[Usb_MigrateClass.Hw]
-ExcludeReg = Usb_ExcludeReg_Hw,UsbHost_ExcludeReg_Hw,UsbHub_ExcludeReg_Hw
-
-[Usb_ExcludeReg]
-HKR,,Controller
-HKR,,DriverFlags
-
-[Usb_ExcludeReg_Hw]
-HKR,,HardResetCount
-
-[UsbHost_ExcludeReg_Hw]
-HKR,,HCRecoveryCount
-HKR,,HCRestoreStateFailureCount
-
-[UsbHub_ExcludeReg_Hw]
-HKR,Ceip,,%FLG_REG_KEYONLY%
-HKR,uxd,,%FLG_REG_KEYONLY%
-HKR,,EnumerationRetryCount
-HKR,,EnumerationFailureCode
-HKR,,LastHubResetPortStatus
-HKR,,SymbolicName
-HKR,,DetectedLegacyBIOS
-
-[Usb_MigrateClass.Services]
-MigrateService = usbhub,UsbHub_MigrateService
-
-[UsbHub_MigrateService]
-ExcludeReg = UsbHubService_ExcludeReg
-
-[UsbHubService_ExcludeReg]
-HKR,Performance,,%FLG_REG_KEYONLY%
-
-;----------------------------------------------------------------
-; HID device class migration
-;----------------------------------------------------------------
-[Hid_MigrateClass]
-ExcludeReg = Hid_ExcludeReg
-
-[Hid_MigrateClass.Hw]
-ExcludeReg = Hid_ExcludeReg_Hw,UsbHub_ExcludeReg_Hw
-
-[Hid_ExcludeReg]
-
-[Hid_ExcludeReg_Hw]
-
-[Hid_MigrateClass.Interfaces]
-MigrateInterface = {4d1e55b2-f16f-11cf-88cb-001111000030},Hid_MigrateInterface
-
-[Hid_MigrateInterface]
-ExcludeProperty = HidInterface_ExcludeProperty
-
-[HidInterface_ExcludeProperty]
-{cbf38310-4a17-4310-a1eb-247f0b67593b},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; Ports device class migration
-;----------------------------------------------------------------
-[Ports_MigrateClass]
-ExcludeReg = Ports_ExcludeReg
-
-[Ports_MigrateClass.Hw]
-ExcludeReg = Ports_ExcludeReg_Hw
-
-[Ports_ExcludeReg]
-HKR,,PortSubClass
-HKR,,ECPDevice
-
-[Ports_ExcludeReg_Hw]
-HKR,,FirmwareIdentified
-HKR,,DosDeviceName
-
-;----------------------------------------------------------------
-; ACPI COM port device migration
-;----------------------------------------------------------------
-[AcpiComPort_MigrateDevice]
-MatchFlags = %MATCH_FLAGS_EXACT_DEVICE%
-
-;----------------------------------------------------------------
-; Modem device class migration
-;----------------------------------------------------------------
-[Modem_MigrateClass]
-ExcludeReg = Modem_ExcludeReg
-; uncomment to enable Modem migration
-;MigrateReg = Modem_MigrateReg
-
-[Modem_MigrateClass.Hw]
-ExcludeReg = Modem_ExcludeReg_Hw
-MigrateReg = Modem_MigrateReg_Hw
-
-[Modem_ExcludeReg]
-HKR,,,%FLG_REG_KEYONLY%
-
-[Modem_MigrateReg]
-HKR,AllUserSettings,BlindDial
-HKR,ISDN\Settings,StaticConfig
-HKR,,UserInit
-HKR,,MaximumPortSpeed
-HKR,,Logging
-HKR,,DisableUserInitWarning
-HKR,,Default
-HKR,,DCB
-
-[Modem_ExcludeReg_Hw]
-HKR,,,%FLG_REG_KEYONLY%
-
-[Modem_MigrateReg_Hw]
-HKR,,PortName
-; uncomment to enable Modem migration
-;HKR,,ForceFifoEnable
-;HKR,,RxFIFO
-;HKR,,TxFIFO
-
-;----------------------------------------------------------------
-; Bluetooth device class migration
-;----------------------------------------------------------------
-[Bluetooth_MigrateClass]
-
-[Bluetooth_MigrateClass.Hw]
-ExcludeReg = Bluetooth_ExcludeReg_Hw
-
-[Bluetooth_ExcludeReg_Hw]
-HKR,,BackupContext
-
-;----------------------------------------------------------------
-; BthEnum device bus migration
-;----------------------------------------------------------------
-[BthEnum_MigrateBus]
-ExcludeProperty = BthEnum_ExcludeProperty
-
-[BthEnum_ExcludeProperty]
-{2BD67D8B-8BEB-48D5-87E0-6CDA3428040A},,,%FLG_PROPERTY_NAMESPACE%
-
-[BthEnum_MigrateBus.Hw]
-ExcludeReg = BthEnum_ExcludeReg_Hw
-
-[BthEnum_ExcludeReg_Hw]
-HKR,,BluetoothAddress
-HKR,,Bluetooth_UniqueID
-
-[BthEnum_MigrateBus.Interfaces]
-MigrateInterface = {00f40965-e89d-4487-9890-87c3abb211f4},BthEnum_MigrateInterface
-
-[BthEnum_MigrateInterface]
-ExcludeProperty = BthEnum_ExcludeProperty
-
-;----------------------------------------------------------------
-; Printer device class migration
-;----------------------------------------------------------------
-[Printer_MigrateClass]
-ExcludeProperty = Printer_ExcludeProperty
-
-[Printer_ExcludeProperty]
-{a00742a1-cd8c-4b37-95ab-70755587767a},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; Image device class migration
-;----------------------------------------------------------------
-[Image_MigrateClass]
-ExcludeReg = Image_ExcludeReg
-
-[Image_ExcludeReg]
-HKR,,PNPX_FriendlyName
-
-;----------------------------------------------------------------
-; Sensor device class migration
-;----------------------------------------------------------------
-[Sensor_MigrateClass]
-ExcludeReg = Sensor_ExcludeReg
-
-[Sensor_ExcludeReg]
-HKR,SensorsHIDClassDriver\LogTelemetry,,%FLG_REG_KEYONLY%
-
-;----------------------------------------------------------------
-; WPD device class migration
-;----------------------------------------------------------------
-[Wpd_MigrateClass]
-
-[Wpd_MigrateClass.Hw]
-ExcludeReg = Wpd_ExcludeReg_Hw
-
-[Wpd_ExcludeReg_Hw]
-HKR,,Icons
-
-;----------------------------------------------------------------
-; Firmware device class migration
-;----------------------------------------------------------------
-[Firmware_MigrateClass]
-ExcludeReg = Firmware_ExcludeReg
-ExcludeProperty = Firmware_ExcludeProperty
-
-[Firmware_MigrateClass.Hw]
-ExcludeReg = Firmware_ExcludeReg_Hw
-
-[Firmware_ExcludeReg]
-HKR,,FirmwareId
-HKR,,FirmwareVersion
-HKR,,FirmwareFilename
-HKR,,FirmwareStatus
-HKR,,FirmwareInstallDate
-HKR,,FirmwareRetryCount
-
-[Firmware_ExcludeReg_Hw]
-
-[Firmware_ExcludeProperty]
-{fec439f6-09a2-4de5-b30f-73bb396323f5},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; SoftwareDevice device class migration
-;----------------------------------------------------------------
-[SoftwareDevice_MigrateClass]
-
-[SoftwareDevice_MigrateClass.Interfaces]
-ExcludeInterface = %KSCATEGORY_SENSOR_GROUP%
-
-;----------------------------------------------------------------
-; ACPI device bus migration
-;----------------------------------------------------------------
-[Acpi_MigrateBus]
-ExcludeReg = Acpi_ExcludeReg
-ExcludeProperty = AcpiBus_ExcludeProperty
-
-[Acpi_MigrateBus.Hw]
-ExcludeReg = Acpi_ExcludeReg_Hw,AcpiBus_ExcludeReg_Hw
-
-[Acpi_ExcludeReg]
-
-[Acpi_ExcludeReg_Hw]
-HKR,,FirmwareIdentified
-HKR,,DosDeviceName
-
-[AcpiBus_ExcludeReg_Hw]
-HKR,Interrupt Management,,%FLG_REG_KEYONLY%
-HKR,e5b3b5ac-9725-4f78-963f-03dfb1d828c7,,%FLG_REG_KEYONLY%
-HKR,BiosConfig,,%FLG_REG_KEYONLY%
-
-[AcpiBus_ExcludeProperty]
-{f0e20f09-d97a-49a9-8046-bb6e22e6bb2e},2
-{D817FC28-793E-4b9e-9970-469D8BE63073},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; PCI device bus migration
-;----------------------------------------------------------------
-[Pci_MigrateBus]
-ExcludeReg = Pci_ExcludeReg
-ExcludeProperty = Pci_ExcludeProperty,AcpiBus_ExcludeProperty
-
-[Pci_MigrateBus.Hw]
-ExcludeReg = AcpiBus_ExcludeReg_Hw
-
-[Pci_ExcludeReg]
-
-[Pci_ExcludeProperty]
-{D817FC28-793E-4b9e-9970-469D8BE63073},,,%FLG_PROPERTY_NAMESPACE%
-{3AB22E31-8264-4b4e-9AF5-A8D2D8E33E62},,,%FLG_PROPERTY_NAMESPACE%
-
-;----------------------------------------------------------------
-; USB device bus migration
-;----------------------------------------------------------------
-[Usb_MigrateBus]
-
-[Usb_MigrateBus.Hw]
-ExcludeReg = UsbBus_ExcludeReg_Hw
-
-[UsbBus_ExcludeReg_Hw]
-HKR,,SymbolicName
-
-;----------------------------------------------------------------
-; 3D Printer device bus migration
-;----------------------------------------------------------------
-[3dPrinter_MigrateBus]
-ExcludeProperty = 3dPrinter_ExcludeProperty
-
-[3dPrinter_ExcludeProperty]
-{f01fac5d-e5f6-485f-a8c6-27446425998c},2
-
-[3dPrinter_MigrateBus.Hw]
-ExcludeReg = 3dPrinter_ExcludeReg_Hw
-
-[3dPrinter_ExcludeReg_Hw]
-HKR,,PortName
-
-;----------------------------------------------------------------
-; VMS root device migration
-;----------------------------------------------------------------
-[VmsRootDevice_MigrateDevice]
-InboxRootDevices = 1
-
-;----------------------------------------------------------------
-; TPM virtual smart card root device migration
-;----------------------------------------------------------------
-[TpmVscRootDevice_MigrateDevice]
-InboxRootDevices = 1
-
-;----------------------------------------------------------------
-; Intel WiMAX root device migration
-;----------------------------------------------------------------
-[IntelWiMAX_MigrateDevice]
-; Persist ClassGuid for WiMAX companion root device so that primary device using
-; Intel bpusb.inf/BPCoInstaller.dll can find it instead of creating a duplicate
-PersistRootDeviceClass = 1
-
-;----------------------------------------------------------------
-; Service migration
-;----------------------------------------------------------------
-[Migration.Services]
-; Migrate device services with additional filtering
-MigrateService = bthport,BthPort_MigrateService
-
-; Exclude device services from migration
-ExcludeService = mssmbios
-ExcludeService = partmgr
-ExcludeService = volsnap
-ExcludeService = swenum
-ExcludeService = vmbusr
-ExcludeService = WUDFRd
-ExcludeService = VMSMP
-ExcludeService = TPM
-ExcludeService = NdisWan
-ExcludeService = RasPppoe
-ExcludeService = RFCOMM
-
-; Any other unlisted device services are implicitly migrated if they are
-; associated to any migrated devices
-
-;----------------------------------------------------------------
-; BthPort service migration
-;----------------------------------------------------------------
-[BthPort_MigrateService]
-ExcludeReg = BthPortService_ExcludeReg
-
-[BthPortService_ExcludeReg]
-HKR,Parameters,,%FLG_REG_KEYONLY% ; Migrated dynamically
-HKR,Upgrade,,%FLG_REG_KEYONLY%
-
-;----------------------------------------------------------------
-; Interface migration
-;----------------------------------------------------------------
-[Migration.Interfaces]
-; Migrate device interfaces with additional filtering
-; MigrateInterface = %GUID_DEVINTERFACE_XYZ%,Xyz_MigrateInterface
-
-; Exclude device interfaces from migration
-; ExcludeInterface = %GUID_DEVINTERFACE_XYZ%
-
-; Any other unlisted device interfaces are implicitly migrated if they are
-; associated to any migrated devices
-
-[Strings]
-MSFT                              = "Microsoft"
-FLG_REG_KEYONLY                   = 0x00002000
-FLG_PROPERTY_NAMESPACE            = 0x00001000
-FLG_DEVICE_EXCLUDE_ALL            = 0x00000001
-
-; device classes
-GUID_DEVCLASS_1394                = {6bdd1fc1-810f-11d0-bec7-08002be2092f}
-GUID_DEVCLASS_1394DEBUG           = {66f250d6-7801-4a64-b139-eea80a450b24}
-GUID_DEVCLASS_61883               = {7ebefbc0-3200-11d2-b4c2-00a0c9697d07}
-GUID_DEVCLASS_ADAPTER             = {4d36e964-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_APMSUPPORT          = {d45b1c18-c8fa-11d1-9f77-0000f805f530}
-GUID_DEVCLASS_AVC                 = {c06ff265-ae09-48f0-812c-16753d7cba83}
-GUID_DEVCLASS_BATTERY             = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}
-GUID_DEVCLASS_BIOMETRIC           = {53d29ef7-377c-4d14-864b-eb3a85769359}
-GUID_DEVCLASS_BLUETOOTH           = {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
-GUID_DEVCLASS_CDROM               = {4d36e965-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_COMPUTER            = {4d36e966-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_DECODER             = {6bdd1fc2-810f-11d0-bec7-08002be2092f}
-GUID_DEVCLASS_DISKDRIVE           = {4d36e967-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_DISPLAY             = {4d36e968-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_DOT4                = {48721b56-6795-11d2-b1a8-0080c72e74a2}
-GUID_DEVCLASS_DOT4PRINT           = {49ce6ac8-6f86-11d2-b1e5-0080c72e74a2}
-GUID_DEVCLASS_ENUM1394            = {c459df55-db08-11d1-b009-00a0c9081ff6}
-GUID_DEVCLASS_FDC                 = {4d36e969-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_FLOPPYDISK          = {4d36e980-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_GPS                 = {6bdd1fc3-810f-11d0-bec7-08002be2092f}
-GUID_DEVCLASS_HDC                 = {4d36e96a-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_HIDCLASS            = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
-GUID_DEVCLASS_IMAGE               = {6bdd1fc6-810f-11d0-bec7-08002be2092f}
-GUID_DEVCLASS_INFINIBAND          = {30ef7132-d858-4a0c-ac24-b9028a5cca3f}
-GUID_DEVCLASS_INFRARED            = {6bdd1fc5-810f-11d0-bec7-08002be2092f}
-GUID_DEVCLASS_KEYBOARD            = {4d36e96b-e325-11ce-bfc1-08002be10318}
-GUID_DEVCLASS_LEGACYDRMAMÐO  ”¨¥™™·˜ª©¸©ª«¨©»ªÈ¨º¹¸™É©§˜ª™§™ºš—‰©™¨ˆ™©‡ˆ©©¨¨ª¹¨™Éº¨©ÊÊ·™«ºÇ©ºº¨©«ÊÇ™ÊÊšÊÊÈ™ÊÊÇ©ªªÇ©ËªÈ©ÊªÈ™Ë©™
-ª¨©ÊÊ¸©ª©©º»È™Êº·©ºª¸©Ë
-È©š       
-À     À‰
-     §¶Â   ˜™   ÌÀ– ¸    ˜š™À  °˜ªˆ Ì À‡¹‡ ¨ªˆ À€˜Éˆ   ™É˜À	°  ¼š  À  Ê    ÀÀ{            ¨÷!‰¼x÷]£g¿º4"$I¤¾_Š=#“_z‰%šEÃt`éBmþ~óÏüÑÔ¶Ý‰Èô[õ'še9ÊDÝá$:‘äh+JŽK‰äÖå˜Óý›Æ3çKVßÝÍ¼¯vûF×(Ú+=GêÁÏrGÜ….ûèÍørWù£m¡Ùû£Gî¹ž¸'CfÎ‰¬ù‹F\KŸ‰†¸Ó¢§’oŽ“XÞúz–*šP.q-Ô6&¥ß½¼Þ[5’(`MLFƒQë¶|)¥´,Ç@,Ì—ë£‡wtôYàçRD´u#ÎÀŒ>2Ú|Ý Â|ÕÃ‰š=0-½½×EIº êù¾A‡:E>¨Î‡ÓKz"WœZ˜¾Ÿ-üLø<©,Wòç§%ÑÐ	®<7`
-´ïI×º	e? Õ±ç†Õ'³¸E7BÁtœ‚ß«Á ë.Ò‚(¸SK[ô0ÕêÎw÷Áí®Òp
-Œ˜Þd.ÄR¡ô-uÓnPõüC9™ÁÕ\g'¸Jh*¤> àb ©³‡i"«iu€.Ðê
-£\dº
-làJøBIi[§%×@û® àÒ×Ý	}ÔY TžYp:“=¸àò"¡m#¥pÙÅ»n§H›æÕótB‚ËLïPôZ\4õI†dŸMi/¡‚‹ƒ¥\ªŽH
-Þ:¡öÊ˜lÁ¤‰„H÷8•¯ê¨®J]!öðà’¾µDpRDB¢ÂÀTýdFN*¸}…:RÁôA µ‹xÏ‚H	§Jƒìï—h5T7«ú{¥på S½ïB!¡‚*•Š-£H5v\tPàBÙÀ¯z<»¸&Å7BÁtpÇ„`@ýîçd×c\ºøn>µÐöi€…Têº³@ÈUu:ßÁ%Q˜	\U~ªÏæ ’ª¸”„Ò©åêyhÀäë¾x˜K‚
-®Åò~¨¢þg~…þèMS Xà:@v×é™–l¡ùà»	p9€ ‚Lh€ÄÓ`>¡(ø×JGÏ@µR†Ñ|* Î—!ŽlA¸ Ád–`fœÁxð hò§~µ Ø‚[/¨Ž ˆ%ƒbpŠAÈd* "E¨\7‡úpt›áºèã„SAÅPFð Á$	*5``K¸`A	4N°tÀ	xPð-þCFC  Š20‚FLl  ˜'Ø<ð	P­ÀÀÀ‡20F$ *Á`	5K`¸`è@@	vNÀx‚@ºJ°D%°ÜÀ0t ª	D¸q­QÑ,¡ª³íF¡«‘^a8dý¥GÌ•¨ï0‚4Þ Ô¹€Óà™ Ðá&µNtïK2 	;'Ø:à	<(ø	ÔkÀ@À‡"@Ä€€Ìh 0	‚JX9°K€¸dãÇÄVØØ‰ûµhž=÷hß€mAL­ƒWŒLù4_@ræª‚i o Cµ*X íqÚ6o½Chžˆ204%˜,A 	l7p€LÈd`œè| j°W ˆÀPt‚À	xPð-ùCA3 hjõ÷?Ht>è8p¾J‡ðl?LÄÕ,àêäøü’/@âÀÈÁòÉ–ÉçôúAí`Ü`apÂ¬`V6Œ‡zF+Ôx`ð	P ÃVß!i6Ž&P	K¨\Ààr @™Ðl‚€ð|
-ƒÄµ!0Á 1l¥Á$	*5``K¸`A	2; à€'ð„ æ¯ˆàP4‚	&KP¨\àÀ r™@Ð‚l€ð|„ }®…_ £CŠ 2F0 Á$	*5`¸‚`è@ šM°p‚ žPÀ…¡zDp(@ÈÁ€“%¨Ô€.pà€	9L h‚Á	6NÀx‚
->B ÂWDpˆ#˜Ð@`–6P:&Èì€€ð| ¯„ŒàŠ20F$ *Á`	5L`Èdv@°	NtxÀð	´1z"xl p	79€ÆvÁ''	¥5P`7ÀØXÁšÀ[ÝµÁeƒáÇ’ÎEÎ¤\ðv`Á#$8r@Ä€0ÐÁcƒÓaÙ…ú½Žeð—p$0Œƒ´¼] ðIPcÐÖÁ¿t–â/<ã@„(@9 sÆ:xeÀ—~è0<¤m’G-ø¿;ØÝÁÝ¾¼] 8mPã`D»1”Îà1ÁéÖ¯Pwpî ßÁ:ƒà Î&ú Žaz;qÔÁðÔ÷ED Šbf@Ð4%˜,A —8pÀ&Ð4A`›'à<A€Ÿ! N, ÃCŠ 2F0 Á$	*5`À&Ø8ÁÐ	O'à@ÁKpÀ‡À@€"ÄÌ€ 	hJ0X‚@Ønà ˜:È€&ìœ`è€'ð à%¸‰†"8 d“€p8È|‚UüÐ¹ƒx @<P}un…÷¤7¸oÀ·àä‚°#	q ÂÀdè€1ƒÇ³w˜ÿ¾¼ ]IðŽÔ`…õU†	yJ0¨\àÀ r™@è€'ðØ°€9`sÁçÒ¦TÄx ¹@6©£R‡/,Ejý…°H©À"%‘Ã,R59Ã"©â"åÃX¤ŽkS†H8`1è’Xf€ìAEÒ-U3:ƒV…b`œ
-o4‚±S¾Æ@ ¨jÜ©Qþz‡&@ÁJaô#Ø@`œóïñŠxB4`‚@X>@;TYÚšŽ°H)¸‘Ãa)¥Â"¤ú{Xa:ù«©Ç4R…9,"EÃX¤Tc‹\ÅŽk@f ”
-Ê
-A†Vô*3|£ï@@…ìø§ °^@$µ`ƒÇ‘7°¡"ª °ŒæÓDèg}"Sðš˜@¦ì>6Ø7\ÃÁö‚,«íàÛA:ƒy
-ô5Ä‚Ñl§ÀáLˆ`)Í@=Ê‡,R:Ã"R¥:,"…åÃ©‚a‘)å[º!x½ €08Àp½ú8 aðÊAãƒš8ÌÁR¿þPÑÂP6'	ÊÑdè€1ƒÆœ:`eð—pêŸ!ƒ`Se°
-Fwp¯FV66ÉŠaEæŠ§‡É˜¬«0n,Þ [©øô „ Æ£©¯°6ƒÖ¤{ð1~«†nƒ;b0NÍà8ƒðà3Ð#V‚°["puÁà X©ð©c§¢Àâ×ðLx¡Q,Èå5 CL%ØÇëà	p9€ L'Øð àR‡dk)Ejª„a‘¤,ü¤06X,Rå9Ã"¤$uXOê÷àžÖ˜ÝÔx,Þa•@',Ô
-¾k ¢Xjr™@°NtE¡d¤†ˆÈ˜`; }}²~Z“Õ	©ra‘)ÙEJµƒÃ"Tø‹I	’÷+òŸÓ!ÌëFØX`-1!©°\ƒ`A0ð€Ì0 VwŠ°€ÄØÀànt ž³ñ`_kR,JEê©…°HTß‹“šän*0»Mä€š”ç@‹ÔÅ°H©Ê‘ªÝa)¥Ã"©çÂ?Ä£iRê)ÆX¤UnGæº»öð°AXhL`:Bcðy,V@»x @Áë”\-øOêEEHÉæ°‹Tu°H)Æê6§iR¬RÃ—¤(ÒH]î°‹í°HÔï‹‘êáa©M°H©Ð üh‹Â5TÜ±‚Ö ð¬Øpà€	Nx (gº‘=)‘‡©Êå6l£>X“bI‘¢Üa©¾X¤üT‹m÷G°à!0°©`o€üA[AðèDa£20àsAèƒÖ±T6¸£ØU†9P‚49ˆ~0?¸`´ÜLf`ßUSÅn?‚¨@R†"i¬Q€TV>{!_7<à&h&ÐÊ€¨Ñ˜¡A#î	á¨ÀÁ&	8Pà„¡.@†°Èdv@€íaCEMpØ@'ÜÃ„%µŸ¿–ƒHt í6e(ÿm{\‡Ë×`:nÁP’ûéÀæb:€têƒÖ±T:/‚Ê`ÂƒªÎ/´/¥	 «”ž`.‚½þ0ä@Ë˜6|ÀAcÂ0êºîØ`%4íªàpt Ö£&>Áè
-<DÌ“šŒÔŠw‡EWGé ØAÀö1®ñƒÜÀ‚À„Ÿòþc«‰S¨eè`NUÄ/øåÀòÁÏôúé@Õ««X°(6PƒÄ¦°óÚ¼—†Rèà"àð÷AÛ8aš:F*¯.ò‚à‚HPa0‡$ ÙcüFŸ@nCø&À2Ì6ÁŸgàŠ D°Ü‚°A]y$p(AÀ0ƒÃ1Pè`Ž@d“Xf€›ApàÁg J¬(Ä`-¶$Eàê‚È#	"`@†Á ÁbŽDe ˜d°Ág ô«Pˆ[]°A	J18Å p 2ƒÈ$3°Ì 8ƒðà3“Rpd©B"µØÂX¤©D ?)0EjÕ…°H©¼EÊŠ„a‘¤(`X‹Ô2a‘R‡1,E*)†°H©Å“žþ ãÒ¤E·Iä&52EÊa†°H©Ì"µ8ÃX¤”g‹‘ú a,R^BàÖ‚`A"n.X¼ 8‚ ”a`‰Á(°@tÇ"!°ãkX€-‰¸º`8‚ ”a`‰Á(°@tÇ 2ˆÉ@,ƒÀ 3ƒÍ8=ðx²×¼>ê‘À à0XÅª ¨bA!k°¸ pƒñàºOaümoÐ¸"sWhE?t(Á˜$¿Ir~~Ø\jSL‰pKt–—N•	®¬Mt¦È-Dï‘^¹]‹4×Ræ8Q¾´õ%4/q…!iDÆ	=)¶H)œ.J\‘Ô\•‹ î£Òxõ–Tÿ÷)u¯âVÃº/;*Z¯àþ`ÒLþî1¢5ª£`—…OŠŸ£\…ƒ*ÔÑ+¢RBxIX•F-Axøáhz kK4h ü½HôÿƒaÂkß^H‚†??­ö_`UE#@ªG¯õÿa5ªÂÈÖª_Õ’è¸«úbö!¬Ž¯]i`^¡+å«[PÔbkol`ýë1u­xza©¸ðÏZõ`œ¾QeGò4Dñ®ô£ŽDÀˆŒ?×I‡©laž9¾Ãþeh#¤,ŸµŠ8a¤Yóûëe½<Élwtj°,cúkrJ)%¶®|`##ðõ›eÓ]É±ë*Nµ®ya0¢ˆ?oZ
-]Õ»b0@,¶2!f³C›Ó4¥j5¯hPíö<å “êV	–_Ïýañÿ/ë Po+U`ïúÉµ”‘µ£8¾½`¸Èvmú%U”8ÝÐŠÞ•c–»¦¿ª1mõ§)µõ2ÁR¾l½+Õõ/£“.gÍëj(5Ñ¹ÞtŒ´»Ú¤í\”Úõkmä
-o…3:aÕgõ-WÞ1²ñß>rþU¸$W©¶'Ñ15ˆ4Ÿ^#†ñÑ‘©FiùtñFï0£ÁúÓü’_˜£-%lùrIˆïZóšKbìRŒ—â«'z‰.½ÀWæ.ƒ·H£Ü\aº“ŽO¸½Á$ÑÕ«D£MC‡ŒõsìgÍŒsc’ãÆÛ{Ÿ%Ç,Õ3%QÈîâ‰èñË)Çøû)Léè?MöëõjÊáÉU2£§‡ÿK´ò'=±'tDŸ˜ ¿ì%/A	uK[‚Ä Ø‘–³%AŒ,]	J‚ÐÄU¨• §,%)A	EJO‚Ä x‘“›$AÌ&-	I‚PÄIH’ ½ökU‹#5Xÿ6)KhÕ_©í2%RYÓQ
-C$IŒ‘ÄHN	¢¤%F-õ$é’ˆˆˆˆü‰ €                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
