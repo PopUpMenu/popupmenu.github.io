@@ -1,18 +1,18 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741246886636">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741274666872">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_popup.css" crc="3903088856" ref="de:sv:tr:pl:ru:pt:es:fr:it:en"/>
+    <file name="master_popup.css" crc="4116533486" ref="de:sv:tr:pl:ru:pt:es:fr:it:en"/>
     <file name="nomq_preview_master_popup.css" crc="3824530138" ref="de:sv:tr:pl:ru:pt:es:fr:it:en"/>
     <file name="master_index.css" crc="21118511" ref="index"/>
     <file name="nomq_preview_master_index.css" crc="4122000399" ref="index"/>
     <file name="sv_chrome_reichelt.css" crc="502092229" ref="sv_chrome_reichelt"/>
     <file name="nomq_sv_chrome_reichelt.css" crc="4087069065" ref="sv_chrome_reichelt"/>
-    <file name="de_pum_chrome.css" crc="62750014" ref="de_pum_chrome"/>
+    <file name="de_pum_chrome.css" crc="238394866" ref="de_pum_chrome"/>
     <file name="it_chrome_ipcgames.css" crc="467078295" ref="it_chrome_ipcgames"/>
     <file name="nomq_it_chrome_ipcgames.css" crc="397402304" ref="it_chrome_ipcgames"/>
     <file name="tr_chrome_web-air.css" crc="4051597840" ref="tr_chrome_web-air"/>
     <file name="nomq_tr_chrome_web-air.css" crc="62328075" ref="tr_chrome_web-air"/>
-    <file name="de_pum_photoshop.css" crc="4255902248" ref="de_pum_photoshop"/>
+    <file name="de_pum_photoshop.css" crc="3986686490" ref="de_pum_photoshop"/>
     <file name="sv_desktop_photoshop.css" crc="3794076427" ref="sv_desktop_photoshop"/>
     <file name="nomq_sv_desktop_photoshop.css" crc="448598405" ref="sv_desktop_photoshop"/>
     <file name="de_chrome_reichelt.css" crc="83100984" ref="de_chrome_reichelt"/>
@@ -41,14 +41,14 @@
     <file name="nomq_ru_photoshop_colorrange.css" crc="3821948138" ref="ru_photoshop_colorrange"/>
     <file name="it_desktop_dreamweaver.css" crc="375545163" ref="it_desktop_dreamweaver"/>
     <file name="nomq_it_desktop_dreamweaver.css" crc="4217910001" ref="it_desktop_dreamweaver"/>
-    <file name="en_pum_desktop.css" crc="4215672154" ref="en_pum_desktop"/>
+    <file name="en_pum_desktop.css" crc="4099671049" ref="en_pum_desktop"/>
     <file name="de_word_address.css" crc="360746019" ref="de_word_address"/>
     <file name="nomq_de_word_address.css" crc="3876541087" ref="de_word_address"/>
     <file name="sv_desktop_foldermusic.css" crc="502539122" ref="sv_desktop_foldermusic"/>
     <file name="nomq_sv_desktop_foldermusic.css" crc="9307717" ref="sv_desktop_foldermusic"/>
     <file name="ru_photoshop_canvassize.css" crc="79861069" ref="ru_photoshop_canvassize"/>
     <file name="nomq_ru_photoshop_canvassize.css" crc="256645676" ref="ru_photoshop_canvassize"/>
-    <file name="en_pum_word.css" crc="3880510856" ref="en_pum_word"/>
+    <file name="en_pum_word.css" crc="4194342739" ref="en_pum_word"/>
     <file name="tr_word_file2.css" crc="3936512588" ref="tr_word_file2"/>
     <file name="nomq_tr_word_file2.css" crc="3811464376" ref="tr_word_file2"/>
     <file name="sv_desktop_folderdownloads.css" crc="3937506027" ref="sv_desktop_folderdownloads"/>
@@ -61,49 +61,49 @@
     <file name="nomq_sv_chrome_oceanofgames.css" crc="4114661673" ref="sv_chrome_oceanofgames"/>
     <file name="it_desktop_foldermusic.css" crc="3885615338" ref="it_desktop_foldermusic"/>
     <file name="nomq_it_desktop_foldermusic.css" crc="249786730" ref="it_desktop_foldermusic"/>
-    <file name="en_pum_chrome.css" crc="1404475" ref="en_pum_chrome"/>
+    <file name="en_pum_chrome.css" crc="420128762" ref="en_pum_chrome"/>
     <file name="tr_word_email.css" crc="4265351900" ref="tr_word_email"/>
     <file name="nomq_tr_word_email.css" crc="4224161071" ref="tr_word_email"/>
     <file name="ru_photoshop_exportas.css" crc="3970842704" ref="ru_photoshop_exportas"/>
     <file name="nomq_ru_photoshop_exportas.css" crc="29470485" ref="ru_photoshop_exportas"/>
     <file name="ru_word_folderdocuments.css" crc="425293976" ref="ru_word_folderdocuments"/>
     <file name="nomq_ru_word_folderdocuments.css" crc="4274936136" ref="ru_word_folderdocuments"/>
-    <file name="es_pum_chrome.css" crc="462929487" ref="es_pum_chrome"/>
+    <file name="es_pum_chrome.css" crc="3765711019" ref="es_pum_chrome"/>
     <file name="tr_photoshop_canvassize.css" crc="3900022011" ref="tr_photoshop_canvassize"/>
     <file name="nomq_tr_photoshop_canvassize.css" crc="4291263804" ref="tr_photoshop_canvassize"/>
     <file name="ru_photoshop_imagesize.css" crc="110641164" ref="ru_photoshop_imagesize"/>
     <file name="nomq_ru_photoshop_imagesize.css" crc="4260649941" ref="ru_photoshop_imagesize"/>
     <file name="it_desktop_folderpictures.css" crc="90724117" ref="it_desktop_folderpictures"/>
     <file name="nomq_it_desktop_folderpictures.css" crc="4203275835" ref="it_desktop_folderpictures"/>
-    <file name="en_pum_photoshop.css" crc="12182622" ref="en_pum_photoshop"/>
+    <file name="en_pum_photoshop.css" crc="4011372632" ref="en_pum_photoshop"/>
     <file name="sv_desktop_whatsapp.css" crc="4203358647" ref="sv_desktop_whatsapp"/>
     <file name="nomq_sv_desktop_whatsapp.css" crc="3812607011" ref="sv_desktop_whatsapp"/>
     <file name="tr_desktop_foldermusic.css" crc="282629754" ref="tr_desktop_foldermusic"/>
     <file name="nomq_tr_desktop_foldermusic.css" crc="359967287" ref="tr_desktop_foldermusic"/>
     <file name="fr_photoshop_exportas.css" crc="4209700274" ref="fr_photoshop_exportas"/>
     <file name="nomq_fr_photoshop_exportas.css" crc="262985786" ref="fr_photoshop_exportas"/>
-    <file name="es_pum_desktop.css" crc="3857401232" ref="es_pum_desktop"/>
+    <file name="es_pum_desktop.css" crc="38226005" ref="es_pum_desktop"/>
     <file name="tr_word_file1.css" crc="4257246231" ref="tr_word_file1"/>
     <file name="nomq_tr_word_file1.css" crc="3949999913" ref="tr_word_file1"/>
     <file name="ru_photoshop_adjustbw.css" crc="3853868830" ref="ru_photoshop_adjustbw"/>
     <file name="nomq_ru_photoshop_adjustbw.css" crc="4229205791" ref="ru_photoshop_adjustbw"/>
     <file name="it_desktop_folderdownloads.css" crc="38472172" ref="it_desktop_folderdownloads"/>
     <file name="nomq_it_desktop_folderdownloads.css" crc="4122702491" ref="it_desktop_folderdownloads"/>
-    <file name="fr_pum_desktop.css" crc="4129237847" ref="fr_pum_desktop"/>
+    <file name="fr_pum_desktop.css" crc="497350038" ref="fr_pum_desktop"/>
     <file name="sv_chrome_ipcgames.css" crc="4141244935" ref="sv_chrome_ipcgames"/>
     <file name="nomq_sv_chrome_ipcgames.css" crc="4157409985" ref="sv_chrome_ipcgames"/>
     <file name="ru_photoshop_folderpictures.css" crc="442250027" ref="ru_photoshop_folderpictures"/>
     <file name="nomq_ru_photoshop_folderpictures.css" crc="3769285412" ref="ru_photoshop_folderpictures"/>
     <file name="fr_photoshop_colorrange.css" crc="426904929" ref="fr_photoshop_colorrange"/>
     <file name="nomq_fr_photoshop_colorrange.css" crc="323837878" ref="fr_photoshop_colorrange"/>
-    <file name="es_pum_word.css" crc="4259780102" ref="es_pum_word"/>
+    <file name="es_pum_word.css" crc="4241078230" ref="es_pum_word"/>
     <file name="tr_desktop_folderpictures.css" crc="4225858045" ref="tr_desktop_folderpictures"/>
     <file name="nomq_tr_desktop_folderpictures.css" crc="49930943" ref="tr_desktop_folderpictures"/>
     <file name="ru_word_file1.css" crc="3875019513" ref="ru_word_file1"/>
     <file name="nomq_ru_word_file1.css" crc="88933137" ref="ru_word_file1"/>
     <file name="fr_photoshop_adjustbw.css" crc="141221664" ref="fr_photoshop_adjustbw"/>
     <file name="nomq_fr_photoshop_adjustbw.css" crc="25091764" ref="fr_photoshop_adjustbw"/>
-    <file name="es_pum_photoshop.css" crc="494391625" ref="es_pum_photoshop"/>
+    <file name="es_pum_photoshop.css" crc="4219234248" ref="es_pum_photoshop"/>
     <file name="tr_desktop_folderdownloads.css" crc="109131687" ref="tr_desktop_folderdownloads"/>
     <file name="nomq_tr_desktop_folderdownloads.css" crc="346633242" ref="tr_desktop_folderdownloads"/>
     <file name="fr_photoshop_imagesize.css" crc="263350240" ref="fr_photoshop_imagesize"/>
@@ -114,12 +114,12 @@
     <file name="nomq_ru_word_file2.css" crc="448847195" ref="ru_word_file2"/>
     <file name="fr_photoshop_canvassize.css" crc="3997761886" ref="fr_photoshop_canvassize"/>
     <file name="nomq_fr_photoshop_canvassize.css" crc="297915066" ref="fr_photoshop_canvassize"/>
-    <file name="fr_pum_chrome.css" crc="3760413094" ref="fr_pum_chrome"/>
+    <file name="fr_pum_chrome.css" crc="396627455" ref="fr_pum_chrome"/>
     <file name="tr_chrome_reichelt.css" crc="4086279825" ref="tr_chrome_reichelt"/>
     <file name="nomq_tr_chrome_reichelt.css" crc="33604734" ref="tr_chrome_reichelt"/>
     <file name="ru_word_email.css" crc="3858869874" ref="ru_word_email"/>
     <file name="nomq_ru_word_email.css" crc="4046338632" ref="ru_word_email"/>
-    <file name="fr_pum_word.css" crc="4020892518" ref="fr_pum_word"/>
+    <file name="fr_pum_word.css" crc="4267650901" ref="fr_pum_word"/>
     <file name="tr_photoshop_adjustbw.css" crc="433390200" ref="tr_photoshop_adjustbw"/>
     <file name="nomq_tr_photoshop_adjustbw.css" crc="3992786130" ref="tr_photoshop_adjustbw"/>
     <file name="ru_word_address.css" crc="4284895061" ref="ru_word_address"/>
@@ -148,56 +148,56 @@
     <file name="nomq_ru_chrome_web-air.css" crc="170494478" ref="ru_chrome_web-air"/>
     <file name="ru_chrome_ipcgames.css" crc="4047050184" ref="ru_chrome_ipcgames"/>
     <file name="nomq_ru_chrome_ipcgames.css" crc="3991019868" ref="ru_chrome_ipcgames"/>
-    <file name="it_pum_word.css" crc="42063957" ref="it_pum_word"/>
+    <file name="it_pum_word.css" crc="3873508040" ref="it_pum_word"/>
     <file name="tr_photoshop_colorrange.css" crc="321316127" ref="tr_photoshop_colorrange"/>
     <file name="nomq_tr_photoshop_colorrange.css" crc="4215272714" ref="tr_photoshop_colorrange"/>
     <file name="sv_photoshop_exportas.css" crc="295905961" ref="sv_photoshop_exportas"/>
     <file name="nomq_sv_photoshop_exportas.css" crc="3958497272" ref="sv_photoshop_exportas"/>
     <file name="ru_chrome_oceanofgames.css" crc="404724913" ref="ru_chrome_oceanofgames"/>
     <file name="nomq_ru_chrome_oceanofgames.css" crc="4243252263" ref="ru_chrome_oceanofgames"/>
-    <file name="it_pum_desktop.css" crc="3863857098" ref="it_pum_desktop"/>
+    <file name="it_pum_desktop.css" crc="3905509283" ref="it_pum_desktop"/>
     <file name="photoshop_de.css" crc="3887735993" ref="photoshop_de"/>
     <file name="nomq_photoshop_de.css" crc="360510908" ref="photoshop_de"/>
     <file name="tr_desktop_whatsapp.css" crc="449787443" ref="tr_desktop_whatsapp"/>
     <file name="nomq_tr_desktop_whatsapp.css" crc="303652102" ref="tr_desktop_whatsapp"/>
     <file name="fr_chrome_reichelt.css" crc="239567528" ref="fr_chrome_reichelt"/>
     <file name="nomq_fr_chrome_reichelt.css" crc="295906282" ref="fr_chrome_reichelt"/>
-    <file name="pt_pum_chrome.css" crc="4223040059" ref="pt_pum_chrome"/>
+    <file name="pt_pum_chrome.css" crc="3926213811" ref="pt_pum_chrome"/>
     <file name="photoshop_en.css" crc="511098179" ref="photoshop_en"/>
     <file name="nomq_photoshop_en.css" crc="4165736233" ref="photoshop_en"/>
     <file name="sv_photoshop_canvassize.css" crc="224000779" ref="sv_photoshop_canvassize"/>
     <file name="nomq_sv_photoshop_canvassize.css" crc="177916873" ref="sv_photoshop_canvassize"/>
     <file name="fr_chrome_folderdownloads.css" crc="3792315605" ref="fr_chrome_folderdownloads"/>
     <file name="nomq_fr_chrome_folderdownloads.css" crc="242304535" ref="fr_chrome_folderdownloads"/>
-    <file name="pl_pum_chrome.css" crc="507194626" ref="pl_pum_chrome"/>
+    <file name="pl_pum_chrome.css" crc="493525509" ref="pl_pum_chrome"/>
     <file name="tr_photoshop_imagesize.css" crc="4172487410" ref="tr_photoshop_imagesize"/>
     <file name="nomq_tr_photoshop_imagesize.css" crc="3773576704" ref="tr_photoshop_imagesize"/>
     <file name="ru_chrome_midnightitsalmost.css" crc="4220091262" ref="ru_chrome_midnightitsalmost"/>
     <file name="nomq_ru_chrome_midnightitsalmost.css" crc="4130464342" ref="ru_chrome_midnightitsalmost"/>
-    <file name="it_pum_chrome.css" crc="34355912" ref="it_pum_chrome"/>
-    <file name="it_pum_photoshop.css" crc="4150403218" ref="it_pum_photoshop"/>
+    <file name="it_pum_chrome.css" crc="4113092853" ref="it_pum_chrome"/>
+    <file name="it_pum_photoshop.css" crc="3812668592" ref="it_pum_photoshop"/>
     <file name="tr_chrome_getintopc.css" crc="134642542" ref="tr_chrome_getintopc"/>
     <file name="nomq_tr_chrome_getintopc.css" crc="3806158814" ref="tr_chrome_getintopc"/>
     <file name="ru_desktop_acad.css" crc="4106869163" ref="ru_desktop_acad"/>
     <file name="nomq_ru_desktop_acad.css" crc="14088203" ref="ru_desktop_acad"/>
     <file name="fr_chrome_ipcgames.css" crc="4242769871" ref="fr_chrome_ipcgames"/>
     <file name="nomq_fr_chrome_ipcgames.css" crc="391416118" ref="fr_chrome_ipcgames"/>
-    <file name="pl_pum_desktop.css" crc="4058164074" ref="pl_pum_desktop"/>
+    <file name="pl_pum_desktop.css" crc="3907899170" ref="pl_pum_desktop"/>
     <file name="fr_chrome_web-air.css" crc="3799940718" ref="fr_chrome_web-air"/>
     <file name="nomq_fr_chrome_web-air.css" crc="445667161" ref="fr_chrome_web-air"/>
     <file name="fr_chrome_oceanofgames.css" crc="189264658" ref="fr_chrome_oceanofgames"/>
     <file name="nomq_fr_chrome_oceanofgames.css" crc="3893125844" ref="fr_chrome_oceanofgames"/>
-    <file name="pt_pum_desktop.css" crc="3931934012" ref="pt_pum_desktop"/>
+    <file name="pt_pum_desktop.css" crc="417773683" ref="pt_pum_desktop"/>
     <file name="ru_chrome_getintopc.css" crc="3972881907" ref="ru_chrome_getintopc"/>
     <file name="nomq_ru_chrome_getintopc.css" crc="319139267" ref="ru_chrome_getintopc"/>
     <file name="fr_chrome_midnightitsalmost.css" crc="64205414" ref="fr_chrome_midnightitsalmost"/>
     <file name="nomq_fr_chrome_midnightitsalmost.css" crc="3763554209" ref="fr_chrome_midnightitsalmost"/>
-    <file name="pl_pum_word.css" crc="4162605082" ref="pl_pum_word"/>
+    <file name="pl_pum_word.css" crc="417299229" ref="pl_pum_word"/>
     <file name="ru_desktop_whatsapp.css" crc="3880526864" ref="ru_desktop_whatsapp"/>
     <file name="nomq_ru_desktop_whatsapp.css" crc="282026355" ref="ru_desktop_whatsapp"/>
     <file name="fr_desktop_acad.css" crc="4293585720" ref="fr_desktop_acad"/>
     <file name="nomq_fr_desktop_acad.css" crc="4173054162" ref="fr_desktop_acad"/>
-    <file name="pl_pum_photoshop.css" crc="4109822187" ref="pl_pum_photoshop"/>
+    <file name="pl_pum_photoshop.css" crc="3813208944" ref="pl_pum_photoshop"/>
     <file name="ru_desktop_photoshop.css" crc="373029038" ref="ru_desktop_photoshop"/>
     <file name="nomq_ru_desktop_photoshop.css" crc="4105972158" ref="ru_desktop_photoshop"/>
     <file name="fr_chrome_getintopc.css" crc="168535555" ref="fr_chrome_getintopc"/>
@@ -220,7 +220,7 @@
     <file name="nomq_ru_desktop_foldermusic.css" crc="396531266" ref="ru_desktop_foldermusic"/>
     <file name="pt_photoshop_imagesize.css" crc="3990630518" ref="pt_photoshop_imagesize"/>
     <file name="nomq_pt_photoshop_imagesize.css" crc="4147339769" ref="pt_photoshop_imagesize"/>
-    <file name="fr_pum_photoshop.css" crc="4150363211" ref="fr_pum_photoshop"/>
+    <file name="fr_pum_photoshop.css" crc="114567554" ref="fr_pum_photoshop"/>
     <file name="tr_chrome_ipcgames.css" crc="157053506" ref="tr_chrome_ipcgames"/>
     <file name="nomq_tr_chrome_ipcgames.css" crc="132234819" ref="tr_chrome_ipcgames"/>
     <file name="tr_desktop_photoshop.css" crc="3843641593" ref="tr_desktop_photoshop"/>
@@ -271,7 +271,7 @@
     <file name="nomq_sv_word_folderdocuments.css" crc="112667008" ref="sv_word_folderdocuments"/>
     <file name="pt_word_folderdocuments.css" crc="3843955199" ref="pt_word_folderdocuments"/>
     <file name="nomq_pt_word_folderdocuments.css" crc="411229518" ref="pt_word_folderdocuments"/>
-    <file name="pt_pum_photoshop.css" crc="57502264" ref="pt_pum_photoshop"/>
+    <file name="pt_pum_photoshop.css" crc="381391512" ref="pt_pum_photoshop"/>
     <file name="sv_word_email.css" crc="4150393406" ref="sv_word_email"/>
     <file name="nomq_sv_word_email.css" crc="3932916245" ref="sv_word_email"/>
     <file name="es_photoshop_canvassize.css" crc="4120949516" ref="es_photoshop_canvassize"/>
@@ -288,27 +288,27 @@
     <file name="nomq_pt_word_email.css" crc="4221330098" ref="pt_word_email"/>
     <file name="pt_word_address.css" crc="4203046841" ref="pt_word_address"/>
     <file name="nomq_pt_word_address.css" crc="3950877679" ref="pt_word_address"/>
-    <file name="ru_pum_word.css" crc="120171522" ref="ru_pum_word"/>
+    <file name="ru_pum_word.css" crc="82704030" ref="ru_pum_word"/>
     <file name="pt_word_file1.css" crc="376841665" ref="pt_word_file1"/>
     <file name="nomq_pt_word_file1.css" crc="302409864" ref="pt_word_file1"/>
     <file name="pt_chrome_reichelt.css" crc="3871206393" ref="pt_chrome_reichelt"/>
     <file name="nomq_pt_chrome_reichelt.css" crc="452425347" ref="pt_chrome_reichelt"/>
-    <file name="ru_pum_desktop.css" crc="193237625" ref="ru_pum_desktop"/>
+    <file name="ru_pum_desktop.css" crc="78424629" ref="ru_pum_desktop"/>
     <file name="sv_word_address.css" crc="149087564" ref="sv_word_address"/>
     <file name="nomq_sv_word_address.css" crc="180353369" ref="sv_word_address"/>
     <file name="es_word_file2.css" crc="330389865" ref="es_word_file2"/>
     <file name="nomq_es_word_file2.css" crc="3932901457" ref="es_word_file2"/>
-    <file name="ru_pum_chrome.css" crc="3918650613" ref="ru_pum_chrome"/>
+    <file name="ru_pum_chrome.css" crc="4033746949" ref="ru_pum_chrome"/>
     <file name="sv_photoshop_imagesize.css" crc="4249584339" ref="sv_photoshop_imagesize"/>
     <file name="nomq_sv_photoshop_imagesize.css" crc="53318782" ref="sv_photoshop_imagesize"/>
     <file name="es_chrome_folderdownloads.css" crc="138550969" ref="es_chrome_folderdownloads"/>
     <file name="nomq_es_chrome_folderdownloads.css" crc="276059384" ref="es_chrome_folderdownloads"/>
-    <file name="sv_pum_desktop.css" crc="3873729051" ref="sv_pum_desktop"/>
+    <file name="sv_pum_desktop.css" crc="3951909670" ref="sv_pum_desktop"/>
     <file name="pt_chrome_folderdownloads.css" crc="452654166" ref="pt_chrome_folderdownloads"/>
     <file name="nomq_pt_chrome_folderdownloads.css" crc="4134823585" ref="pt_chrome_folderdownloads"/>
     <file name="es_word_address.css" crc="4248896336" ref="es_word_address"/>
     <file name="nomq_es_word_address.css" crc="86729775" ref="es_word_address"/>
-    <file name="ru_pum_photoshop.css" crc="19573041" ref="ru_pum_photoshop"/>
+    <file name="ru_pum_photoshop.css" crc="4107633778" ref="ru_pum_photoshop"/>
     <file name="pt_chrome_web-air.css" crc="3996175574" ref="pt_chrome_web-air"/>
     <file name="nomq_pt_chrome_web-air.css" crc="338550277" ref="pt_chrome_web-air"/>
     <file name="es_word_email.css" crc="3966677580" ref="es_word_email"/>
@@ -319,17 +319,17 @@
     <file name="nomq_pt_chrome_ipcgames.css" crc="16329636" ref="pt_chrome_ipcgames"/>
     <file name="es_chrome_oceanofgames.css" crc="129263931" ref="es_chrome_oceanofgames"/>
     <file name="nomq_es_chrome_oceanofgames.css" crc="514833050" ref="es_chrome_oceanofgames"/>
-    <file name="sv_pum_photoshop.css" crc="432014854" ref="sv_pum_photoshop"/>
+    <file name="sv_pum_photoshop.css" crc="42047672" ref="sv_pum_photoshop"/>
     <file name="pt_chrome_oceanofgames.css" crc="216225548" ref="pt_chrome_oceanofgames"/>
     <file name="nomq_pt_chrome_oceanofgames.css" crc="86317950" ref="pt_chrome_oceanofgames"/>
     <file name="pt_desktop_acad.css" crc="484868549" ref="pt_desktop_acad"/>
     <file name="nomq_pt_desktop_acad.css" crc="4289293902" ref="pt_desktop_acad"/>
-    <file name="sv_pum_chrome.css" crc="535775869" ref="sv_pum_chrome"/>
+    <file name="sv_pum_chrome.css" crc="3888861040" ref="sv_pum_chrome"/>
     <file name="pt_chrome_midnightitsalmost.css" crc="445856636" ref="pt_chrome_midnightitsalmost"/>
     <file name="nomq_pt_chrome_midnightitsalmost.css" crc="472649251" ref="pt_chrome_midnightitsalmost"/>
     <file name="es_chrome_reichelt.css" crc="499468476" ref="es_chrome_reichelt"/>
     <file name="nomq_es_chrome_reichelt.css" crc="4220738311" ref="es_chrome_reichelt"/>
-    <file name="sv_pum_word.css" crc="4086432243" ref="sv_pum_word"/>
+    <file name="sv_pum_word.css" crc="3787752731" ref="sv_pum_word"/>
     <file name="es_chrome_ipcgames.css" crc="338566108" ref="es_chrome_ipcgames"/>
     <file name="nomq_es_chrome_ipcgames.css" crc="4037157699" ref="es_chrome_ipcgames"/>
     <file name="es_chrome_getintopc.css" crc="4010666570" ref="es_chrome_getintopc"/>
@@ -338,26 +338,26 @@
     <file name="nomq_pt_chrome_getintopc.css" crc="4093594564" ref="pt_chrome_getintopc"/>
     <file name="es_chrome_midnightitsalmost.css" crc="3831688727" ref="es_chrome_midnightitsalmost"/>
     <file name="nomq_es_chrome_midnightitsalmost.css" crc="25509370" ref="es_chrome_midnightitsalmost"/>
-    <file name="tr_pum_photoshop.css" crc="4209547313" ref="tr_pum_photoshop"/>
+    <file name="tr_pum_photoshop.css" crc="4089054853" ref="tr_pum_photoshop"/>
     <file name="pt_desktop_chrome.css" crc="4215309927" ref="pt_desktop_chrome"/>
     <file name="nomq_pt_desktop_chrome.css" crc="502322922" ref="pt_desktop_chrome"/>
     <file name="pt_desktop_photoshop.css" crc="3856443314" ref="pt_desktop_photoshop"/>
     <file name="nomq_pt_desktop_photoshop.css" crc="528293122" ref="pt_desktop_photoshop"/>
-    <file name="tr_pum_chrome.css" crc="3840406511" ref="tr_pum_chrome"/>
+    <file name="tr_pum_chrome.css" crc="360497195" ref="tr_pum_chrome"/>
     <file name="pt_desktop_whatsapp.css" crc="3893076281" ref="pt_desktop_whatsapp"/>
     <file name="nomq_pt_desktop_whatsapp.css" crc="339544186" ref="pt_desktop_whatsapp"/>
     <file name="es_desktop_photoshop.css" crc="289140642" ref="es_desktop_photoshop"/>
     <file name="nomq_es_desktop_photoshop.css" crc="16009336" ref="es_desktop_photoshop"/>
-    <file name="de.css" crc="500188861" ref="de"/>
-    <file name="nomq_de.css" crc="330098636" ref="de"/>
+    <file name="de.css" crc="3837274337" ref="de"/>
+    <file name="nomq_de.css" crc="3955253589" ref="de"/>
     <file name="es_desktop_chrome.css" crc="392953509" ref="es_desktop_chrome"/>
     <file name="nomq_es_desktop_chrome.css" crc="423288083" ref="es_desktop_chrome"/>
-    <file name="tr_pum_word.css" crc="443035683" ref="tr_pum_word"/>
+    <file name="tr_pum_word.css" crc="4242803865" ref="tr_pum_word"/>
     <file name="pt_desktop_dreamweaver.css" crc="3910443641" ref="pt_desktop_dreamweaver"/>
     <file name="nomq_pt_desktop_dreamweaver.css" crc="217103769" ref="pt_desktop_dreamweaver"/>
     <file name="es_desktop_acad.css" crc="465661994" ref="es_desktop_acad"/>
     <file name="nomq_es_desktop_acad.css" crc="266911769" ref="es_desktop_acad"/>
-    <file name="tr_pum_desktop.css" crc="278491416" ref="tr_pum_desktop"/>
+    <file name="tr_pum_desktop.css" crc="188681592" ref="tr_pum_desktop"/>
     <file name="pt_desktop_folderdownloads.css" crc="322156900" ref="pt_desktop_folderdownloads"/>
     <file name="nomq_pt_desktop_folderdownloads.css" crc="4049542324" ref="pt_desktop_folderdownloads"/>
     <file name="es_desktop_folderpictures.css" crc="165870076" ref="es_desktop_folderpictures"/>
@@ -416,8 +416,8 @@
     <file name="nomq_pl_word_file1.css" crc="3970859487" ref="pl_word_file1"/>
     <file name="en_word_folderdocuments.css" crc="120292118" ref="en_word_folderdocuments"/>
     <file name="nomq_en_word_folderdocuments.css" crc="47716591" ref="en_word_folderdocuments"/>
-    <file name="sv.css" crc="3815752684" ref="sv"/>
-    <file name="nomq_sv.css" crc="3834095160" ref="sv"/>
+    <file name="sv.css" crc="453088797" ref="sv"/>
+    <file name="nomq_sv.css" crc="103042097" ref="sv"/>
     <file name="pl_word_folderdocuments.css" crc="38535466" ref="pl_word_folderdocuments"/>
     <file name="nomq_pl_word_folderdocuments.css" crc="329265510" ref="pl_word_folderdocuments"/>
     <file name="en_photoshop_adjustbw.css" crc="482825068" ref="en_photoshop_adjustbw"/>
@@ -428,32 +428,32 @@
     <file name="nomq_pl_word_file2.css" crc="44113137" ref="pl_word_file2"/>
     <file name="en_photoshop_folderpictures.css" crc="3953797385" ref="en_photoshop_folderpictures"/>
     <file name="nomq_en_photoshop_folderpictures.css" crc="3895334342" ref="en_photoshop_folderpictures"/>
-    <file name="tr.css" crc="401683912" ref="tr"/>
-    <file name="nomq_tr.css" crc="4292065480" ref="tr"/>
+    <file name="tr.css" crc="4128023845" ref="tr"/>
+    <file name="nomq_tr.css" crc="3992214710" ref="tr"/>
     <file name="pl_chrome_folderdownloads.css" crc="339484067" ref="pl_chrome_folderdownloads"/>
     <file name="nomq_pl_chrome_folderdownloads.css" crc="183279820" ref="pl_chrome_folderdownloads"/>
     <file name="pl_word_email.css" crc="3840044047" ref="pl_word_email"/>
     <file name="nomq_pl_word_email.css" crc="302894931" ref="pl_word_email"/>
-    <file name="pl.css" crc="4080970911" ref="pl"/>
-    <file name="nomq_pl.css" crc="3947799356" ref="pl"/>
+    <file name="pl.css" crc="328857445" ref="pl"/>
+    <file name="nomq_pl.css" crc="3836660599" ref="pl"/>
     <file name="pl_word_address.css" crc="57555468" ref="pl_word_address"/>
     <file name="nomq_pl_word_address.css" crc="118979443" ref="pl_word_address"/>
     <file name="en_word_file2.css" crc="470379814" ref="en_word_file2"/>
     <file name="nomq_en_word_file2.css" crc="4157975387" ref="en_word_file2"/>
-    <file name="ru.css" crc="148712450" ref="ru"/>
-    <file name="nomq_ru.css" crc="4014166403" ref="ru"/>
+    <file name="ru.css" crc="481272424" ref="ru"/>
+    <file name="nomq_ru.css" crc="4008582422" ref="ru"/>
     <file name="sv_chrome_folderdownloads.css" crc="3784684020" ref="sv_chrome_folderdownloads"/>
     <file name="nomq_sv_chrome_folderdownloads.css" crc="4215126589" ref="sv_chrome_folderdownloads"/>
     <file name="en_word_file1.css" crc="3794170846" ref="en_word_file1"/>
     <file name="nomq_en_word_file1.css" crc="3767936413" ref="en_word_file1"/>
-    <file name="pt.css" crc="4225666109" ref="pt"/>
-    <file name="nomq_pt.css" crc="44250013" ref="pt"/>
+    <file name="pt.css" crc="3787357782" ref="pt"/>
+    <file name="nomq_pt.css" crc="16469928" ref="pt"/>
     <file name="pl_chrome_oceanofgames.css" crc="4140930310" ref="pl_chrome_oceanofgames"/>
     <file name="nomq_pl_chrome_oceanofgames.css" crc="232197286" ref="pl_chrome_oceanofgames"/>
     <file name="en_word_email.css" crc="4266745204" ref="en_word_email"/>
     <file name="nomq_en_word_email.css" crc="114034117" ref="en_word_email"/>
-    <file name="es.css" crc="4025802237" ref="es"/>
-    <file name="nomq_es.css" crc="3843430428" ref="es"/>
+    <file name="es.css" crc="4074291154" ref="es"/>
+    <file name="nomq_es.css" crc="512204726" ref="es"/>
     <file name="pl_chrome_web-air.css" crc="4261589732" ref="pl_chrome_web-air"/>
     <file name="nomq_pl_chrome_web-air.css" crc="3817835575" ref="pl_chrome_web-air"/>
     <file name="pl_chrome_getintopc.css" crc="533102920" ref="pl_chrome_getintopc"/>
@@ -464,20 +464,20 @@
     <file name="nomq_pl_chrome_reichelt.css" crc="4192962120" ref="pl_chrome_reichelt"/>
     <file name="en_word_address.css" crc="36866700" ref="en_word_address"/>
     <file name="nomq_en_word_address.css" crc="524239434" ref="en_word_address"/>
-    <file name="fr.css" crc="403566539" ref="fr"/>
-    <file name="nomq_fr.css" crc="4208833005" ref="fr"/>
+    <file name="fr.css" crc="3796317695" ref="fr"/>
+    <file name="nomq_fr.css" crc="73867447" ref="fr"/>
     <file name="sv_chrome_web-air.css" crc="3938134950" ref="sv_chrome_web-air"/>
     <file name="nomq_sv_chrome_web-air.css" crc="205157546" ref="sv_chrome_web-air"/>
-    <file name="it.css" crc="264931723" ref="it"/>
-    <file name="nomq_it.css" crc="328787200" ref="it"/>
+    <file name="it.css" crc="4054721515" ref="it"/>
+    <file name="nomq_it.css" crc="453450852" ref="it"/>
     <file name="de_chrome_oceanofgames.css" crc="4261157873" ref="de_chrome_oceanofgames"/>
     <file name="nomq_de_chrome_oceanofgames.css" crc="4272704064" ref="de_chrome_oceanofgames"/>
     <file name="pl_chrome_midnightitsalmost.css" crc="3941436748" ref="pl_chrome_midnightitsalmost"/>
     <file name="nomq_pl_chrome_midnightitsalmost.css" crc="4058234498" ref="pl_chrome_midnightitsalmost"/>
     <file name="en_chrome_folderdownloads.css" crc="339276470" ref="en_chrome_folderdownloads"/>
     <file name="nomq_en_chrome_folderdownloads.css" crc="3956116805" ref="en_chrome_folderdownloads"/>
-    <file name="en.css" crc="315364022" ref="en"/>
-    <file name="nomq_en.css" crc="3848156430" ref="en"/>
+    <file name="en.css" crc="23358174" ref="en"/>
+    <file name="nomq_en.css" crc="3976474105" ref="en"/>
     <file name="pl_chrome_ipcgames.css" crc="406640396" ref="pl_chrome_ipcgames"/>
     <file name="nomq_pl_chrome_ipcgames.css" crc="3822621064" ref="pl_chrome_ipcgames"/>
     <file name="en_chrome_web-air.css" crc="291789901" ref="en_chrome_web-air"/>
@@ -572,7 +572,7 @@
     <file name="nomq_it_photoshop_folderpictures.css" crc="4201379770" ref="it_photoshop_folderpictures"/>
     <file name="de_photoshop_colorrange.css" crc="4171778167" ref="de_photoshop_colorrange"/>
     <file name="nomq_de_photoshop_colorrange.css" crc="121634916" ref="de_photoshop_colorrange"/>
-    <file name="pt_pum_word.css" crc="3820830590" ref="pt_pum_word"/>
+    <file name="pt_pum_word.css" crc="4210898912" ref="pt_pum_word"/>
     <file name="it_word_address.css" crc="3828564688" ref="it_word_address"/>
     <file name="nomq_it_word_address.css" crc="4178509940" ref="it_word_address"/>
     <file name="it_word_file1.css" crc="3844040547" ref="it_word_file1"/>
@@ -589,7 +589,7 @@
     <file name="nomq_sv_chrome_getintopc.css" crc="92136752" ref="sv_chrome_getintopc"/>
     <file name="de_photoshop_canvassize.css" crc="430968503" ref="de_photoshop_canvassize"/>
     <file name="nomq_de_photoshop_canvassize.css" crc="114398120" ref="de_photoshop_canvassize"/>
-    <file name="de_pum_desktop.css" crc="236696525" ref="de_pum_desktop"/>
+    <file name="de_pum_desktop.css" crc="4121500572" ref="de_pum_desktop"/>
     <file name="it_chrome_web-air.css" crc="68961517" ref="it_chrome_web-air"/>
     <file name="nomq_it_chrome_web-air.css" crc="329754331" ref="it_chrome_web-air"/>
     <file name="it_chrome_folderdownloads.css" crc="233618430" ref="it_chrome_folderdownloads"/>
@@ -606,7 +606,7 @@
     <file name="nomq_tr_chrome_oceanofgames.css" crc="221386298" ref="tr_chrome_oceanofgames"/>
     <file name="de_word_file2.css" crc="3781895952" ref="de_word_file2"/>
     <file name="nomq_de_word_file2.css" crc="3869163859" ref="de_word_file2"/>
-    <file name="de_pum_word.css" crc="36568701" ref="de_pum_word"/>
+    <file name="de_pum_word.css" crc="3920467506" ref="de_pum_word"/>
     <file name="it_chrome_midnightitsalmost.css" crc="51556534" ref="it_chrome_midnightitsalmost"/>
     <file name="nomq_it_chrome_midnightitsalmost.css" crc="505018771" ref="it_chrome_midnightitsalmost"/>
     <file name="de_word_email.css" crc="382239537" ref="de_word_email"/>
@@ -637,114 +637,22 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -757,6 +665,98 @@
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
     </file>
     <file name="flag_s_de-u135494-m-fr.jpg" crc="4003214235" ref="en:es:fr:it:pl:pt:ru:sv:tr:de"/>
     <file name="flag_r_en.jpg" crc="404591671" ref="es:fr:it:pl:pt:ru:sv:tr:de">
@@ -768,14 +768,6 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
@@ -792,38 +784,6 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -832,6 +792,46 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -977,9 +977,6 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_desktop_folderdownloads:en_desktop_foldermusic:en_desktop_folderpictures:en_desktop_whatsapp:en_desktop_dreamweaver:en_desktop_photoshop:en_desktop_acad:en_desktop_chrome:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de"/>
     <file name="tr_pum_desktop-favicon.ico" crc="4182333245" ref="tr_pum_desktop"/>
-    <file name="pum_desktop.png" crc="4190827139" ref="tr_pum_desktop:sv_pum_desktop:ru_pum_desktop:pt_pum_desktop:pl_pum_desktop:it_pum_desktop:fr_pum_desktop:es_pum_desktop:en_pum_desktop:de_pum_desktop">
-      <caption webpage="tr_pum_desktop" alt=""/>
-    </file>
     <file name="tr_tooltip_folder.png" crc="492482945" ref="tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop">
       <caption webpage="tr_pum_desktop" alt=""/>
     </file>
@@ -990,9 +987,6 @@
       <caption webpage="tr_pum_desktop" alt=""/>
     </file>
     <file name="tr_pum_word-favicon.ico" crc="4182333245" ref="tr_pum_word"/>
-    <file name="pum_word.png" crc="168360161" ref="tr_pum_word:sv_pum_word:ru_pum_word:pt_pum_word:pl_pum_word:it_pum_word:fr_pum_word:es_pum_word:en_pum_word:de_pum_word">
-      <caption webpage="tr_pum_word" alt=""/>
-    </file>
     <file name="common_tooltip_email.png" crc="4023202901" ref="tr_pum_word:sv_pum_word:ru_pum_word:pt_pum_word:pl_pum_word:it_pum_word:fr_pum_word:es_pum_word:en_pum_word:de_pum_word">
       <caption webpage="tr_pum_word" alt=""/>
     </file>
@@ -1003,16 +997,10 @@
       <caption webpage="tr_pum_word" alt=""/>
     </file>
     <file name="tr_pum_chrome-favicon.ico" crc="4182333245" ref="tr_pum_chrome"/>
-    <file name="pum_chrome.png" crc="4169434715" ref="tr_pum_chrome:sv_pum_chrome:ru_pum_chrome:pt_pum_chrome:pl_pum_chrome:it_pum_chrome:fr_pum_chrome:es_pum_chrome:en_pum_chrome:de_pum_chrome">
-      <caption webpage="tr_pum_chrome" alt=""/>
-    </file>
     <file name="common_tooltip_http.png" crc="4207436826" ref="tr_pum_chrome:sv_pum_chrome:ru_pum_chrome:pt_pum_chrome:pl_pum_chrome:it_pum_chrome:fr_pum_chrome:es_pum_chrome:en_pum_chrome:de_pum_chrome">
       <caption webpage="tr_pum_chrome" alt=""/>
     </file>
     <file name="tr_pum_photoshop-favicon.ico" crc="4182333245" ref="tr_pum_photoshop"/>
-    <file name="pum_photoshop_en.png" crc="4272164008" ref="tr_pum_photoshop:sv_pum_photoshop:ru_pum_photoshop:pt_pum_photoshop:pl_pum_photoshop:it_pum_photoshop:fr_pum_photoshop:es_pum_photoshop:en_pum_photoshop">
-      <caption webpage="tr_pum_photoshop" alt=""/>
-    </file>
     <file name="tr_tooltip_menu.png" crc="4016864308" ref="tr_pum_photoshop">
       <caption webpage="tr_pum_photoshop" alt=""/>
     </file>
@@ -1169,9 +1157,6 @@
     <file name="en_pum_chrome-favicon.ico" crc="4182333245" ref="en_pum_chrome"/>
     <file name="en_pum_desktop-favicon.ico" crc="4182333245" ref="en_pum_desktop"/>
     <file name="de_pum_photoshop-favicon.ico" crc="4182333245" ref="de_pum_photoshop"/>
-    <file name="pum_photoshop_de.png" crc="4177589107" ref="de_pum_photoshop">
-      <caption webpage="de_pum_photoshop" alt=""/>
-    </file>
     <file name="de_tooltip_folder.png" crc="252034236" ref="de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop">
       <caption webpage="de_pum_photoshop" alt=""/>
     </file>
@@ -2507,14 +2492,6 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
@@ -2531,38 +2508,6 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
@@ -2571,6 +2516,46 @@
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
       <caption webpage="ru" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -2591,86 +2576,22 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -2679,34 +2600,98 @@
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
     </file>
     <file name="flag_n_it-u135498-fr.jpg" crc="258549469" ref="en:es:fr:pl:pt:ru:sv:tr:de"/>
     <file name="flag_r_it-u135498-r-fr.jpg" crc="162464040" ref="en:es:fr:pl:pt:ru:sv:tr:de"/>
@@ -2732,98 +2717,94 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
-      <caption webpage="es" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
       <caption webpage="photoshop_de" alt=""/>
       <caption webpage="photoshop_de" alt=""/>
       <caption webpage="photoshop_de" alt=""/>
       <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
+      <caption webpage="es" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
       <caption webpage="pl_download" alt=""/>
       <caption webpage="pl_download" alt=""/>
       <caption webpage="pl_download" alt=""/>
       <caption webpage="pl_download" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
@@ -2832,6 +2813,14 @@
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -2844,10 +2833,6 @@
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
     </file>
     <file name="en_javascript.jpg" crc="503123527" ref="en">
       <caption webpage="en" alt=""/>
@@ -2916,14 +2901,6 @@
       <caption webpage="fr" alt="Démonstration interactive Windows, Menu Pop Up"/>
       <caption webpage="fr" alt="Démonstration interactive Windows, Menu Pop Up"/>
       <caption webpage="fr" alt="Démonstration interactive Windows, Menu Pop Up"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
       <caption webpage="it" alt="dimostrazione interattiva delle finestre, menu pop-up"/>
       <caption webpage="it" alt="dimostrazione interattiva delle finestre, menu pop-up"/>
       <caption webpage="it" alt="dimostrazione interattiva delle finestre, menu pop-up"/>
@@ -2940,38 +2917,6 @@
       <caption webpage="sv" alt="windows Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="windows Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="windows Interaktiv demonstration, pop-up-meny"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
       <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
@@ -2980,6 +2925,46 @@
       <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
       <caption webpage="es" alt="Demostración Interactiva de Windows, Menú Pop Up"/>
       <caption webpage="es" alt="Demostración Interactiva de Windows, Menú Pop Up"/>
       <caption webpage="es" alt="Demostración Interactiva de Windows, Menú Pop Up"/>
@@ -2998,14 +2983,6 @@
       <caption webpage="fr" alt="navigateur internet Démonstration interactive, Menu pop up"/>
       <caption webpage="fr" alt="navigateur internet Démonstration interactive, Menu pop up"/>
       <caption webpage="fr" alt="navigateur internet Démonstration interactive, Menu pop up"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
       <caption webpage="it" alt="browser internet Dimostrazione interattiva, menu pop-up"/>
       <caption webpage="it" alt="browser internet Dimostrazione interattiva, menu pop-up"/>
       <caption webpage="it" alt="browser internet Dimostrazione interattiva, menu pop-up"/>
@@ -3022,38 +2999,6 @@
       <caption webpage="sv" alt="webbläsare Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="webbläsare Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="webbläsare Interaktiv demonstration, pop-up-meny"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
       <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
@@ -3062,6 +3007,46 @@
       <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
       <caption webpage="es" alt="navegador de internet Demostración Interactiva, Menú Pop Up"/>
       <caption webpage="es" alt="navegador de internet Demostración Interactiva, Menú Pop Up"/>
       <caption webpage="es" alt="navegador de internet Demostración Interactiva, Menú Pop Up"/>
@@ -3080,14 +3065,6 @@
       <caption webpage="fr" alt="document Démo interactive, Menu pop up"/>
       <caption webpage="fr" alt="document Démo interactive, Menu pop up"/>
       <caption webpage="fr" alt="document Démo interactive, Menu pop up"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
       <caption webpage="it" alt="documento dimostrazione interattiva, menu pop-up"/>
       <caption webpage="it" alt="documento dimostrazione interattiva, menu pop-up"/>
       <caption webpage="it" alt="documento dimostrazione interattiva, menu pop-up"/>
@@ -3104,38 +3081,6 @@
       <caption webpage="sv" alt="dokument Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="dokument Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="dokument Interaktiv demonstration, pop-up-meny"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
       <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
@@ -3144,6 +3089,46 @@
       <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
       <caption webpage="es" alt="documento Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="documento Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="documento Demostración Interactiva, Pop Up Menu"/>
@@ -3162,14 +3147,6 @@
       <caption webpage="fr" alt="application Démonstration interactive, Menu pop up"/>
       <caption webpage="fr" alt="application Démonstration interactive, Menu pop up"/>
       <caption webpage="fr" alt="application Démonstration interactive, Menu pop up"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
-      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
       <caption webpage="it" alt="applicazione Dimostrazione interattiva, Pop Up Menu"/>
       <caption webpage="it" alt="applicazione Dimostrazione interattiva, Pop Up Menu"/>
       <caption webpage="it" alt="applicazione Dimostrazione interattiva, Pop Up Menu"/>
@@ -3186,38 +3163,6 @@
       <caption webpage="sv" alt="applikation Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="applikation Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="applikation Interaktiv demonstration, pop-up-meny"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
-      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
       <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
@@ -3226,6 +3171,46 @@
       <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
       <caption webpage="es" alt="aplicación Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="aplicación Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="aplicación Demostración Interactiva, Pop Up Menu"/>
@@ -3698,14 +3683,14 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -3722,6 +3707,14 @@
       <caption webpage="pt" alt=""/>
       <caption webpage="pt" alt=""/>
       <caption webpage="pt" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
@@ -3730,14 +3723,6 @@
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -8027,17 +8012,32 @@
     <file name="download_rollover_de-u82933-r-fr.jpg" crc="4208828431" ref="de"/>
     <file name="download_de-u82933-fr2.jpg" crc="353191957" ref="de"/>
     <file name="download_rollover_de-u82933-r-fr2.jpg" crc="3979418682" ref="de"/>
+    <file name="pum_desktop.jpg" crc="4123822089" ref="tr_pum_desktop:sv_pum_desktop:ru_pum_desktop:pt_pum_desktop:pl_pum_desktop:it_pum_desktop:fr_pum_desktop:es_pum_desktop:en_pum_desktop:de_pum_desktop">
+      <caption webpage="tr_pum_desktop" alt=""/>
+    </file>
+    <file name="pum_word.jpg" crc="3823374218" ref="tr_pum_word:sv_pum_word:ru_pum_word:pt_pum_word:pl_pum_word:it_pum_word:fr_pum_word:es_pum_word:en_pum_word:de_pum_word">
+      <caption webpage="tr_pum_word" alt=""/>
+    </file>
+    <file name="pum_chrome.jpg" crc="246422911" ref="tr_pum_chrome:sv_pum_chrome:ru_pum_chrome:pt_pum_chrome:pl_pum_chrome:it_pum_chrome:fr_pum_chrome:es_pum_chrome:en_pum_chrome:de_pum_chrome">
+      <caption webpage="tr_pum_chrome" alt=""/>
+    </file>
+    <file name="pum_photoshop_en.jpg" crc="88144664" ref="tr_pum_photoshop:sv_pum_photoshop:ru_pum_photoshop:pt_pum_photoshop:pl_pum_photoshop:it_pum_photoshop:fr_pum_photoshop:es_pum_photoshop:en_pum_photoshop">
+      <caption webpage="tr_pum_photoshop" alt=""/>
+    </file>
+    <file name="pum_photoshop_de.jpg" crc="4078176495" ref="de_pum_photoshop">
+      <caption webpage="de_pum_photoshop" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4159501293" seo="true" mt="1741181354811" redirect="true"/>
-  <file name="en.html" crc="4202096032" seo="true" mt="1741246816494" redirect="true"/>
-  <file name="es.html" crc="3824289178" seo="true" mt="1741246817164" redirect="true"/>
-  <file name="fr.html" crc="4057487853" seo="true" mt="1741246817850" redirect="true"/>
-  <file name="it.html" crc="4261626692" seo="true" mt="1741246818547" redirect="true"/>
-  <file name="pl.html" crc="373069729" seo="true" mt="1741246819276" redirect="true"/>
-  <file name="pt.html" crc="4268026897" seo="true" mt="1741246820009" redirect="true"/>
-  <file name="ru.html" crc="4292579146" seo="true" mt="1741246820768" redirect="true"/>
-  <file name="sv.html" crc="397223738" seo="true" mt="1741246821535" redirect="true"/>
-  <file name="tr.html" crc="184155743" seo="true" mt="1741246822333" redirect="true"/>
+  <file name="en.html" crc="4151628342" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="es.html" crc="79823849" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="fr.html" crc="4104505646" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="it.html" crc="3980226641" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="pl.html" crc="3989226647" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="pt.html" crc="4125862342" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="ru.html" crc="3913303546" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="sv.html" crc="150155886" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="tr.html" crc="489810809" seo="true" mt="1741274520761" redirect="true"/>
   <file name="en_download.html" crc="52764205" seo="true" mt="1741184163724" redirect="true"/>
   <file name="de_download.html" crc="8572516" seo="true" mt="1741184046592" redirect="true"/>
   <file name="es_download.html" crc="417426232" seo="true" mt="1741184296089" redirect="true"/>
@@ -8048,47 +8048,47 @@
   <file name="ru_download.html" crc="4093043918" seo="true" mt="1741184744401" redirect="true"/>
   <file name="sv_download.html" crc="242961872" seo="true" mt="1741184821779" redirect="true"/>
   <file name="tr_download.html" crc="152888396" seo="true" mt="1741184919184" redirect="true"/>
-  <file name="de.html" crc="200776743" seo="true" mt="1741246815836" redirect="true"/>
-  <file name="tr_pum_desktop.html" crc="531988934" seo="true" mt="1677154391406" redirect="true"/>
-  <file name="tr_pum_word.html" crc="327554555" seo="true" mt="1677154407169" redirect="true"/>
-  <file name="tr_pum_chrome.html" crc="3798153735" seo="true" mt="1677154400145" redirect="true"/>
-  <file name="tr_pum_photoshop.html" crc="395705360" seo="true" mt="1677154414444" redirect="true"/>
-  <file name="sv_pum_photoshop.html" crc="427892482" seo="true" mt="1677154355317" redirect="true"/>
-  <file name="sv_pum_word.html" crc="319998626" seo="true" mt="1677154345968" redirect="true"/>
-  <file name="sv_pum_chrome.html" crc="3791228141" seo="true" mt="1677154339598" redirect="true"/>
-  <file name="sv_pum_desktop.html" crc="3877810135" seo="true" mt="1677154334101" redirect="true"/>
-  <file name="ru_pum_photoshop.html" crc="4205897615" seo="true" mt="1677154316588" redirect="true"/>
-  <file name="ru_pum_word.html" crc="44530812" seo="true" mt="1677154309728" redirect="true"/>
-  <file name="ru_pum_chrome.html" crc="3956830605" seo="true" mt="1677154303545" redirect="true"/>
-  <file name="ru_pum_desktop.html" crc="86646756" seo="true" mt="1677154296005" redirect="true"/>
-  <file name="pt_pum_photoshop.html" crc="4034816121" seo="true" mt="1677154267608" redirect="true"/>
-  <file name="pt_pum_word.html" crc="4005954926" seo="true" mt="1677154281452" redirect="true"/>
-  <file name="pt_pum_chrome.html" crc="4292930587" seo="true" mt="1677154246245" redirect="true"/>
-  <file name="pt_pum_desktop.html" crc="4074183083" seo="true" mt="1677154240292" redirect="true"/>
-  <file name="pl_pum_photoshop.html" crc="4010625896" seo="true" mt="1677154221073" redirect="true"/>
-  <file name="pl_pum_word.html" crc="66912753" seo="true" mt="1677154215300" redirect="true"/>
-  <file name="pl_pum_chrome.html" crc="329717330" seo="true" mt="1677154209218" redirect="true"/>
-  <file name="pl_pum_desktop.html" crc="445741525" seo="true" mt="1677154203097" redirect="true"/>
-  <file name="it_pum_photoshop.html" crc="3873423279" seo="true" mt="1677154187978" redirect="true"/>
-  <file name="it_pum_word.html" crc="4069672459" seo="true" mt="1677154181890" redirect="true"/>
-  <file name="it_pum_chrome.html" crc="3961345476" seo="true" mt="1677154176093" redirect="true"/>
-  <file name="it_pum_desktop.html" crc="4041038081" seo="true" mt="1677154169539" redirect="true"/>
-  <file name="fr_pum_photoshop.html" crc="4228513152" seo="true" mt="1677154147303" redirect="true"/>
-  <file name="fr_pum_word.html" crc="3775246153" seo="true" mt="1677154140182" redirect="true"/>
-  <file name="fr_pum_chrome.html" crc="369846367" seo="true" mt="1677154121145" redirect="true"/>
-  <file name="fr_pum_desktop.html" crc="387254839" seo="true" mt="1677154018766" redirect="true"/>
-  <file name="es_pum_photoshop.html" crc="291278824" seo="true" mt="1677153985517" redirect="true"/>
-  <file name="es_pum_word.html" crc="24369651" seo="true" mt="1677153974972" redirect="true"/>
-  <file name="es_pum_chrome.html" crc="3847623447" seo="true" mt="1677153965460" redirect="true"/>
-  <file name="es_pum_desktop.html" crc="162017027" seo="true" mt="1677153957266" redirect="true"/>
-  <file name="en_pum_photoshop.html" crc="4284560390" seo="true" mt="1677153604463" redirect="true"/>
-  <file name="en_pum_word.html" crc="3804214792" seo="true" mt="1677153598774" redirect="true"/>
-  <file name="en_pum_chrome.html" crc="382658062" seo="true" mt="1677153592682" redirect="true"/>
-  <file name="en_pum_desktop.html" crc="4125885005" seo="true" mt="1677153587165" redirect="true"/>
-  <file name="de_pum_photoshop.html" crc="143410738" seo="true" mt="1677153556696" redirect="true"/>
-  <file name="de_pum_word.html" crc="87494492" seo="true" mt="1677153549498" redirect="true"/>
-  <file name="de_pum_chrome.html" crc="341674658" seo="true" mt="1677153541765" redirect="true"/>
-  <file name="de_pum_desktop.html" crc="462646085" seo="true" mt="1677153534499" redirect="true"/>
+  <file name="de.html" crc="471117989" seo="true" mt="1741274520761" redirect="true"/>
+  <file name="tr_pum_desktop.html" crc="309620505" seo="true" mt="1741274316816" redirect="true"/>
+  <file name="tr_pum_word.html" crc="4039660163" seo="true" mt="1741274374418" redirect="true"/>
+  <file name="tr_pum_chrome.html" crc="128909174" seo="true" mt="1741274345118" redirect="true"/>
+  <file name="tr_pum_photoshop.html" crc="132114352" seo="true" mt="1741274401868" redirect="true"/>
+  <file name="sv_pum_photoshop.html" crc="5971768" seo="true" mt="1741274222896" redirect="true"/>
+  <file name="sv_pum_word.html" crc="3876960696" seo="true" mt="1741274192445" redirect="true"/>
+  <file name="sv_pum_chrome.html" crc="4037578720" seo="true" mt="1741274163532" redirect="true"/>
+  <file name="sv_pum_desktop.html" crc="3786973921" seo="true" mt="1741274135189" redirect="true"/>
+  <file name="ru_pum_photoshop.html" crc="536628134" seo="true" mt="1741274019928" redirect="true"/>
+  <file name="ru_pum_word.html" crc="4026320685" seo="true" mt="1741273989932" redirect="true"/>
+  <file name="ru_pum_chrome.html" crc="4211922378" seo="true" mt="1741273960119" redirect="true"/>
+  <file name="ru_pum_desktop.html" crc="84135200" seo="true" mt="1741273923033" redirect="true"/>
+  <file name="pt_pum_photoshop.html" crc="507870713" seo="true" mt="1741273846314" redirect="true"/>
+  <file name="pt_pum_word.html" crc="339647808" seo="true" mt="1741273817143" redirect="true"/>
+  <file name="pt_pum_chrome.html" crc="221452158" seo="true" mt="1741273783456" redirect="true"/>
+  <file name="pt_pum_desktop.html" crc="3874972212" seo="true" mt="1741273745039" redirect="true"/>
+  <file name="pl_pum_photoshop.html" crc="4287002085" seo="true" mt="1741273643270" redirect="true"/>
+  <file name="pl_pum_word.html" crc="31024945" seo="true" mt="1741273609680" redirect="true"/>
+  <file name="pl_pum_chrome.html" crc="3935728583" seo="true" mt="1741273578994" redirect="true"/>
+  <file name="pl_pum_desktop.html" crc="311322870" seo="true" mt="1741273546305" redirect="true"/>
+  <file name="it_pum_photoshop.html" crc="187794434" seo="true" mt="1741273451564" redirect="true"/>
+  <file name="it_pum_word.html" crc="3896787216" seo="true" mt="1741273417442" redirect="true"/>
+  <file name="it_pum_chrome.html" crc="4145342450" seo="true" mt="1741273350362" redirect="true"/>
+  <file name="it_pum_desktop.html" crc="3904482774" seo="true" mt="1741273318939" redirect="true"/>
+  <file name="fr_pum_photoshop.html" crc="3871079439" seo="true" mt="1741273233469" redirect="true"/>
+  <file name="fr_pum_word.html" crc="213331082" seo="true" mt="1741273196529" redirect="true"/>
+  <file name="fr_pum_chrome.html" crc="455294230" seo="true" mt="1741273164018" redirect="true"/>
+  <file name="fr_pum_desktop.html" crc="4197926309" seo="true" mt="1741273131665" redirect="true"/>
+  <file name="es_pum_photoshop.html" crc="514662406" seo="true" mt="1741273059832" redirect="true"/>
+  <file name="es_pum_word.html" crc="4092061493" seo="true" mt="1741273030817" redirect="true"/>
+  <file name="es_pum_chrome.html" crc="37317444" seo="true" mt="1741272997518" redirect="true"/>
+  <file name="es_pum_desktop.html" crc="3953020521" seo="true" mt="1741272966782" redirect="true"/>
+  <file name="en_pum_photoshop.html" crc="3919922812" seo="true" mt="1741272869890" redirect="true"/>
+  <file name="en_pum_word.html" crc="437831966" seo="true" mt="1741272813086" redirect="true"/>
+  <file name="en_pum_chrome.html" crc="163885381" seo="true" mt="1741272723295" redirect="true"/>
+  <file name="en_pum_desktop.html" crc="93708540" seo="true" mt="1741272622477" redirect="true"/>
+  <file name="de_pum_photoshop.html" crc="3985868331" seo="true" mt="1741272498711" redirect="true"/>
+  <file name="de_pum_word.html" crc="3791054824" seo="true" mt="1741272449595" redirect="true"/>
+  <file name="de_pum_chrome.html" crc="449692556" seo="true" mt="1741272389400" redirect="true"/>
+  <file name="de_pum_desktop.html" crc="3887012536" seo="true" mt="1741272327478" redirect="true"/>
   <file name="tr_photoshop_folderpictures.html" crc="3846564020" seo="true" mt="1741172425962" redirect="true"/>
   <file name="de_desktop_folderdownloads.html" crc="330938547" seo="true" mt="1741172425962" redirect="true"/>
   <file name="de_desktop_foldermusic.html" crc="3918340026" seo="true" mt="1741172425962" redirect="true"/>
