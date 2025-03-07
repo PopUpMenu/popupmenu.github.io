@@ -2344,9 +2344,6 @@
       <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_bg_desktop320x214.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://popupmenu.github.io/images/link_en_desktop_foldermusic.gif</image:loc>
     </image:image>
   </url>
@@ -2399,18 +2396,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/ink_en_desktop_folderpictures.html</loc>
-    <lastmod>2025-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_en_desktop_folderpictures.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>https://popupmenu.github.io/link_en_desktop_folderdownload.html</loc>
     <lastmod>2025-03-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2419,7 +2404,22 @@
       <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_bg_desktop320x214.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://popupmenu.github.io/images/link_en_desktop_folderdownload.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/link_en_desktop_folderpictures.html</loc>
+    <lastmod>2025-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_en_desktop_folderpictures.gif</image:loc>
     </image:image>
   </url>
   <url>
