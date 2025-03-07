@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741357416216">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741362201621">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="3995553195" ref="pt:en:de:sv:ru:tr:pl:it:es:fr"/>
@@ -7,7 +7,7 @@
     <file name="nomq_preview_master_index.css" crc="3824530138" ref="index"/>
     <file name="tr_chrome_ipcgames.css" crc="3888470712" ref="tr_chrome_ipcgames"/>
     <file name="nomq_tr_chrome_ipcgames.css" crc="132234819" ref="tr_chrome_ipcgames"/>
-    <file name="pt.css" crc="4024778578" ref="pt"/>
+    <file name="pt.css" crc="234474514" ref="pt"/>
     <file name="nomq_pt.css" crc="3851801010" ref="pt"/>
     <file name="pl_chrome_getintopc.css" crc="4013780210" ref="pl_chrome_getintopc"/>
     <file name="nomq_pl_chrome_getintopc.css" crc="457906221" ref="pl_chrome_getintopc"/>
@@ -25,7 +25,7 @@
     <file name="nomq_tr_desktop_foldermusic.css" crc="359967287" ref="tr_desktop_foldermusic"/>
     <file name="tr_desktop_chrome.css" crc="3785848010" ref="tr_desktop_chrome"/>
     <file name="nomq_tr_desktop_chrome.css" crc="4281173073" ref="tr_desktop_chrome"/>
-    <file name="en.css" crc="3948926201" ref="en"/>
+    <file name="en.css" crc="379873161" ref="en"/>
     <file name="nomq_en.css" crc="290348351" ref="en"/>
     <file name="tr_desktop_dreamweaver.css" crc="305220486" ref="tr_desktop_dreamweaver"/>
     <file name="nomq_tr_desktop_dreamweaver.css" crc="75263820" ref="tr_desktop_dreamweaver"/>
@@ -547,31 +547,31 @@
     <file name="nomq_pl_word_address.css" crc="118979443" ref="pl_word_address"/>
     <file name="en_photoshop_folderpictures.css" crc="4192544142" ref="en_photoshop_folderpictures"/>
     <file name="nomq_en_photoshop_folderpictures.css" crc="3895334342" ref="en_photoshop_folderpictures"/>
-    <file name="sv.css" crc="120718289" ref="sv"/>
+    <file name="sv.css" crc="4134345332" ref="sv"/>
     <file name="nomq_sv.css" crc="333127690" ref="sv"/>
     <file name="pl_word_email.css" crc="429881047" ref="pl_word_email"/>
     <file name="nomq_pl_word_email.css" crc="302894931" ref="pl_word_email"/>
     <file name="en_word_folderdocuments.css" crc="3882875562" ref="en_word_folderdocuments"/>
     <file name="nomq_en_word_folderdocuments.css" crc="47716591" ref="en_word_folderdocuments"/>
-    <file name="ru.css" crc="385457009" ref="ru"/>
+    <file name="ru.css" crc="4204397878" ref="ru"/>
     <file name="nomq_ru.css" crc="193489327" ref="ru"/>
     <file name="pl_word_file1.css" crc="339188128" ref="pl_word_file1"/>
     <file name="nomq_pl_word_file1.css" crc="3970859487" ref="pl_word_file1"/>
     <file name="en_photoshop_adjustbw.css" crc="3861330555" ref="en_photoshop_adjustbw"/>
     <file name="nomq_en_photoshop_adjustbw.css" crc="484600558" ref="en_photoshop_adjustbw"/>
-    <file name="tr.css" crc="4187178835" ref="tr"/>
+    <file name="tr.css" crc="4127896820" ref="tr"/>
     <file name="nomq_tr.css" crc="4137332703" ref="tr"/>
     <file name="pl_chrome_web-air.css" crc="210356190" ref="pl_chrome_web-air"/>
     <file name="nomq_pl_chrome_web-air.css" crc="3817835575" ref="pl_chrome_web-air"/>
     <file name="en_word_file1.css" crc="3779826849" ref="en_word_file1"/>
     <file name="nomq_en_word_file1.css" crc="3767936413" ref="en_word_file1"/>
-    <file name="pl.css" crc="193524741" ref="pl"/>
+    <file name="pl.css" crc="80384363" ref="pl"/>
     <file name="nomq_pl.css" crc="3798408584" ref="pl"/>
     <file name="pl_chrome_reichelt.css" crc="3853700733" ref="pl_chrome_reichelt"/>
     <file name="nomq_pl_chrome_reichelt.css" crc="4192962120" ref="pl_chrome_reichelt"/>
     <file name="en_word_address.css" crc="434640769" ref="en_word_address"/>
     <file name="nomq_en_word_address.css" crc="524239434" ref="en_word_address"/>
-    <file name="it.css" crc="4277781367" ref="it"/>
+    <file name="it.css" crc="3797178439" ref="it"/>
     <file name="nomq_it.css" crc="4232360765" ref="it"/>
     <file name="pl_chrome_folderdownloads.css" crc="4059024944" ref="pl_chrome_folderdownloads"/>
     <file name="nomq_pl_chrome_folderdownloads.css" crc="183279820" ref="pl_chrome_folderdownloads"/>
@@ -589,43 +589,42 @@
     <file name="nomq_pl_chrome_ipcgames.css" crc="3822621064" ref="pl_chrome_ipcgames"/>
     <file name="en_chrome_web-air.css" crc="3997625789" ref="en_chrome_web-air"/>
     <file name="nomq_en_chrome_web-air.css" crc="294619907" ref="en_chrome_web-air"/>
-    <file name="es.css" crc="4267996174" ref="es"/>
+    <file name="es.css" crc="4014781436" ref="es"/>
     <file name="nomq_es.css" crc="3988011043" ref="es"/>
     <file name="pl_chrome_oceanofgames.css" crc="3884528448" ref="pl_chrome_oceanofgames"/>
     <file name="nomq_pl_chrome_oceanofgames.css" crc="232197286" ref="pl_chrome_oceanofgames"/>
-    <file name="fr.css" crc="310483090" ref="fr"/>
+    <file name="fr.css" crc="3896498245" ref="fr"/>
     <file name="nomq_fr.css" crc="248581709" ref="fr"/>
-    <file name="master_popuplink.css" crc="3783435866" ref="link_en_desktop_dreamweaver:link_en_desktop_acad:link_en_desktop_foldermusic:link_en_desktop_folderdownloads:link_en_desktop_chrome:link_en_desktop_photoshop:link_en_desktop_folderpictures:link_en_desktop_whatsapp"/>
-    <file name="nomq_preview_master_popuplink.css" crc="3824530138" ref="link_en_desktop_dreamweaver:link_en_desktop_acad:link_en_desktop_foldermusic:link_en_desktop_folderdownloads:link_en_desktop_chrome:link_en_desktop_photoshop:link_en_desktop_folderpictures:link_en_desktop_whatsapp"/>
-    <file name="link_en_desktop_dreamweaver.css" crc="105307221" ref="link_en_desktop_dreamweaver"/>
-    <file name="nomq_link_en_desktop_dreamweaver.css" crc="279516560" ref="link_en_desktop_dreamweaver"/>
-    <file name="link_en_desktop_acad.css" crc="4048657203" ref="link_en_desktop_acad"/>
-    <file name="nomq_link_en_desktop_acad.css" crc="490450820" ref="link_en_desktop_acad"/>
-    <file name="link_en_desktop_foldermusic.css" crc="3784205527" ref="link_en_desktop_foldermusic"/>
-    <file name="nomq_link_en_desktop_foldermusic.css" crc="4057267766" ref="link_en_desktop_foldermusic"/>
-    <file name="link_en_desktop_folderdownloads.css" crc="3984127574" ref="link_en_desktop_folderdownloads"/>
-    <file name="nomq_link_en_desktop_folderdownloads.css" crc="4242522937" ref="link_en_desktop_folderdownloads"/>
-    <file name="link_en_desktop_chrome.css" crc="468440767" ref="link_en_desktop_chrome"/>
-    <file name="nomq_link_en_desktop_chrome.css" crc="124057261" ref="link_en_desktop_chrome"/>
-    <file name="link_en_desktop_photoshop.css" crc="75924643" ref="link_en_desktop_photoshop"/>
-    <file name="nomq_link_en_desktop_photoshop.css" crc="215716392" ref="link_en_desktop_photoshop"/>
-    <file name="link_en_desktop_folderpictures.css" crc="64827840" ref="link_en_desktop_folderpictures"/>
-    <file name="nomq_link_en_desktop_folderpictures.css" crc="3874143495" ref="link_en_desktop_folderpictures"/>
-    <file name="link_en_desktop_whatsapp.css" crc="363241605" ref="link_en_desktop_whatsapp"/>
-    <file name="nomq_link_en_desktop_whatsapp.css" crc="61694502" ref="link_en_desktop_whatsapp"/>
-    <file name="link_en_chrome_getintopc.css" crc="4193191577" ref="link_en_chrome_getintopc"/>
+    <file name="master_popuplink.css" crc="4106019106" ref="link_en_desktop_dreamweaver:link_en_desktop_acad:link_en_desktop_foldermusic:link_en_desktop_folderdownloads:link_en_desktop_chrome:link_en_desktop_photoshop:link_en_desktop_whatsapp:ink_en_desktop_folderpictures"/>
+    <file name="nomq_preview_master_popuplink.css" crc="3824530138" ref="link_en_desktop_dreamweaver:link_en_desktop_acad:link_en_desktop_foldermusic:link_en_desktop_folderdownloads:link_en_desktop_chrome:link_en_desktop_photoshop:link_en_desktop_whatsapp:ink_en_desktop_folderpictures"/>
+    <file name="link_en_desktop_dreamweaver.css" crc="3827060705" ref="link_en_desktop_dreamweaver"/>
+    <file name="nomq_link_en_desktop_dreamweaver.css" crc="4270352251" ref="link_en_desktop_dreamweaver"/>
+    <file name="link_en_desktop_acad.css" crc="411873716" ref="link_en_desktop_acad"/>
+    <file name="nomq_link_en_desktop_acad.css" crc="4270352251" ref="link_en_desktop_acad"/>
+    <file name="link_en_desktop_foldermusic.css" crc="48414239" ref="link_en_desktop_foldermusic"/>
+    <file name="nomq_link_en_desktop_foldermusic.css" crc="4270352251" ref="link_en_desktop_foldermusic"/>
+    <file name="link_en_desktop_folderdownloads.css" crc="4267214633" ref="link_en_desktop_folderdownloads"/>
+    <file name="nomq_link_en_desktop_folderdownloads.css" crc="4270352251" ref="link_en_desktop_folderdownloads"/>
+    <file name="link_en_desktop_chrome.css" crc="57402969" ref="link_en_desktop_chrome"/>
+    <file name="nomq_link_en_desktop_chrome.css" crc="4270352251" ref="link_en_desktop_chrome"/>
+    <file name="link_en_desktop_photoshop.css" crc="230882645" ref="link_en_desktop_photoshop"/>
+    <file name="nomq_link_en_desktop_photoshop.css" crc="4270352251" ref="link_en_desktop_photoshop"/>
+    <file name="link_en_desktop_whatsapp.css" crc="376000489" ref="link_en_desktop_whatsapp"/>
+    <file name="nomq_link_en_desktop_whatsapp.css" crc="4270352251" ref="link_en_desktop_whatsapp"/>
+    <file name="ink_en_desktop_folderpictures.css" crc="362964577" ref="ink_en_desktop_folderpictures"/>
+    <file name="nomq_ink_en_desktop_folderpictures.css" crc="4270352251" ref="ink_en_desktop_folderpictures"/>
   </folder>
   <folder name="assets">
     <file name="webvideo.mp4" crc="4017798541" seo="true" mt="1657280986000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_en_chrome_getintopc"/>
-    <file name="museutils.js" crc="340535759" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_en_chrome_getintopc"/>
-    <file name="whatinput.js" crc="86476730" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_en_chrome_getintopc"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_en_chrome_getintopc"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_en_chrome_getintopc"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome"/>
-    <file name="require.js" crc="7928878" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_en_chrome_getintopc"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
+    <file name="museutils.js" crc="340535759" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
+    <file name="whatinput.js" crc="86476730" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
+    <file name="require.js" crc="7928878" ref="index:en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop:sv_pum_photoshop:sv_pum_word:sv_pum_chrome:sv_pum_desktop:ru_pum_photoshop:ru_pum_word:ru_pum_chrome:ru_pum_desktop:pt_pum_photoshop:pt_pum_word:pt_pum_chrome:pt_pum_desktop:pl_pum_photoshop:pl_pum_word:pl_pum_chrome:pl_pum_desktop:it_pum_photoshop:it_pum_word:it_pum_chrome:it_pum_desktop:fr_pum_photoshop:fr_pum_word:fr_pum_chrome:fr_pum_desktop:es_pum_photoshop:es_pum_word:es_pum_chrome:es_pum_desktop:en_pum_photoshop:en_pum_word:en_pum_desktop:de_pum_photoshop:de_pum_word:de_pum_chrome:de_pum_desktop:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:en_pum_chrome"/>
   </folder>
   <folder name="images">
@@ -640,10 +639,6 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
@@ -652,46 +647,42 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -704,14 +695,10 @@
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
@@ -720,38 +707,42 @@
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -760,6 +751,14 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
     </file>
     <file name="flag_n_de-u135494-fr.jpg" crc="3859814729" ref="en:es:fr:it:pl:pt:ru:sv:tr"/>
     <file name="flag_r_de-u135494-r-fr.jpg" crc="516032106" ref="en:es:fr:it:pl:pt:ru:sv:tr"/>
@@ -792,6 +791,14 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
       <caption webpage="pt" alt=""/>
       <caption webpage="pt" alt=""/>
       <caption webpage="pt" alt=""/>
@@ -800,14 +807,6 @@
       <caption webpage="pt" alt=""/>
       <caption webpage="pt" alt=""/>
       <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
       <caption webpage="en" alt=""/>
@@ -824,6 +823,14 @@
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="de" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -832,14 +839,6 @@
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -861,10 +860,6 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
@@ -873,46 +868,38 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -925,14 +912,10 @@
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
@@ -941,34 +924,42 @@
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -977,6 +968,14 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
     </file>
     <file name="flag_n_it-u135498-fr.jpg" crc="258549469" ref="en:es:fr:pl:pt:ru:sv:tr:de"/>
     <file name="flag_r_it-u135498-r-fr.jpg" crc="162464040" ref="en:es:fr:pl:pt:ru:sv:tr:de"/>
@@ -1005,10 +1004,6 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
@@ -1017,46 +1012,42 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="fr_download" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
+      <caption webpage="ru_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="tr_download" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -1069,10 +1060,10 @@
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
@@ -1081,46 +1072,54 @@
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="tr_download" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="ru_download" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
+      <caption webpage="pl" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
-      <caption webpage="pl" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="fr_download" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
     </file>
     <file name="en_javascript.jpg" crc="503123527" ref="en">
       <caption webpage="en" alt=""/>
@@ -1205,6 +1204,14 @@
       <caption webpage="sv" alt="windows Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="windows Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="windows Interaktiv demonstration, pop-up-meny"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
+      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
       <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
@@ -1213,14 +1220,6 @@
       <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="janelas Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="windows Interactive Demo, Pop Up Menu"/>
@@ -1237,6 +1236,14 @@
       <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Windows Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="windows Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
       <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
       <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
@@ -1245,14 +1252,6 @@
       <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
       <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
       <caption webpage="tr" alt="Windows Interactive Demo, açılır menü"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
-      <caption webpage="pl" alt="windows Interaktywne demo, menu podręczne"/>
       <caption webpage="es" alt="Demostración Interactiva de Windows, Menú Pop Up"/>
       <caption webpage="es" alt="Demostración Interactiva de Windows, Menú Pop Up"/>
       <caption webpage="es" alt="Demostración Interactiva de Windows, Menú Pop Up"/>
@@ -1287,6 +1286,14 @@
       <caption webpage="sv" alt="webbläsare Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="webbläsare Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="webbläsare Interaktiv demonstration, pop-up-meny"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
       <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
@@ -1295,14 +1302,6 @@
       <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="navegador de internet Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="internet browser Interactive Demo, Pop Up Menu"/>
@@ -1319,6 +1318,14 @@
       <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Internet-Browser Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
       <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
       <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
@@ -1327,14 +1334,6 @@
       <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
       <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
       <caption webpage="tr" alt="İnternet tarayıcısı interaktif demo, açılır menü"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="przeglądarka internetowa Interaktywne Demo, Pop Up Menu"/>
       <caption webpage="es" alt="navegador de internet Demostración Interactiva, Menú Pop Up"/>
       <caption webpage="es" alt="navegador de internet Demostración Interactiva, Menú Pop Up"/>
       <caption webpage="es" alt="navegador de internet Demostración Interactiva, Menú Pop Up"/>
@@ -1369,6 +1368,14 @@
       <caption webpage="sv" alt="dokument Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="dokument Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="dokument Interaktiv demonstration, pop-up-meny"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
+      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
       <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
       <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
       <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
@@ -1377,14 +1384,6 @@
       <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
       <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
       <caption webpage="pt" alt="documento Demonstração interactiva, menu pop-up"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="document Interactive Demo, Pop Up Menu"/>
@@ -1401,6 +1400,14 @@
       <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Dokument Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="документ Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
       <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
       <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
@@ -1409,14 +1416,6 @@
       <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
       <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
       <caption webpage="tr" alt="İnteraktif demoyu belgeleyin, açılır menüyü"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
-      <caption webpage="pl" alt="dokument Interaktywna demonstracja, Pop Up Menu"/>
       <caption webpage="es" alt="documento Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="documento Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="documento Demostración Interactiva, Pop Up Menu"/>
@@ -1451,6 +1450,14 @@
       <caption webpage="sv" alt="applikation Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="applikation Interaktiv demonstration, pop-up-meny"/>
       <caption webpage="sv" alt="applikation Interaktiv demonstration, pop-up-meny"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
+      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
       <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
@@ -1459,14 +1466,6 @@
       <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
       <caption webpage="pt" alt="aplicação Demonstração interactiva, Menu Pop Up"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
-      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
       <caption webpage="en" alt="application Interactive Demo, Pop Up Menu"/>
@@ -1483,6 +1482,14 @@
       <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
       <caption webpage="de" alt="Anwendung Interaktive Demo, Pop Up Menü"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
+      <caption webpage="ru" alt="приложение Интерактивная демонстрация, всплывающее меню"/>
       <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
       <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
       <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
@@ -1491,14 +1498,6 @@
       <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
       <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
       <caption webpage="tr" alt="Uygulama Etkileşimli Demo, Pop Up menüsü"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
-      <caption webpage="pl" alt="aplikacja Interaktywne Demo, Pop Up Menu"/>
       <caption webpage="es" alt="aplicación Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="aplicación Demostración Interactiva, Pop Up Menu"/>
       <caption webpage="es" alt="aplicación Demostración Interactiva, Pop Up Menu"/>
@@ -1946,7 +1945,7 @@
     <file name="videolink_pumsub_1_en-u138127-fr4.jpg" crc="4279895807" ref="en"/>
     <file name="videolink_pumsub_2_en-u138127-r-fr4.jpg" crc="240339560" ref="en"/>
     <file name="videolink_pumsub_3_en-u138127-m-fr4.jpg" crc="422136838" ref="en"/>
-    <file name="blank.gif" crc="4208392903" ref="en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome"/>
+    <file name="blank.gif" crc="4208392903" ref="en:es:fr:it:pl:pt:ru:sv:tr:en_download:de_download:es_download:fr_download:it_download:pl_download:pt_download:ru_download:sv_download:tr_download:de:tr_photoshop_folderpictures:de_desktop_folderdownloads:de_desktop_foldermusic:de_desktop_whatsapp:de_desktop_dreamweaver:de_desktop_photoshop:de_desktop_acad:de_desktop_chrome:de_desktop_folderpictures:de_chrome_getintopc:de_chrome_ipcgames:de_chrome_midnightitsalmost:de_chrome_oceanofgames:de_chrome_reichelt:de_chrome_web-air:de_chrome_folderdownloads:de_word_email:de_word_address:de_word_file1:de_word_file2:de_word_folderdocuments:de_photoshop_adjustbw:de_photoshop_canvassize:de_photoshop_imagesize:de_photoshop_exportas:de_photoshop_colorrange:de_photoshop_folderpictures:en_chrome_getintopc:en_chrome_ipcgames:en_chrome_midnightitsalmost:en_chrome_oceanofgames:en_chrome_reichelt:en_chrome_web-air:en_chrome_folderdownloads:en_word_email:en_word_address:en_word_file1:en_word_file2:en_word_folderdocuments:en_photoshop_folderpictures:en_photoshop_adjustbw:en_photoshop_canvassize:en_photoshop_imagesize:en_photoshop_exportas:en_photoshop_colorrange:es_desktop_folderdownloads:es_desktop_foldermusic:es_desktop_folderpictures:es_desktop_whatsapp:es_desktop_dreamweaver:es_desktop_photoshop:es_desktop_acad:es_desktop_chrome:es_chrome_ipcgames:es_chrome_getintopc:es_chrome_midnightitsalmost:es_chrome_oceanofgames:es_chrome_reichelt:es_chrome_web-air:es_chrome_folderdownloads:es_word_email:es_word_address:es_word_file1:es_word_file2:es_word_folderdocuments:es_photoshop_folderpictures:es_photoshop_adjustbw:es_photoshop_canvassize:es_photoshop_imagesize:es_photoshop_exportas:es_photoshop_colorrange:fr_desktop_folderdownloads:fr_desktop_foldermusic:fr_desktop_folderpictures:fr_desktop_whatsapp:fr_desktop_dreamweaver:fr_desktop_photoshop:fr_desktop_acad:fr_desktop_chrome:fr_chrome_getintopc:fr_chrome_ipcgames:fr_chrome_midnightitsalmost:fr_chrome_oceanofgames:fr_chrome_reichelt:fr_chrome_web-air:fr_chrome_folderdownloads:fr_word_email:fr_word_address:fr_word_file1:fr_word_file2:fr_word_folderdocuments:fr_photoshop_folderpictures:fr_photoshop_adjustbw:fr_photoshop_canvassize:fr_photoshop_imagesize:fr_photoshop_exportas:fr_photoshop_colorrange:it_desktop_folderdownloads:it_desktop_foldermusic:it_desktop_folderpictures:it_desktop_whatsapp:it_desktop_dreamweaver:it_desktop_photoshop:it_desktop_acad:it_desktop_chrome:it_chrome_getintopc:it_chrome_ipcgames:it_chrome_midnightitsalmost:it_chrome_oceanofgames:it_chrome_reichelt:it_chrome_web-air:it_chrome_folderdownloads:it_word_email:it_word_address:it_word_file1:it_word_file2:it_word_folderdocuments:it_photoshop_folderpictures:it_photoshop_adjustbw:it_photoshop_canvassize:it_photoshop_imagesize:it_photoshop_exportas:it_photoshop_colorrange:pl_desktop_folderdownloads:pl_desktop_foldermusic:pl_desktop_folderpictures:pl_desktop_whatsapp:pl_desktop_dreamweaver:pl_desktop_photoshop:pl_desktop_acad:pl_desktop_chrome:pl_chrome_getintopc:pl_chrome_ipcgames:pl_chrome_midnightitsalmost:pl_chrome_oceanofgames:pl_chrome_reichelt:pl_chrome_web-air:pl_chrome_folderdownloads:pl_word_email:pl_word_address:pl_word_file1:pl_word_file2:pl_word_folderdocuments:pl_photoshop_folderpictures:pl_photoshop_adjustbw:pl_photoshop_canvassize:pl_photoshop_imagesize:pl_photoshop_exportas:pl_photoshop_colorrange:pt_desktop_folderdownloads:pt_desktop_foldermusic:pt_desktop_folderpictures:pt_desktop_whatsapp:pt_desktop_dreamweaver:pt_desktop_photoshop:pt_desktop_acad:pt_desktop_chrome:pt_chrome_getintopc:pt_chrome_ipcgames:pt_chrome_midnightitsalmost:pt_chrome_oceanofgames:pt_chrome_reichelt:pt_chrome_web-air:pt_chrome_folderdownloads:pt_word_email:pt_word_address:pt_word_file1:pt_word_file2:pt_word_folderdocuments:pt_photoshop_folderpictures:pt_photoshop_adjustbw:pt_photoshop_canvassize:pt_photoshop_imagesize:pt_photoshop_exportas:pt_photoshop_colorrange:ru_desktop_folderdownloads:ru_desktop_foldermusic:ru_desktop_folderpictures:ru_desktop_whatsapp:ru_desktop_dreamweaver:ru_desktop_photoshop:ru_desktop_acad:ru_desktop_chrome:ru_chrome_getintopc:ru_chrome_ipcgames:ru_chrome_midnightitsalmost:ru_chrome_oceanofgames:ru_chrome_reichelt:ru_chrome_web-air:ru_chrome_folderdownloads:ru_word_email:ru_word_address:ru_word_file1:ru_word_file2:ru_word_folderdocuments:ru_photoshop_folderpictures:ru_photoshop_adjustbw:ru_photoshop_canvassize:ru_photoshop_imagesize:ru_photoshop_exportas:ru_photoshop_colorrange:sv_desktop_folderdownloads:sv_desktop_foldermusic:sv_desktop_folderpictures:sv_desktop_whatsapp:sv_desktop_dreamweaver:sv_desktop_photoshop:sv_desktop_acad:sv_desktop_chrome:sv_chrome_getintopc:sv_chrome_ipcgames:sv_chrome_midnightitsalmost:sv_chrome_oceanofgames:sv_chrome_reichelt:sv_chrome_web-air:sv_chrome_folderdownloads:sv_word_email:sv_word_address:sv_word_file1:sv_word_file2:sv_word_folderdocuments:sv_photoshop_folderpictures:sv_photoshop_canvassize:sv_photoshop_adjustbw:sv_photoshop_imagesize:sv_photoshop_exportas:sv_photoshop_colorrange:tr_desktop_folderdownloads:tr_desktop_folderpictures:tr_desktop_foldermusic:tr_desktop_whatsapp:tr_desktop_dreamweaver:tr_desktop_photoshop:tr_desktop_acad:tr_desktop_chrome:tr_chrome_getintopc:tr_chrome_midnightitsalmost:tr_chrome_ipcgames:tr_chrome_oceanofgames:tr_chrome_reichelt:tr_chrome_web-air:tr_chrome_folderdownloads:tr_word_address:tr_word_file2:tr_word_file1:tr_word_folderdocuments:tr_word_email:tr_photoshop_adjustbw:tr_photoshop_canvassize:tr_photoshop_imagesize:tr_photoshop_exportas:tr_photoshop_colorrange:photoshop_en:photoshop_de:link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures"/>
     <file name="flag_n_en.jpg" crc="316529421" ref="es:fr:it:pl:pt:ru:sv:tr:de">
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
@@ -1972,38 +1971,6 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -2012,6 +1979,38 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -2046,38 +2045,6 @@
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
       <caption webpage="sv" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="it" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
-      <caption webpage="tr" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -2086,6 +2053,38 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="it" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
+      <caption webpage="tr" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -5820,12 +5819,12 @@
       <caption webpage="de_download" alt=""/>
     </file>
     <file name="download_de.jpg" crc="292564303" ref="de_download:de">
-      <caption webpage="de" alt=""/>
       <caption webpage="de_download" alt=""/>
+      <caption webpage="de" alt=""/>
     </file>
     <file name="download_rollover_de.jpg" crc="465438812" ref="de_download:de">
-      <caption webpage="de" alt=""/>
       <caption webpage="de_download" alt=""/>
+      <caption webpage="de" alt=""/>
     </file>
     <file name="download_de-u72353-fr.jpg" crc="3995041367" ref="de_download"/>
     <file name="download_rollover_de-u72353-r-fr.jpg" crc="4208828431" ref="de_download"/>
@@ -6651,15 +6650,6 @@
       <caption webpage="de_photoshop_folderpictures" alt=""/>
       <caption webpage="de_photoshop_folderpictures" alt=""/>
       <caption webpage="de_photoshop_folderpictures" alt=""/>
-    </file>
-    <file name="desktop_folderdownloads_en.gif" crc="4103194727" ref="link_en_desktop_folderdownloads" seo="true">
-      <caption webpage="en_desktop_folderdownloads" alt=""/>
-      <caption webpage="en_desktop_folderdownloads" alt=""/>
-      <caption webpage="en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
     </file>
     <file name="chrome_getintopc_en.gif" crc="283359561" ref="en_chrome_getintopc">
       <caption webpage="en_chrome_getintopc" alt=""/>
@@ -7836,31 +7826,58 @@
     <file name="download_rollover_de-u82933-r-fr.jpg" crc="4208828431" ref="de"/>
     <file name="download_de-u82933-fr2.jpg" crc="353191957" ref="de"/>
     <file name="download_rollover_de-u82933-r-fr2.jpg" crc="3979418682" ref="de"/>
-    <file name="link_bg_desktop.jpg" crc="507870814" seo="true" ref="link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome">
-      <caption webpage="link_en_desktop_photoshop" alt=""/>
-      <caption webpage="link_en_desktop_photoshop" alt=""/>
-      <caption webpage="link_en_desktop_photoshop" alt=""/>
-      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_en_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
-      <caption webpage="link_en_desktop_folderpictures" alt=""/>
-      <caption webpage="link_en_desktop_folderpictures" alt=""/>
-      <caption webpage="link_en_desktop_folderpictures" alt=""/>
-      <caption webpage="link_en_desktop_chrome" alt=""/>
-      <caption webpage="link_en_desktop_chrome" alt=""/>
-      <caption webpage="link_en_desktop_chrome" alt=""/>
+    <file name="link_bg_desktop.jpg" crc="507870814" seo="true" ref="link_en_desktop_folderdownloads:link_en_desktop_foldermusic:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:ink_en_desktop_folderpictures">
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
       <caption webpage="link_en_desktop_acad" alt=""/>
       <caption webpage="link_en_desktop_acad" alt=""/>
       <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_folderpictures" alt=""/>
+      <caption webpage="link_en_desktop_folderpictures" alt=""/>
+      <caption webpage="link_en_desktop_folderpictures" alt=""/>
     </file>
     <file name="link_bg_desktop320x214.jpg" crc="4132600442" seo="true" ref="link_en_desktop_folderdownloads">
       <caption webpage="link_en_desktop_folderdownloads" alt=""/>
@@ -7870,8 +7887,18 @@
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_foldermusic" alt=""/>
+      <caption webpage="link_en_desktop_foldermusic" alt=""/>
     </file>
-    <file name="link_en_desktop_folderpictures.gif" crc="170274791" seo="true" ref="link_en_desktop_folderpictures">
+    <file name="link_en_desktop_folderpictures.gif" crc="170274791" seo="true" ref="ink_en_desktop_folderpictures">
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
+      <caption webpage="ink_en_desktop_folderpictures" alt=""/>
       <caption webpage="link_en_desktop_folderpictures" alt=""/>
       <caption webpage="link_en_desktop_folderpictures" alt=""/>
       <caption webpage="link_en_desktop_folderpictures" alt=""/>
@@ -7882,8 +7909,14 @@
       <caption webpage="link_en_desktop_whatsapp" alt=""/>
       <caption webpage="link_en_desktop_whatsapp" alt=""/>
       <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
     </file>
     <file name="link_en_desktop_dreamweaver.gif" crc="264746160" seo="true" ref="link_en_desktop_dreamweaver">
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
       <caption webpage="link_en_desktop_dreamweaver" alt=""/>
       <caption webpage="link_en_desktop_dreamweaver" alt=""/>
       <caption webpage="link_en_desktop_dreamweaver" alt=""/>
@@ -7894,8 +7927,14 @@
       <caption webpage="link_en_desktop_photoshop" alt=""/>
       <caption webpage="link_en_desktop_photoshop" alt=""/>
       <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
     </file>
     <file name="link_en_desktop_acad.gif" crc="24530910" seo="true" ref="link_en_desktop_acad">
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
       <caption webpage="link_en_desktop_acad" alt=""/>
       <caption webpage="link_en_desktop_acad" alt=""/>
       <caption webpage="link_en_desktop_acad" alt=""/>
@@ -7906,18 +7945,30 @@
       <caption webpage="link_en_desktop_chrome" alt=""/>
       <caption webpage="link_en_desktop_chrome" alt=""/>
       <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+    </file>
+    <file name="link_en_desktop_folderdownloads.gif" crc="4103194727" seo="true" ref="link_en_desktop_folderdownloads">
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
+      <caption webpage="link_en_desktop_folderdownloads" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4207753047" seo="true" mt="1741356880864" redirect="true"/>
-  <file name="en.html" crc="3758915309" seo="true" mt="1741356729009" redirect="true"/>
-  <file name="es.html" crc="280459989" seo="true" mt="1741356729119" redirect="true"/>
-  <file name="fr.html" crc="3929188600" seo="true" mt="1741356729119" redirect="true"/>
-  <file name="it.html" crc="4077501077" seo="true" mt="1741356729119" redirect="true"/>
-  <file name="pl.html" crc="107840638" seo="true" mt="1741356729104" redirect="true"/>
-  <file name="pt.html" crc="4099257667" seo="true" mt="1741356729104" redirect="true"/>
-  <file name="ru.html" crc="28336729" seo="true" mt="1741356729104" redirect="true"/>
-  <file name="sv.html" crc="429299387" seo="true" mt="1741356729088" redirect="true"/>
-  <file name="tr.html" crc="4092281923" seo="true" mt="1741356729088" redirect="true"/>
+  <file name="en.html" crc="3803790220" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="es.html" crc="41004644" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="fr.html" crc="3858635542" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="it.html" crc="4194569881" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="pl.html" crc="420322591" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="pt.html" crc="55368782" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="ru.html" crc="137365332" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="sv.html" crc="458427095" seo="true" mt="1741360619394" redirect="true"/>
+  <file name="tr.html" crc="262488766" seo="true" mt="1741360619394" redirect="true"/>
   <file name="en_download.html" crc="414021881" seo="true" mt="1741184163724" redirect="true"/>
   <file name="de_download.html" crc="67260061" seo="true" mt="1741184046592" redirect="true"/>
   <file name="es_download.html" crc="48286445" seo="true" mt="1741184296089" redirect="true"/>
@@ -7928,7 +7979,7 @@
   <file name="ru_download.html" crc="495839794" seo="true" mt="1741184744401" redirect="true"/>
   <file name="sv_download.html" crc="3894968841" seo="true" mt="1741184821779" redirect="true"/>
   <file name="tr_download.html" crc="371210664" seo="true" mt="1741184919184" redirect="true"/>
-  <file name="de.html" crc="37450221" seo="true" mt="1741346851935" redirect="true"/>
+  <file name="de.html" crc="4091250699" seo="true" mt="1741360619394" redirect="true"/>
   <file name="tr_pum_desktop.html" crc="4028686523" seo="true" mt="1741274316816" redirect="true"/>
   <file name="tr_pum_word.html" crc="4975474" seo="true" mt="1741274374418" redirect="true"/>
   <file name="tr_pum_chrome.html" crc="4094727805" seo="true" mt="1741274345118" redirect="true"/>
@@ -8223,13 +8274,12 @@
   <file name="photoshop_en.html" crc="175328889" seo="true" mt="1741182692815" redirect="true"/>
   <file name="photoshop_de.html" crc="515688124" seo="true" mt="1741182462715" redirect="true"/>
   <file name="en_pum_chrome.html" crc="235028012" seo="true" mt="1741342105702" redirect="true"/>
-  <file name="link_en_desktop_folderdownloads.html" crc="4178009642" seo="true" mt="1741356901747" redirect="true"/>
-  <file name="link_en_desktop_foldermusic.html" crc="3885234800" seo="true" mt="1741356904538" redirect="true"/>
-  <file name="link_en_desktop_folderpictures.html" crc="4277191452" seo="true" mt="1741356910123" redirect="true"/>
-  <file name="link_en_desktop_whatsapp.html" crc="204401453" seo="true" mt="1741356918454" redirect="true"/>
-  <file name="link_en_desktop_dreamweaver.html" crc="4294231120" seo="true" mt="1741356930416" redirect="true"/>
-  <file name="link_en_desktop_photoshop.html" crc="441724938" seo="true" mt="1741356935419" redirect="true"/>
-  <file name="link_en_desktop_acad.html" crc="4113924427" seo="true" mt="1741356943637" redirect="true"/>
-  <file name="link_en_desktop_chrome.html" crc="3907147800" seo="true" mt="1741356946414" redirect="true"/>
-  <file name="link_en_chrome_getintopc.html" crc="80086323" seo="true" mt="1741357148662" redirect="false"/>
+  <file name="link_en_desktop_folderdownloads.html" crc="4205415069" seo="true" mt="1741362018068" redirect="true"/>
+  <file name="link_en_desktop_foldermusic.html" crc="4084071776" seo="true" mt="1741362024552" redirect="true"/>
+  <file name="link_en_desktop_whatsapp.html" crc="507588366" seo="true" mt="1741362037941" redirect="true"/>
+  <file name="link_en_desktop_dreamweaver.html" crc="226445503" seo="true" mt="1741362045191" redirect="true"/>
+  <file name="link_en_desktop_photoshop.html" crc="3974733776" seo="true" mt="1741361973440" redirect="true"/>
+  <file name="link_en_desktop_acad.html" crc="177857394" seo="true" mt="1741361992046" redirect="true"/>
+  <file name="link_en_desktop_chrome.html" crc="4121172581" seo="true" mt="1741362010229" redirect="true"/>
+  <file name="ink_en_desktop_folderpictures.html" crc="20304610" seo="true" mt="1741362031123" redirect="true"/>
 </manifest>
