@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741342142801">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741342747992">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="4090276180" ref="de:sv:tr:pl:ru:pt:es:fr:it:en"/>
@@ -41,7 +41,7 @@
     <file name="nomq_ru_photoshop_colorrange.css" crc="3821948138" ref="ru_photoshop_colorrange"/>
     <file name="it_desktop_dreamweaver.css" crc="375545163" ref="it_desktop_dreamweaver"/>
     <file name="nomq_it_desktop_dreamweaver.css" crc="4217910001" ref="it_desktop_dreamweaver"/>
-    <file name="en_pum_desktop.css" crc="4099671049" ref="en_pum_desktop"/>
+    <file name="en_pum_desktop.css" crc="4134193326" ref="en_pum_desktop"/>
     <file name="de_word_address.css" crc="360746019" ref="de_word_address"/>
     <file name="nomq_de_word_address.css" crc="3876541087" ref="de_word_address"/>
     <file name="sv_desktop_foldermusic.css" crc="502539122" ref="sv_desktop_foldermusic"/>
@@ -984,6 +984,7 @@
       <caption webpage="tr_pum_desktop" alt=""/>
     </file>
     <file name="common_tooltip_app.png" crc="4291563618" ref="tr_pum_desktop:sv_pum_desktop:ru_pum_desktop:pt_pum_desktop:pl_pum_desktop:it_pum_desktop:fr_pum_desktop:es_pum_desktop:en_pum_desktop:de_pum_desktop">
+      <caption webpage="en_pum_desktop" alt=""/>
       <caption webpage="tr_pum_desktop" alt=""/>
     </file>
     <file name="tr_pum_word-favicon.ico" crc="4182333245" ref="tr_pum_word"/>
@@ -1140,12 +1141,14 @@
     <file name="es_pum_desktop-favicon.ico" crc="4182333245" ref="es_pum_desktop"/>
     <file name="en_pum_photoshop-favicon.ico" crc="4182333245" ref="en_pum_photoshop"/>
     <file name="en_tooltip_folder.png" crc="54933690" ref="en_pum_photoshop:en_pum_word:en_pum_chrome:en_pum_desktop">
-      <caption webpage="en_pum_photoshop" alt=""/>
       <caption webpage="en_pum_chrome" alt=""/>
+      <caption webpage="en_pum_desktop" alt=""/>
+      <caption webpage="en_pum_photoshop" alt=""/>
     </file>
     <file name="en_tooltip_close.png" crc="4173865774" ref="en_pum_photoshop:en_pum_word:en_pum_chrome:en_pum_desktop">
-      <caption webpage="en_pum_photoshop" alt=""/>
       <caption webpage="en_pum_chrome" alt=""/>
+      <caption webpage="en_pum_desktop" alt=""/>
+      <caption webpage="en_pum_photoshop" alt=""/>
     </file>
     <file name="en_tooltip_menu.png" crc="4080229362" ref="en_pum_photoshop">
       <caption webpage="en_pum_photoshop" alt=""/>
@@ -7975,6 +7978,7 @@
     <file name="download_de-u82933-fr2.jpg" crc="353191957" ref="de"/>
     <file name="download_rollover_de-u82933-r-fr2.jpg" crc="3979418682" ref="de"/>
     <file name="pum_desktop.jpg" crc="4123822089" ref="tr_pum_desktop:sv_pum_desktop:ru_pum_desktop:pt_pum_desktop:pl_pum_desktop:it_pum_desktop:fr_pum_desktop:es_pum_desktop:en_pum_desktop:de_pum_desktop">
+      <caption webpage="en_pum_desktop" alt=""/>
       <caption webpage="tr_pum_desktop" alt=""/>
     </file>
     <file name="pum_word.jpg" crc="3823374218" ref="tr_pum_word:sv_pum_word:ru_pum_word:pt_pum_word:pl_pum_word:it_pum_word:fr_pum_word:es_pum_word:en_pum_word:de_pum_word">
@@ -8053,7 +8057,7 @@
   <file name="en_pum_photoshop.html" crc="3919922812" seo="true" mt="1741272869890" redirect="true"/>
   <file name="en_pum_word.html" crc="437831966" seo="true" mt="1741272813086" redirect="true"/>
   <file name="en_pum_chrome.html" crc="522544138" seo="true" mt="1741342105702" redirect="true"/>
-  <file name="en_pum_desktop.html" crc="93708540" seo="true" mt="1741272622477" redirect="true"/>
+  <file name="en_pum_desktop.html" crc="4041560513" seo="true" mt="1741342716592" redirect="true"/>
   <file name="de_pum_photoshop.html" crc="3985868331" seo="true" mt="1741272498711" redirect="true"/>
   <file name="de_pum_word.html" crc="3791054824" seo="true" mt="1741272449595" redirect="true"/>
   <file name="de_pum_chrome.html" crc="449692556" seo="true" mt="1741272389400" redirect="true"/>
