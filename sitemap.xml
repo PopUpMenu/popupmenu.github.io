@@ -1868,7 +1868,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/sv_photoshop_canvassize.html</loc>
+    <loc>https://popupmenu.github.io/sv_photoshop_adjustbw.html</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2108,13 +2108,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/tr_word_address.html</loc>
+    <loc>https://popupmenu.github.io/sv_photoshop_canvassize.html</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/sv_photoshop_adjustbw.html</loc>
+    <loc>https://popupmenu.github.io/tr_word_file2.html</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2228,7 +2228,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/photoshop_en.html</loc>
+    <loc>https://popupmenu.github.io/tr_word_address.html</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/photoshop_de.html</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2236,20 +2242,14 @@
       <image:loc>https://popupmenu.github.io/images/midnight.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/popupmenu.jpg</image:loc>
+      <image:loc>https://popupmenu.github.io/images/free_download.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
+      <image:loc>https://popupmenu.github.io/images/logo_popupmenu.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/photoshopgui_en.jpg</image:loc>
+      <image:loc>https://popupmenu.github.io/images/photoshopgui_de.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>https://popupmenu.github.io/tr_word_file2.html</loc>
-    <lastmod>2025-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr_word_file1.html</loc>
@@ -2300,19 +2300,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/link_en_desktop_folderpictures.html</loc>
-    <lastmod>2025-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_en_desktop_folderpictures.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://popupmenu.github.io/photoshop_de.html</loc>
+    <loc>https://popupmenu.github.io/photoshop_en.html</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2320,13 +2308,25 @@
       <image:loc>https://popupmenu.github.io/images/midnight.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/free_download.jpg</image:loc>
+      <image:loc>https://popupmenu.github.io/images/popupmenu.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/logo_popupmenu.jpg</image:loc>
+      <image:loc>https://popupmenu.github.io/images/free_download.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/photoshopgui_de.jpg</image:loc>
+      <image:loc>https://popupmenu.github.io/images/photoshopgui_en.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/link_en_desktop_whatsapp.html</loc>
+    <lastmod>2025-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_en_desktop_whatsapp.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -2363,7 +2363,7 @@
     </image:image>
   </url>
   <url>
-    <loc>https://popupmenu.github.io/link_en_desktop_photoshop.html</loc>
+    <loc>https://popupmenu.github.io/link_en_desktop_folderpictures.html</loc>
     <lastmod>2025-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2371,31 +2371,7 @@
       <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_en_desktop_photoshop.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://popupmenu.github.io/link_en_desktop_whatsapp.html</loc>
-    <lastmod>2025-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_en_desktop_whatsapp.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://popupmenu.github.io/link_en_desktop_dreamweaver.html</loc>
-    <lastmod>2025-03-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_en_desktop_dreamweaver.gif</image:loc>
+      <image:loc>https://popupmenu.github.io/images/link_en_desktop_folderpictures.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -2411,6 +2387,30 @@
     </image:image>
   </url>
   <url>
+    <loc>https://popupmenu.github.io/link_en_desktop_dreamweaver.html</loc>
+    <lastmod>2025-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_en_desktop_dreamweaver.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/link_en_desktop_photoshop.html</loc>
+    <lastmod>2025-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_en_desktop_photoshop.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://popupmenu.github.io/link_en_desktop_chrome.html</loc>
     <lastmod>2025-03-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -2421,6 +2421,12 @@
     <image:image>
       <image:loc>https://popupmenu.github.io/images/link_en_desktop_chrome.gif</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://popupmenu.github.io/link_en_chrome_getintopc.html</loc>
+    <lastmod>2025-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://popupmenu.github.io/assets/webvideo.mp4</loc>
