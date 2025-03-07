@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741366908419">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741367179003">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="3995553195" ref="pt:en:de:sv:ru:tr:pl:it:es:fr"/>
@@ -299,7 +299,7 @@
     <file name="nomq_ru_chrome_ipcgames.css" crc="3991019868" ref="ru_chrome_ipcgames"/>
     <file name="fr_chrome_folderdownloads.css" crc="4289534474" ref="fr_chrome_folderdownloads"/>
     <file name="nomq_fr_chrome_folderdownloads.css" crc="242304535" ref="fr_chrome_folderdownloads"/>
-    <file name="en_pum_desktop.css" crc="4134193326" ref="en_pum_desktop"/>
+    <file name="en_pum_desktop.css" crc="4142587876" ref="en_pum_desktop"/>
     <file name="ru_chrome_getintopc.css" crc="473346121" ref="ru_chrome_getintopc"/>
     <file name="nomq_ru_chrome_getintopc.css" crc="319139267" ref="ru_chrome_getintopc"/>
     <file name="fr_chrome_web-air.css" crc="216487572" ref="fr_chrome_web-air"/>
@@ -8014,7 +8014,7 @@
   <file name="es_pum_desktop.html" crc="42581472" seo="true" mt="1741272966782" redirect="true"/>
   <file name="en_pum_photoshop.html" crc="4015981223" seo="true" mt="1741272869890" redirect="true"/>
   <file name="en_pum_word.html" crc="451689325" seo="true" mt="1741272813086" redirect="true"/>
-  <file name="en_pum_desktop.html" crc="280763625" seo="true" mt="1741366871713" redirect="true"/>
+  <file name="en_pum_desktop.html" crc="493290723" seo="true" mt="1741367149099" redirect="true"/>
   <file name="de_pum_photoshop.html" crc="3949576944" seo="true" mt="1741272498711" redirect="true"/>
   <file name="de_pum_word.html" crc="3775010203" seo="true" mt="1741272449595" redirect="true"/>
   <file name="de_pum_chrome.html" crc="3916671623" seo="true" mt="1741272389400" redirect="true"/>
