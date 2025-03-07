@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741366711164">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741366908419">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="3995553195" ref="pt:en:de:sv:ru:tr:pl:it:es:fr"/>
@@ -6334,8 +6334,8 @@
     <file name="videolink_pumsub_3_de-u82962-m-fr4.jpg" crc="422136838" ref="de"/>
     <file name="tr_pum_desktop-favicon.ico" crc="4182333245" ref="tr_pum_desktop"/>
     <file name="pum_desktop.jpg" crc="4123822089" ref="tr_pum_desktop:sv_pum_desktop:ru_pum_desktop:pt_pum_desktop:pl_pum_desktop:it_pum_desktop:fr_pum_desktop:es_pum_desktop:en_pum_desktop:de_pum_desktop">
-      <caption webpage="en_pum_desktop" alt=""/>
       <caption webpage="tr_pum_desktop" alt=""/>
+      <caption webpage="en_pum_desktop" alt=""/>
     </file>
     <file name="tr_tooltip_folder.png" crc="492482945" ref="tr_pum_desktop:tr_pum_word:tr_pum_chrome:tr_pum_photoshop">
       <caption webpage="tr_pum_desktop" alt=""/>
@@ -6344,8 +6344,8 @@
       <caption webpage="tr_pum_desktop" alt=""/>
     </file>
     <file name="common_tooltip_app.png" crc="4291563618" ref="tr_pum_desktop:sv_pum_desktop:ru_pum_desktop:pt_pum_desktop:pl_pum_desktop:it_pum_desktop:fr_pum_desktop:es_pum_desktop:en_pum_desktop:de_pum_desktop">
-      <caption webpage="en_pum_desktop" alt=""/>
       <caption webpage="tr_pum_desktop" alt=""/>
+      <caption webpage="en_pum_desktop" alt=""/>
     </file>
     <file name="tr_pum_word-favicon.ico" crc="4182333245" ref="tr_pum_word"/>
     <file name="pum_word.jpg" crc="3823374218" ref="tr_pum_word:sv_pum_word:ru_pum_word:pt_pum_word:pl_pum_word:it_pum_word:fr_pum_word:es_pum_word:en_pum_word:de_pum_word">
@@ -6509,12 +6509,12 @@
     <file name="es_pum_desktop-favicon.ico" crc="4182333245" ref="es_pum_desktop"/>
     <file name="en_pum_photoshop-favicon.ico" crc="4182333245" ref="en_pum_photoshop"/>
     <file name="en_tooltip_folder.png" crc="54933690" ref="en_pum_photoshop:en_pum_word:en_pum_desktop:en_pum_chrome">
-      <caption webpage="en_pum_desktop" alt=""/>
       <caption webpage="en_pum_photoshop" alt=""/>
+      <caption webpage="en_pum_desktop" alt=""/>
     </file>
     <file name="en_tooltip_close.png" crc="4173865774" ref="en_pum_photoshop:en_pum_word:en_pum_desktop:en_pum_chrome">
-      <caption webpage="en_pum_desktop" alt=""/>
       <caption webpage="en_pum_photoshop" alt=""/>
+      <caption webpage="en_pum_desktop" alt=""/>
     </file>
     <file name="en_tooltip_menu.png" crc="4080229362" ref="en_pum_photoshop">
       <caption webpage="en_pum_photoshop" alt=""/>
@@ -8014,7 +8014,7 @@
   <file name="es_pum_desktop.html" crc="42581472" seo="true" mt="1741272966782" redirect="true"/>
   <file name="en_pum_photoshop.html" crc="4015981223" seo="true" mt="1741272869890" redirect="true"/>
   <file name="en_pum_word.html" crc="451689325" seo="true" mt="1741272813086" redirect="true"/>
-  <file name="en_pum_desktop.html" crc="3841917960" seo="true" mt="1741357384081" redirect="true"/>
+  <file name="en_pum_desktop.html" crc="280763625" seo="true" mt="1741366871713" redirect="true"/>
   <file name="de_pum_photoshop.html" crc="3949576944" seo="true" mt="1741272498711" redirect="true"/>
   <file name="de_pum_word.html" crc="3775010203" seo="true" mt="1741272449595" redirect="true"/>
   <file name="de_pum_chrome.html" crc="3916671623" seo="true" mt="1741272389400" redirect="true"/>
