@@ -2344,6 +2344,9 @@
       <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://popupmenu.github.io/images/link_bg_desktop320x214.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://popupmenu.github.io/images/link_en_desktop_foldermusic.gif</image:loc>
     </image:image>
   </url>
@@ -2414,9 +2417,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>https://popupmenu.github.io/images/link_bg_desktop.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://popupmenu.github.io/images/link_bg_desktop320x214.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://popupmenu.github.io/images/link_en_desktop_folderdownload.gif</image:loc>
