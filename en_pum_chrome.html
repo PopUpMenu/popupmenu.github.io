@@ -11,16 +11,44 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "en_pum_chrome.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "jquery.musepolyfill.bgsize.js", "en_pum_chrome.css"], "outOfDate":[]};
 </script>
   
-  <link rel="shortcut icon" href="images/en_pum_chrome-favicon.ico?crc=4182333245"/>
-  <title>en_pum_chrome</title>
+  <link rel="shortcut icon" href="images/popup-favicon.ico?crc=4182333245"/>
+  <title>PopUpMenu | en_pum_chrome</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/en_pum_chrome.css?crc=420128762" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_popup.css?crc=334784570"/>
+  <link rel="stylesheet" type="text/css" href="css/en_pum_chrome.css?crc=454582404" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_popup.css?crc=84448168"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_en_pum_chrome.css?crc=58090067" id="nomq_pagesheet"/>
+  <![endif]-->
     <!--custom head HTML-->
-  <!-- Google tag (gtag.js) -->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TNFTPX');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<script type="text/javascript">
+  function pum_popup(url) {
+    var tbarh, pumw, pumh, pumx, pumy;
+    tbarh = (window.outerHeight - window.innerHeight);
+    pumw = 404;
+    pumh = tbarh
+    pumx = (window.screen.width / 2) - ((pumw / 2) + 10);
+    pumy = (window.screen.height / 2) - ((pumh / 2) + 40);
+window.open(url, "Window2", "height=" + pumh + ",width=" + pumw + ",left=" + pumx + ",top=" + pumy + ",screenX=" + pumx + ",screenY=" + pumy);
+  }
+</script>
+
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-N3MZ2RZ6E5"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -32,88 +60,131 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div id="u96225-wrapper">
-    <div class="museBGSize" id="u96225"><!-- simple frame --></div>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="770"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox shared_content" id="page" data-content-guid="page_content"><!-- group -->
+    <div class="clearfix grpelem" id="pu96225"><!-- group -->
+     <div id="u96225-wrapper">
+      <div class="museBGSize" id="u96225"><!-- simple frame --></div>
+     </div>
+     <div id="u96222-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96222" href="en_chrome_getintopc.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96230-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96230" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96218-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96218" href="en_chrome_folderdownloads.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96221-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96221" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96228-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96228" href="en_chrome_oceanofgames.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96214-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96214" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96238-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96238" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96223-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96223" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96233-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96233" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96226-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96226" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96224-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96224" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96232-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96232" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96235-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96235" href="en_chrome_web-air.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96215-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96215" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96234-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96234" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96227-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96227" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96217-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96217" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96216-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96216" href="en_chrome_ipcgames.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96220-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96220" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96229-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96229" href="en_chrome_reichelt.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96236-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96236" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96231-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96231" href="en_chrome_midnightitsalmost.html"><!-- simple frame --></a>
+     </div>
+     <div id="u96219-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96219" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+     <div id="u96237-wrapper">
+      <a class="nonblock nontext museBGSize" id="u96237" href="javascript:window.close()"><!-- simple frame --></a>
+     </div>
+    </div>
+    <div class="grpelem" id="u153323"><!-- custom html -->
+     <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5TNFTPX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    </div>
+    <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="326" data-content-below-spacer="200" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
-   <div id="u96222-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96222" href="en_chrome_getintopc.html"><!-- simple frame --></a>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/common_tooltip_http.png?crc=4207436826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_close.png?crc=4173865774" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_folder.png?crc=54933690" alt="" src="images/blank.gif?crc=4208392903"/>
    </div>
-   <div id="u96230-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96230" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96218-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96218" href="en_chrome_folderdownloads.html"><!-- simple frame --></a>
-   </div>
-   <div id="u96221-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96221" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96228-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96228" href="en_chrome_oceanofgames.html"><!-- simple frame --></a>
-   </div>
-   <div id="u96214-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96214" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96238-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96238" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96223-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96223" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96233-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96233" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96226-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96226" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96224-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96224" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96232-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96232" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96235-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96235" href="en_chrome_web-air.html"><!-- simple frame --></a>
-   </div>
-   <div id="u96215-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96215" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96234-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96234" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96227-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96227" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96217-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96217" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96216-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96216" href="en_chrome_ipcgames.html"><!-- simple frame --></a>
-   </div>
-   <div id="u96220-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96220" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96229-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96229" href="en_chrome_reichelt.html"><!-- simple frame --></a>
-   </div>
-   <div id="u96236-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96236" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96231-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96231" href="en_chrome_midnightitsalmost.html"><!-- simple frame --></a>
-   </div>
-   <div id="u96219-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96219" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div id="u96237-wrapper">
-    <a class="nonblock nontext museBGSize" id="u96237" href="javascript:window.close()"><!-- simple frame --></a>
-   </div>
-   <div class="verticalspacer" data-offset-top="0" data-content-above-spacer="0" data-content-below-spacer="264" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
-  <div class="preload_images">
-   <img class="preload" src="images/common_tooltip_http.png?crc=4207436826" alt=""/>
-   <img class="preload" src="images/en_tooltip_close.png?crc=4173865774" alt=""/>
-   <img class="preload" src="images/en_tooltip_folder.png?crc=54933690" alt=""/>
+  <div class="breakpoint" id="bp_769" data-min-width="602" data-max-width="769"><!-- responsive breakpoint node -->
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/common_tooltip_http.png?crc=4207436826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_close.png?crc=4173865774" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_folder.png?crc=54933690" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_601" data-min-width="482" data-max-width="601"><!-- responsive breakpoint node -->
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/common_tooltip_http.png?crc=4207436826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_close.png?crc=4173865774" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_folder.png?crc=54933690" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_481" data-min-width="321" data-max-width="481"><!-- responsive breakpoint node -->
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/common_tooltip_http.png?crc=4207436826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_close.png?crc=4173865774" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_folder.png?crc=54933690" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <span class="clearfix borderbox placeholder" data-placeholder-for="page_content"><!-- placeholder node --></span>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/common_tooltip_http-u96222-r-fr.png?crc=4195337745" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_close.png?crc=4173865774" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/en_tooltip_folder-u96218-r-fr.png?crc=4158391394" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -126,13 +197,13 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
