@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741875844777">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741880161744">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="170011288" ref="es:fr:it:pl:pt:ru:sv:tr:de:en"/>
@@ -151,29 +151,29 @@
     <file name="nomq_link_pt_photoshop_colorrange.css" crc="235106937" ref="link_pt_photoshop_colorrange"/>
     <file name="link_pl_photoshop_folderpictures.css" crc="3848530437" ref="link_pl_photoshop_folderpictures"/>
     <file name="nomq_link_pl_photoshop_folderpictures.css" crc="4153935508" ref="link_pl_photoshop_folderpictures"/>
-    <file name="tr_pum_desktop.css" crc="259984773" ref="tr_pum_desktop"/>
+    <file name="tr_pum_desktop.css" crc="470698804" ref="tr_pum_desktop"/>
     <file name="link_tr_chrome_reichelt.css" crc="3834616831" ref="link_tr_chrome_reichelt"/>
     <file name="nomq_link_tr_chrome_reichelt.css" crc="508872651" ref="link_tr_chrome_reichelt"/>
     <file name="link_ru_word_email.css" crc="339096851" ref="link_ru_word_email"/>
     <file name="nomq_link_ru_word_email.css" crc="206255616" ref="link_ru_word_email"/>
     <file name="link_pt_desktop_folderdownload.css" crc="2617100" ref="link_pt_desktop_folderdownload"/>
     <file name="nomq_link_pt_desktop_folderdownload.css" crc="175595671" ref="link_pt_desktop_folderdownload"/>
-    <file name="tr_pum_word.css" crc="4189976076" ref="tr_pum_word"/>
+    <file name="tr_pum_word.css" crc="4230613818" ref="tr_pum_word"/>
     <file name="link_pt_photoshop_canvassize.css" crc="3831044065" ref="link_pt_photoshop_canvassize"/>
     <file name="nomq_link_pt_photoshop_canvassize.css" crc="4189555475" ref="link_pt_photoshop_canvassize"/>
     <file name="link_pl_word_file2.css" crc="11913832" ref="link_pl_word_file2"/>
     <file name="nomq_link_pl_word_file2.css" crc="3814141963" ref="link_pl_word_file2"/>
-    <file name="tr_pum_chrome.css" crc="478216295" ref="tr_pum_chrome"/>
+    <file name="tr_pum_chrome.css" crc="4251930719" ref="tr_pum_chrome"/>
     <file name="link_ru_photoshop_canvassize.css" crc="4254755996" ref="link_ru_photoshop_canvassize"/>
     <file name="nomq_link_ru_photoshop_canvassize.css" crc="4046495976" ref="link_ru_photoshop_canvassize"/>
     <file name="link_fr_chrome_folderdownload.css" crc="4031546842" ref="link_fr_chrome_folderdownload"/>
     <file name="nomq_link_fr_chrome_folderdownload.css" crc="523503116" ref="link_fr_chrome_folderdownload"/>
-    <file name="tr_pum_photoshop.css" crc="4018428985" ref="tr_pum_photoshop"/>
+    <file name="tr_pum_photoshop.css" crc="18145256" ref="tr_pum_photoshop"/>
     <file name="link_pt_chrome_getintopc.css" crc="300594437" ref="link_pt_chrome_getintopc"/>
     <file name="nomq_link_pt_chrome_getintopc.css" crc="11301435" ref="link_pt_chrome_getintopc"/>
     <file name="link_fr_desktop_acad.css" crc="417810133" ref="link_fr_desktop_acad"/>
     <file name="nomq_link_fr_desktop_acad.css" crc="4034815893" ref="link_fr_desktop_acad"/>
-    <file name="sv_pum_photoshop.css" crc="214556429" ref="sv_pum_photoshop"/>
+    <file name="sv_pum_photoshop.css" crc="260117421" ref="sv_pum_photoshop"/>
     <file name="link_it_chrome_reichelt.css" crc="44893020" ref="link_it_chrome_reichelt"/>
     <file name="nomq_link_it_chrome_reichelt.css" crc="4242249509" ref="link_it_chrome_reichelt"/>
     <file name="link_es_photoshop_exportas.css" crc="120452895" ref="link_es_photoshop_exportas"/>
@@ -184,69 +184,69 @@
     <file name="nomq_link_it_desktop_dreamweaver.css" crc="4065421480" ref="link_it_desktop_dreamweaver"/>
     <file name="link_en_word_file2.css" crc="119785778" ref="link_en_word_file2"/>
     <file name="nomq_link_en_word_file2.css" crc="4065071034" ref="link_en_word_file2"/>
-    <file name="sv_pum_chrome.css" crc="4105886438" ref="sv_pum_chrome"/>
+    <file name="sv_pum_chrome.css" crc="3927872482" ref="sv_pum_chrome"/>
     <file name="link_tr_desktop_folderdownload.css" crc="4138225821" ref="link_tr_desktop_folderdownload"/>
     <file name="nomq_link_tr_desktop_folderdownload.css" crc="161116193" ref="link_tr_desktop_folderdownload"/>
     <file name="link_fr_photoshop_canvassize.css" crc="4169116182" ref="link_fr_photoshop_canvassize"/>
     <file name="nomq_link_fr_photoshop_canvassize.css" crc="3771545852" ref="link_fr_photoshop_canvassize"/>
-    <file name="sv_pum_word.css" crc="4056423274" ref="sv_pum_word"/>
-    <file name="sv_pum_desktop.css" crc="24857230" ref="sv_pum_desktop"/>
+    <file name="sv_pum_word.css" crc="455517696" ref="sv_pum_word"/>
+    <file name="sv_pum_desktop.css" crc="515219116" ref="sv_pum_desktop"/>
     <file name="link_es_word_address.css" crc="3869831838" ref="link_es_word_address"/>
     <file name="nomq_link_es_word_address.css" crc="18423103" ref="link_es_word_address"/>
     <file name="link_en_desktop_folderpictures.css" crc="168218138" ref="link_en_desktop_folderpictures"/>
     <file name="nomq_link_en_desktop_folderpictures.css" crc="4180885610" ref="link_en_desktop_folderpictures"/>
-    <file name="ru_pum_photoshop.css" crc="82742780" ref="ru_pum_photoshop"/>
+    <file name="ru_pum_photoshop.css" crc="4242683520" ref="ru_pum_photoshop"/>
     <file name="link_es_chrome_getintopc.css" crc="503359436" ref="link_es_chrome_getintopc"/>
     <file name="nomq_link_es_chrome_getintopc.css" crc="3874665673" ref="link_es_chrome_getintopc"/>
     <file name="link_pl_chrome_midnightitsalmost.css" crc="4275910956" ref="link_pl_chrome_midnightitsalmost"/>
     <file name="nomq_link_pl_chrome_midnightitsalmost.css" crc="4072186108" ref="link_pl_chrome_midnightitsalmost"/>
-    <file name="ru_pum_word.css" crc="4104140953" ref="ru_pum_word"/>
+    <file name="ru_pum_word.css" crc="13165206" ref="ru_pum_word"/>
     <file name="link_tr_desktop_foldermusic.css" crc="490888974" ref="link_tr_desktop_foldermusic"/>
     <file name="nomq_link_tr_desktop_foldermusic.css" crc="3811134004" ref="link_tr_desktop_foldermusic"/>
     <file name="link_es_desktop_folderdownload.css" crc="3825063574" ref="link_es_desktop_folderdownload"/>
     <file name="nomq_link_es_desktop_folderdownload.css" crc="4093954332" ref="link_es_desktop_folderdownload"/>
     <file name="link_pl_desktop_folderpictures.css" crc="4269708746" ref="link_pl_desktop_folderpictures"/>
     <file name="nomq_link_pl_desktop_folderpictures.css" crc="148359983" ref="link_pl_desktop_folderpictures"/>
-    <file name="ru_pum_chrome.css" crc="102664132" ref="ru_pum_chrome"/>
+    <file name="ru_pum_chrome.css" crc="447386263" ref="ru_pum_chrome"/>
     <file name="link_sv_desktop_acad.css" crc="64040383" ref="link_sv_desktop_acad"/>
     <file name="nomq_link_sv_desktop_acad.css" crc="442926812" ref="link_sv_desktop_acad"/>
     <file name="link_it_photoshop_folderpictures.css" crc="4224313633" ref="link_it_photoshop_folderpictures"/>
     <file name="nomq_link_it_photoshop_folderpictures.css" crc="3927254663" ref="link_it_photoshop_folderpictures"/>
-    <file name="ru_pum_desktop.css" crc="287862576" ref="ru_pum_desktop"/>
+    <file name="ru_pum_desktop.css" crc="279238645" ref="ru_pum_desktop"/>
     <file name="link_tr_desktop_dreamweaver.css" crc="3774509490" ref="link_tr_desktop_dreamweaver"/>
     <file name="nomq_link_tr_desktop_dreamweaver.css" crc="486246751" ref="link_tr_desktop_dreamweaver"/>
     <file name="link_ru_photoshop_exportas.css" crc="372129488" ref="link_ru_photoshop_exportas"/>
     <file name="nomq_link_ru_photoshop_exportas.css" crc="4028961192" ref="link_ru_photoshop_exportas"/>
     <file name="link_fr_desktop_photoshop.css" crc="202844559" ref="link_fr_desktop_photoshop"/>
     <file name="nomq_link_fr_desktop_photoshop.css" crc="437613483" ref="link_fr_desktop_photoshop"/>
-    <file name="pt_pum_photoshop.css" crc="3865020836" ref="pt_pum_photoshop"/>
+    <file name="pt_pum_photoshop.css" crc="4015521058" ref="pt_pum_photoshop"/>
     <file name="link_pt_word_file1.css" crc="468657589" ref="link_pt_word_file1"/>
     <file name="nomq_link_pt_word_file1.css" crc="4037057900" ref="link_pt_word_file1"/>
     <file name="link_de_chrome_ipcgames.css" crc="4259815956" ref="link_de_chrome_ipcgames"/>
     <file name="nomq_link_de_chrome_ipcgames.css" crc="3823512214" ref="link_de_chrome_ipcgames"/>
-    <file name="pt_pum_word.css" crc="3950280550" ref="pt_pum_word"/>
+    <file name="pt_pum_word.css" crc="165167322" ref="pt_pum_word"/>
     <file name="link_pt_chrome_ipcgames.css" crc="420456240" ref="link_pt_chrome_ipcgames"/>
     <file name="nomq_link_pt_chrome_ipcgames.css" crc="183122162" ref="link_pt_chrome_ipcgames"/>
     <file name="link_sv_chrome_folderdownload.css" crc="3950702256" ref="link_sv_chrome_folderdownload"/>
     <file name="nomq_link_sv_chrome_folderdownload.css" crc="4113360709" ref="link_sv_chrome_folderdownload"/>
-    <file name="pt_pum_chrome.css" crc="149184926" ref="pt_pum_chrome"/>
+    <file name="pt_pum_chrome.css" crc="3827196169" ref="pt_pum_chrome"/>
     <file name="link_en_chrome_midnightitsalmost.css" crc="4239233549" ref="link_en_chrome_midnightitsalmost"/>
     <file name="nomq_link_en_chrome_midnightitsalmost.css" crc="199332089" ref="link_en_chrome_midnightitsalmost"/>
     <file name="link_de_photoshop_folderpictures.css" crc="79365265" ref="link_de_photoshop_folderpictures"/>
     <file name="nomq_link_de_photoshop_folderpictures.css" crc="81860382" ref="link_de_photoshop_folderpictures"/>
-    <file name="pt_pum_desktop.css" crc="4223362406" ref="pt_pum_desktop"/>
+    <file name="pt_pum_desktop.css" crc="395464642" ref="pt_pum_desktop"/>
     <file name="link_ru_chrome_getintopc.css" crc="349475100" ref="link_ru_chrome_getintopc"/>
     <file name="nomq_link_ru_chrome_getintopc.css" crc="13624473" ref="link_ru_chrome_getintopc"/>
     <file name="link_fr_desktop_chrome.css" crc="290460532" ref="link_fr_desktop_chrome"/>
     <file name="nomq_link_fr_desktop_chrome.css" crc="3823341501" ref="link_fr_desktop_chrome"/>
-    <file name="pl_pum_photoshop.css" crc="192458809" ref="pl_pum_photoshop"/>
+    <file name="pl_pum_photoshop.css" crc="3796145953" ref="pl_pum_photoshop"/>
     <file name="link_tr_chrome_midnightitsalmost.css" crc="3918171677" ref="link_tr_chrome_midnightitsalmost"/>
     <file name="nomq_link_tr_chrome_midnightitsalmost.css" crc="488478217" ref="link_tr_chrome_midnightitsalmost"/>
     <file name="link_it_chrome_web-air.css" crc="4254124058" ref="link_it_chrome_web-air"/>
     <file name="nomq_link_it_chrome_web-air.css" crc="4257129727" ref="link_it_chrome_web-air"/>
     <file name="link_es_photoshop_colorrange.css" crc="278917200" ref="link_es_photoshop_colorrange"/>
     <file name="nomq_link_es_photoshop_colorrange.css" crc="3988467770" ref="link_es_photoshop_colorrange"/>
-    <file name="pl_pum_word.css" crc="463095802" ref="pl_pum_word"/>
+    <file name="pl_pum_word.css" crc="58988894" ref="pl_pum_word"/>
     <file name="link_pl_desktop_whatsapp.css" crc="393444307" ref="link_pl_desktop_whatsapp"/>
     <file name="nomq_link_pl_desktop_whatsapp.css" crc="17107932" ref="link_pl_desktop_whatsapp"/>
     <file name="link_en_word_folderdocuments.css" crc="4266483145" ref="link_en_word_folderdocuments"/>
@@ -257,41 +257,41 @@
     <file name="nomq_link_fr_photoshop_imagesize.css" crc="422867526" ref="link_fr_photoshop_imagesize"/>
     <file name="link_de_chrome_midnightitsalmost.css" crc="4027239286" ref="link_de_chrome_midnightitsalmost"/>
     <file name="nomq_link_de_chrome_midnightitsalmost.css" crc="314779778" ref="link_de_chrome_midnightitsalmost"/>
-    <file name="pl_pum_desktop.css" crc="3829759372" ref="pl_pum_desktop"/>
+    <file name="pl_pum_desktop.css" crc="3803934601" ref="pl_pum_desktop"/>
     <file name="link_es_word_file1.css" crc="218248626" ref="link_es_word_file1"/>
     <file name="nomq_link_es_word_file1.css" crc="255039405" ref="link_es_word_file1"/>
-    <file name="pl_pum_chrome.css" crc="3995587181" ref="pl_pum_chrome"/>
-    <file name="it_pum_photoshop.css" crc="3762376993" ref="it_pum_photoshop"/>
+    <file name="pl_pum_chrome.css" crc="4020118457" ref="pl_pum_chrome"/>
+    <file name="it_pum_photoshop.css" crc="456082138" ref="it_pum_photoshop"/>
     <file name="link_en_chrome_oceanofgames.css" crc="344829912" ref="link_en_chrome_oceanofgames"/>
     <file name="nomq_link_en_chrome_oceanofgames.css" crc="3861719385" ref="link_en_chrome_oceanofgames"/>
     <file name="link_de_photoshop_adjustbw.css" crc="271519155" ref="link_de_photoshop_adjustbw"/>
     <file name="nomq_link_de_photoshop_adjustbw.css" crc="3833742433" ref="link_de_photoshop_adjustbw"/>
-    <file name="it_pum_word.css" crc="78662256" ref="it_pum_word"/>
+    <file name="it_pum_word.css" crc="76641027" ref="it_pum_word"/>
     <file name="link_en_desktop_whatsapp.css" crc="75876958" ref="link_en_desktop_whatsapp"/>
     <file name="nomq_link_en_desktop_whatsapp.css" crc="4286482324" ref="link_en_desktop_whatsapp"/>
     <file name="link_it_desktop_photoshop.css" crc="351585862" ref="link_it_desktop_photoshop"/>
     <file name="nomq_link_it_desktop_photoshop.css" crc="511380939" ref="link_it_desktop_photoshop"/>
-    <file name="it_pum_chrome.css" crc="78742438" ref="it_pum_chrome"/>
+    <file name="it_pum_chrome.css" crc="433917327" ref="it_pum_chrome"/>
     <file name="link_es_chrome_ipcgames.css" crc="4281546449" ref="link_es_chrome_ipcgames"/>
     <file name="nomq_link_es_chrome_ipcgames.css" crc="484155085" ref="link_es_chrome_ipcgames"/>
     <file name="link_it_photoshop_adjustbw.css" crc="4173156812" ref="link_it_photoshop_adjustbw"/>
     <file name="nomq_link_it_photoshop_adjustbw.css" crc="4179050089" ref="link_it_photoshop_adjustbw"/>
-    <file name="it_pum_desktop.css" crc="4005904130" ref="it_pum_desktop"/>
+    <file name="it_pum_desktop.css" crc="451060249" ref="it_pum_desktop"/>
     <file name="link_es_desktop_foldermusic.css" crc="4181874106" ref="link_es_desktop_foldermusic"/>
     <file name="nomq_link_es_desktop_foldermusic.css" crc="167228385" ref="link_es_desktop_foldermusic"/>
     <file name="link_fr_word_email.css" crc="4224667965" ref="link_fr_word_email"/>
     <file name="nomq_link_fr_word_email.css" crc="4021144311" ref="link_fr_word_email"/>
-    <file name="fr_pum_photoshop.css" crc="398446570" ref="fr_pum_photoshop"/>
+    <file name="fr_pum_photoshop.css" crc="3994719773" ref="fr_pum_photoshop"/>
     <file name="link_pt_word_file2.css" crc="4079996692" ref="link_pt_word_file2"/>
     <file name="nomq_link_pt_word_file2.css" crc="3803657410" ref="link_pt_word_file2"/>
     <file name="link_de_chrome_oceanofgames.css" crc="191247430" ref="link_de_chrome_oceanofgames"/>
     <file name="nomq_link_de_chrome_oceanofgames.css" crc="3890898264" ref="link_de_chrome_oceanofgames"/>
-    <file name="fr_pum_word.css" crc="4280922076" ref="fr_pum_word"/>
+    <file name="fr_pum_word.css" crc="4140048341" ref="fr_pum_word"/>
     <file name="link_pt_chrome_midnightitsalmost.css" crc="429765844" ref="link_pt_chrome_midnightitsalmost"/>
     <file name="nomq_link_pt_chrome_midnightitsalmost.css" crc="83240777" ref="link_pt_chrome_midnightitsalmost"/>
     <file name="link_pl_chrome_oceanofgames.css" crc="487371399" ref="link_pl_chrome_oceanofgames"/>
     <file name="nomq_link_pl_chrome_oceanofgames.css" crc="3930449857" ref="link_pl_chrome_oceanofgames"/>
-    <file name="fr_pum_chrome.css" crc="367087190" ref="fr_pum_chrome"/>
+    <file name="fr_pum_chrome.css" crc="480308869" ref="fr_pum_chrome"/>
     <file name="link_it_desktop_whatsapp.css" crc="450354633" ref="link_it_desktop_whatsapp"/>
     <file name="nomq_link_it_desktop_whatsapp.css" crc="57961148" ref="link_it_desktop_whatsapp"/>
     <file name="link_it_chrome_folderdownload.css" crc="3892810605" ref="link_it_chrome_folderdownload"/>
@@ -306,53 +306,53 @@
     <file name="nomq_link_fr_word_address.css" crc="4154718729" ref="link_fr_word_address"/>
     <file name="link_pl_chrome_reichelt.css" crc="135277207" ref="link_pl_chrome_reichelt"/>
     <file name="nomq_link_pl_chrome_reichelt.css" crc="10536808" ref="link_pl_chrome_reichelt"/>
-    <file name="fr_pum_desktop.css" crc="263667355" ref="fr_pum_desktop"/>
+    <file name="fr_pum_desktop.css" crc="3892953885" ref="fr_pum_desktop"/>
     <file name="link_en_chrome_reichelt.css" crc="4054353903" ref="link_en_chrome_reichelt"/>
     <file name="nomq_link_en_chrome_reichelt.css" crc="145277243" ref="link_en_chrome_reichelt"/>
     <file name="link_pt_desktop_foldermusic.css" crc="297508217" ref="link_pt_desktop_foldermusic"/>
     <file name="nomq_link_pt_desktop_foldermusic.css" crc="293042997" ref="link_pt_desktop_foldermusic"/>
-    <file name="es_pum_photoshop.css" crc="179608105" ref="es_pum_photoshop"/>
+    <file name="es_pum_photoshop.css" crc="4184744755" ref="es_pum_photoshop"/>
     <file name="link_fr_desktop_folderdownload.css" crc="214438821" ref="link_fr_desktop_folderdownload"/>
     <file name="nomq_link_fr_desktop_folderdownload.css" crc="3959999884" ref="link_fr_desktop_folderdownload"/>
     <file name="link_fr_photoshop_exportas.css" crc="34295747" ref="link_fr_photoshop_exportas"/>
     <file name="nomq_link_fr_photoshop_exportas.css" crc="165728748" ref="link_fr_photoshop_exportas"/>
     <file name="link_es_chrome_midnightitsalmost.css" crc="474511934" ref="link_es_chrome_midnightitsalmost"/>
     <file name="nomq_link_es_chrome_midnightitsalmost.css" crc="3784112182" ref="link_es_chrome_midnightitsalmost"/>
-    <file name="es_pum_desktop.css" crc="444431492" ref="es_pum_desktop"/>
+    <file name="es_pum_desktop.css" crc="228358191" ref="es_pum_desktop"/>
     <file name="link_es_word_file2.css" crc="275112229" ref="link_es_word_file2"/>
     <file name="nomq_link_es_word_file2.css" crc="4076960427" ref="link_es_word_file2"/>
-    <file name="es_pum_chrome.css" crc="3947958030" ref="es_pum_chrome"/>
-    <file name="en_pum_photoshop.css" crc="21517370" ref="en_pum_photoshop"/>
+    <file name="es_pum_chrome.css" crc="3819447230" ref="es_pum_chrome"/>
+    <file name="en_pum_photoshop.css" crc="418927090" ref="en_pum_photoshop"/>
     <file name="link_de_chrome_reichelt.css" crc="200550306" ref="link_de_chrome_reichelt"/>
     <file name="nomq_link_de_chrome_reichelt.css" crc="3925244643" ref="link_de_chrome_reichelt"/>
     <file name="link_de_photoshop_canvassize.css" crc="125168128" ref="link_de_photoshop_canvassize"/>
     <file name="nomq_link_de_photoshop_canvassize.css" crc="294404739" ref="link_de_photoshop_canvassize"/>
-    <file name="en_pum_word.css" crc="4153589401" ref="en_pum_word"/>
+    <file name="en_pum_word.css" crc="136565022" ref="en_pum_word"/>
     <file name="link_tr_chrome_oceanofgames.css" crc="194974061" ref="link_tr_chrome_oceanofgames"/>
     <file name="nomq_link_tr_chrome_oceanofgames.css" crc="4185033400" ref="link_tr_chrome_oceanofgames"/>
     <file name="link_it_desktop_acad.css" crc="71936588" ref="link_it_desktop_acad"/>
     <file name="nomq_link_it_desktop_acad.css" crc="450206125" ref="link_it_desktop_acad"/>
-    <file name="en_pum_desktop.css" crc="4164551742" ref="en_pum_desktop"/>
+    <file name="en_pum_desktop.css" crc="4233454101" ref="en_pum_desktop"/>
     <file name="link_en_photoshop_folderpictures.css" crc="4126197847" ref="link_en_photoshop_folderpictures"/>
     <file name="nomq_link_en_photoshop_folderpictures.css" crc="424667536" ref="link_en_photoshop_folderpictures"/>
     <file name="link_pt_word_folderdocuments.css" crc="3915776977" ref="link_pt_word_folderdocuments"/>
     <file name="nomq_link_pt_word_folderdocuments.css" crc="376970216" ref="link_pt_word_folderdocuments"/>
-    <file name="de_pum_photoshop.css" crc="3812813833" ref="de_pum_photoshop"/>
+    <file name="de_pum_photoshop.css" crc="3937060268" ref="de_pum_photoshop"/>
     <file name="link_ru_photoshop_colorrange.css" crc="27015583" ref="link_ru_photoshop_colorrange"/>
     <file name="nomq_link_ru_photoshop_colorrange.css" crc="234910818" ref="link_ru_photoshop_colorrange"/>
     <file name="link_pt_chrome_oceanofgames.css" crc="4072404348" ref="link_pt_chrome_oceanofgames"/>
     <file name="nomq_link_pt_chrome_oceanofgames.css" crc="201296306" ref="link_pt_chrome_oceanofgames"/>
-    <file name="de_pum_word.css" crc="536603729" ref="de_pum_word"/>
+    <file name="de_pum_word.css" crc="3780940647" ref="de_pum_word"/>
     <file name="link_ru_word_file2.css" crc="23472362" ref="link_ru_word_file2"/>
     <file name="nomq_link_ru_word_file2.css" crc="280641267" ref="link_ru_word_file2"/>
     <file name="link_de_chrome_web-air.css" crc="3771885066" ref="link_de_chrome_web-air"/>
     <file name="nomq_link_de_chrome_web-air.css" crc="3875525656" ref="link_de_chrome_web-air"/>
-    <file name="de_pum_chrome.css" crc="4084154992" ref="de_pum_chrome"/>
+    <file name="de_pum_chrome.css" crc="4106266389" ref="de_pum_chrome"/>
     <file name="link_ru_chrome_midnightitsalmost.css" crc="223065073" ref="link_ru_chrome_midnightitsalmost"/>
     <file name="nomq_link_ru_chrome_midnightitsalmost.css" crc="37207150" ref="link_ru_chrome_midnightitsalmost"/>
     <file name="link_en_desktop_dreamweaver.css" crc="3939858791" ref="link_en_desktop_dreamweaver"/>
     <file name="nomq_link_en_desktop_dreamweaver.css" crc="3898537690" ref="link_en_desktop_dreamweaver"/>
-    <file name="de_pum_desktop.css" crc="291293429" ref="de_pum_desktop"/>
+    <file name="de_pum_desktop.css" crc="4134730629" ref="de_pum_desktop"/>
     <file name="link_fr_chrome_getintopc.css" crc="215137723" ref="link_fr_chrome_getintopc"/>
     <file name="nomq_link_fr_chrome_getintopc.css" crc="3835654561" ref="link_fr_chrome_getintopc"/>
     <file name="link_pl_chrome_web-air.css" crc="3951895765" ref="link_pl_chrome_web-air"/>
@@ -369,7 +369,7 @@
     <file name="nomq_link_ru_chrome_ipcgames.css" crc="3843158301" ref="link_ru_chrome_ipcgames"/>
     <file name="link_fr_photoshop_colorrange.css" crc="428738140" ref="link_fr_photoshop_colorrange"/>
     <file name="nomq_link_fr_photoshop_colorrange.css" crc="19065791" ref="link_fr_photoshop_colorrange"/>
-    <file name="en_pum_chrome.css" crc="149591204" ref="en_pum_chrome"/>
+    <file name="en_pum_chrome.css" crc="212626385" ref="en_pum_chrome"/>
     <file name="link_pl_photoshop_adjustbw.css" crc="17259144" ref="link_pl_photoshop_adjustbw"/>
     <file name="nomq_link_pl_photoshop_adjustbw.css" crc="89621220" ref="link_pl_photoshop_adjustbw"/>
     <file name="link_es_word_folderdocuments.css" crc="4107931552" ref="link_es_word_folderdocuments"/>
@@ -406,7 +406,7 @@
     <file name="nomq_link_sv_word_file1.css" crc="3909013919" ref="link_sv_word_file1"/>
     <file name="link_pt_desktop_dreamweaver.css" crc="3988637818" ref="link_pt_desktop_dreamweaver"/>
     <file name="nomq_link_pt_desktop_dreamweaver.css" crc="3997675455" ref="link_pt_desktop_dreamweaver"/>
-    <file name="es_pum_word.css" crc="111675646" ref="es_pum_word"/>
+    <file name="es_pum_word.css" crc="348902404" ref="es_pum_word"/>
     <file name="link_pt_chrome_reichelt.css" crc="85330805" ref="link_pt_chrome_reichelt"/>
     <file name="nomq_link_pt_chrome_reichelt.css" crc="17681958" ref="link_pt_chrome_reichelt"/>
     <file name="link_pl_photoshop_canvassize.css" crc="4004321818" ref="link_pl_photoshop_canvassize"/>
@@ -8751,48 +8751,48 @@
   <file name="sv_download.html" crc="4194425618" mt="1741860804539" redirect="true"/>
   <file name="tr_download.html" crc="224462942" mt="1741860804555" redirect="true"/>
   <file name="de.html" crc="31779592" seo="true" mt="1741871660383" redirect="true"/>
-  <file name="tr_pum_desktop.html" crc="262064424" mt="1741860804555" redirect="true"/>
-  <file name="tr_pum_word.html" crc="535289617" mt="1741860804555" redirect="true"/>
-  <file name="tr_pum_chrome.html" crc="4144981532" mt="1741860804555" redirect="true"/>
-  <file name="tr_pum_photoshop.html" crc="4162660991" mt="1741860804570" redirect="true"/>
-  <file name="sv_pum_photoshop.html" crc="167151010" mt="1741860804570" redirect="true"/>
-  <file name="sv_pum_word.html" crc="75794917" mt="1741860804570" redirect="true"/>
-  <file name="sv_pum_chrome.html" crc="3871614110" mt="1741860804570" redirect="true"/>
-  <file name="sv_pum_desktop.html" crc="4122982398" mt="1741860804570" redirect="true"/>
-  <file name="ru_pum_photoshop.html" crc="65981560" mt="1741860804570" redirect="true"/>
-  <file name="ru_pum_word.html" crc="3953483644" mt="1741860804586" redirect="true"/>
-  <file name="ru_pum_chrome.html" crc="282503838" mt="1741860804586" redirect="true"/>
-  <file name="ru_pum_desktop.html" crc="4145824542" mt="1741860804586" redirect="true"/>
-  <file name="pt_pum_photoshop.html" crc="3946813980" mt="1741860804586" redirect="true"/>
-  <file name="pt_pum_word.html" crc="4289859415" mt="1741860804586" redirect="true"/>
-  <file name="pt_pum_chrome.html" crc="4261644642" mt="1741860804586" redirect="true"/>
-  <file name="pt_pum_desktop.html" crc="4161288203" mt="1741860804601" redirect="true"/>
-  <file name="pl_pum_photoshop.html" crc="3838717571" mt="1741860804610" redirect="true"/>
-  <file name="pl_pum_word.html" crc="75763656" mt="1741860804612" redirect="true"/>
-  <file name="pl_pum_chrome.html" crc="235865083" mt="1741860804614" redirect="true"/>
-  <file name="pl_pum_desktop.html" crc="4288836017" mt="1741860804617" redirect="true"/>
-  <file name="it_pum_photoshop.html" crc="4216953124" mt="1741860804618" redirect="true"/>
-  <file name="it_pum_word.html" crc="235025703" mt="1741860804621" redirect="true"/>
-  <file name="it_pum_chrome.html" crc="104511771" mt="1741860804623" redirect="true"/>
-  <file name="it_pum_desktop.html" crc="280288081" mt="1741860804626" redirect="true"/>
-  <file name="fr_pum_photoshop.html" crc="4004635040" mt="1741860804626" redirect="true"/>
-  <file name="fr_pum_word.html" crc="296923015" mt="1741860804626" redirect="true"/>
-  <file name="fr_pum_chrome.html" crc="4264506644" mt="1741860804626" redirect="true"/>
-  <file name="fr_pum_desktop.html" crc="4004209891" mt="1741860804626" redirect="true"/>
-  <file name="es_pum_photoshop.html" crc="4173773304" mt="1741860804626" redirect="true"/>
-  <file name="es_pum_word.html" crc="4164841267" mt="1741860804626" redirect="true"/>
-  <file name="es_pum_chrome.html" crc="527074784" mt="1741860804643" redirect="true"/>
-  <file name="es_pum_desktop.html" crc="476071244" mt="1741860804643" redirect="true"/>
-  <file name="en_pum_photoshop.html" crc="4048372079" mt="1741860804643" redirect="true"/>
-  <file name="en_pum_word.html" crc="454197290" mt="1741860804643" redirect="true"/>
-  <file name="en_pum_desktop.html" crc="3986080727" mt="1741860804659" redirect="true"/>
-  <file name="de_pum_photoshop.html" crc="431424437" mt="1741860804659" redirect="true"/>
-  <file name="de_pum_word.html" crc="382008288" mt="1741860804659" redirect="true"/>
-  <file name="de_pum_chrome.html" crc="3998686351" mt="1741860804659" redirect="true"/>
-  <file name="de_pum_desktop.html" crc="3966605411" mt="1741860804659" redirect="true"/>
+  <file name="tr_pum_desktop.html" crc="488819970" mt="1741880000675" redirect="true"/>
+  <file name="tr_pum_word.html" crc="430480637" mt="1741880077024" redirect="true"/>
+  <file name="tr_pum_chrome.html" crc="3778081949" mt="1741880048492" redirect="true"/>
+  <file name="tr_pum_photoshop.html" crc="3839930077" mt="1741880103854" redirect="true"/>
+  <file name="sv_pum_photoshop.html" crc="369196044" mt="1741879949197" redirect="true"/>
+  <file name="sv_pum_word.html" crc="356510220" mt="1741879920753" redirect="true"/>
+  <file name="sv_pum_chrome.html" crc="4128866582" mt="1741879894552" redirect="true"/>
+  <file name="sv_pum_desktop.html" crc="200562142" mt="1741879736154" redirect="true"/>
+  <file name="ru_pum_photoshop.html" crc="374130321" mt="1741879706007" redirect="true"/>
+  <file name="ru_pum_word.html" crc="278523594" mt="1741879677799" redirect="true"/>
+  <file name="ru_pum_chrome.html" crc="462887110" mt="1741879537387" redirect="true"/>
+  <file name="ru_pum_desktop.html" crc="4164705393" mt="1741879510035" redirect="true"/>
+  <file name="pt_pum_photoshop.html" crc="339516609" mt="1741879480847" redirect="true"/>
+  <file name="pt_pum_word.html" crc="4167986786" mt="1741879454394" redirect="true"/>
+  <file name="pt_pum_chrome.html" crc="4038571644" mt="1741879429150" redirect="true"/>
+  <file name="pt_pum_desktop.html" crc="63584378" mt="1741879403975" redirect="true"/>
+  <file name="pl_pum_photoshop.html" crc="245171899" mt="1741879374687" redirect="true"/>
+  <file name="pl_pum_word.html" crc="3793885350" mt="1741879349581" redirect="true"/>
+  <file name="pl_pum_chrome.html" crc="226922779" mt="1741879324237" redirect="true"/>
+  <file name="pl_pum_desktop.html" crc="3967706136" mt="1741879296948" redirect="true"/>
+  <file name="it_pum_photoshop.html" crc="164044591" mt="1741879268844" redirect="true"/>
+  <file name="it_pum_word.html" crc="55700490" mt="1741879243475" redirect="true"/>
+  <file name="it_pum_chrome.html" crc="226021353" mt="1741879217361" redirect="true"/>
+  <file name="it_pum_desktop.html" crc="3967139763" mt="1741879192072" redirect="true"/>
+  <file name="fr_pum_photoshop.html" crc="4086161881" mt="1741879163340" redirect="true"/>
+  <file name="fr_pum_word.html" crc="199653909" mt="1741879126821" redirect="true"/>
+  <file name="fr_pum_chrome.html" crc="4185692621" mt="1741879101056" redirect="true"/>
+  <file name="fr_pum_desktop.html" crc="523812278" mt="1741879075787" redirect="true"/>
+  <file name="es_pum_photoshop.html" crc="4263982021" mt="1741879048751" redirect="true"/>
+  <file name="es_pum_word.html" crc="3979883914" mt="1741879022912" redirect="true"/>
+  <file name="es_pum_chrome.html" crc="4068297774" mt="1741878996444" redirect="true"/>
+  <file name="es_pum_desktop.html" crc="4100632623" mt="1741878970623" redirect="true"/>
+  <file name="en_pum_photoshop.html" crc="3949222082" mt="1741878874477" redirect="true"/>
+  <file name="en_pum_word.html" crc="196440953" mt="1741878833849" redirect="true"/>
+  <file name="en_pum_desktop.html" crc="88536340" mt="1741878678714" redirect="true"/>
+  <file name="de_pum_photoshop.html" crc="4028739693" mt="1741878492114" redirect="true"/>
+  <file name="de_pum_word.html" crc="4265168903" mt="1741878164923" redirect="true"/>
+  <file name="de_pum_chrome.html" crc="508407816" mt="1741876412527" redirect="true"/>
+  <file name="de_pum_desktop.html" crc="4041042137" mt="1741876342123" redirect="true"/>
   <file name="photoshop_en.html" crc="393243015" mt="1741860804659" redirect="true"/>
   <file name="photoshop_de.html" crc="3999434998" mt="1741860804676" redirect="true"/>
-  <file name="en_pum_chrome.html" crc="64966226" mt="1741860804676" redirect="true"/>
+  <file name="en_pum_chrome.html" crc="302357540" mt="1741878764672" redirect="true"/>
   <file name="link_en_desktop_folderdownload.html" crc="4203543597" mt="1741861014613" redirect="true"/>
   <file name="link_en_desktop_foldermusic.html" crc="3892118175" mt="1741861014613" redirect="true"/>
   <file name="link_en_desktop_folderpictures.html" crc="4118235597" mt="1741861014613" redirect="true"/>
