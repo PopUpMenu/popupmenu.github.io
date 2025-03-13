@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741862464726">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741865620610">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="3995553195" ref="es:fr:it:pl:pt:ru:sv:tr:de:en"/>
@@ -639,66 +639,58 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -711,6 +703,10 @@
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -727,6 +723,10 @@
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -735,30 +735,30 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
     </file>
     <file name="flag_n_de-u135494-fr.jpg" crc="3859814729" ref="en:es:fr:it:pl:pt:ru:sv:tr"/>
     <file name="flag_r_de-u135494-r-fr.jpg" crc="516032106" ref="en:es:fr:it:pl:pt:ru:sv:tr"/>
@@ -860,62 +860,58 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="photoshop_en" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -928,6 +924,10 @@
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -944,6 +944,10 @@
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
       <caption webpage="it" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
+      <caption webpage="photoshop_en" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
@@ -952,30 +956,26 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
     </file>
     <file name="flag_n_it-u135498-fr.jpg" crc="258549469" ref="en:es:fr:pl:pt:ru:sv:tr:de"/>
     <file name="flag_r_it-u135498-r-fr.jpg" crc="162464040" ref="en:es:fr:pl:pt:ru:sv:tr:de"/>
@@ -1004,62 +1004,58 @@
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
       <caption webpage="fr" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="photoshop_de" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="de_download" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="sv" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="pt_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="it_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="es_download" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="en" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="pt" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
-      <caption webpage="ru" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="sv" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="pl_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="sv_download" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="en" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="pt" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="ru" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
+      <caption webpage="de" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
       <caption webpage="es" alt=""/>
@@ -1072,6 +1068,10 @@
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
+      <caption webpage="de_download" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
       <caption webpage="tr" alt=""/>
@@ -1096,30 +1096,30 @@
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
       <caption webpage="pl" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="en_download" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="de" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="pl_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
-      <caption webpage="sv_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="photoshop_de" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="en_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="es_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="it_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
+      <caption webpage="pt_download" alt=""/>
     </file>
     <file name="en_javascript.jpg" crc="503123527" ref="en">
       <caption webpage="en" alt=""/>
@@ -5814,12 +5814,14 @@
     <file name="videolink_pumsub_1_tr-u28780-fr4.jpg" crc="4236404849" ref="tr"/>
     <file name="videolink_pumsub_2_tr-u28780-r-fr4.jpg" crc="4269000187" ref="tr"/>
     <file name="videolink_pumsub_3_tr-u28780-m-fr4.jpg" crc="3922477340" ref="tr"/>
+    <file name="en_download-favicon.ico" crc="4182333245" ref="en_download"/>
     <file name="download_ahk_en.jpg" crc="3761659013" seo="true" ref="en_download">
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
       <caption webpage="en_download" alt=""/>
     </file>
+    <file name="de_download-favicon.ico" crc="4182333245" ref="de_download"/>
     <file name="download_ahk_de.jpg" crc="4197518345" seo="true" ref="de_download">
       <caption webpage="de_download" alt=""/>
       <caption webpage="de_download" alt=""/>
@@ -5836,48 +5838,56 @@
     <file name="download_rollover_de-u72353-r-fr.jpg" crc="4208828431" ref="de_download:de"/>
     <file name="download_de-u72353-fr2.jpg" crc="353191957" ref="de_download:de"/>
     <file name="download_rollover_de-u72353-r-fr2.jpg" crc="3979418682" ref="de_download:de"/>
+    <file name="es_download-favicon.ico" crc="4182333245" ref="es_download"/>
     <file name="download_ahk_es.jpg" crc="272408287" seo="true" ref="es_download">
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
       <caption webpage="es_download" alt=""/>
     </file>
+    <file name="fr_download-favicon.ico" crc="4182333245" ref="fr_download"/>
     <file name="download_ahk_fr.jpg" crc="4104267640" seo="true" ref="fr_download">
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
       <caption webpage="fr_download" alt=""/>
     </file>
+    <file name="it_download-favicon.ico" crc="4182333245" ref="it_download"/>
     <file name="download_ahk_it.jpg" crc="4282403623" seo="true" ref="it_download">
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
       <caption webpage="it_download" alt=""/>
     </file>
+    <file name="pl_download-favicon.ico" crc="4182333245" ref="pl_download"/>
     <file name="download_ahk_pl.jpg" crc="4023673648" seo="true" ref="pl_download">
       <caption webpage="pl_download" alt=""/>
       <caption webpage="pl_download" alt=""/>
       <caption webpage="pl_download" alt=""/>
       <caption webpage="pl_download" alt=""/>
     </file>
+    <file name="pt_download-favicon.ico" crc="4182333245" ref="pt_download"/>
     <file name="download_ahk_pt.jpg" crc="4081583939" seo="true" ref="pt_download">
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
       <caption webpage="pt_download" alt=""/>
     </file>
+    <file name="ru_download-favicon.ico" crc="4182333245" ref="ru_download"/>
     <file name="download_ahk_ru.jpg" crc="94704282" seo="true" ref="ru_download">
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
       <caption webpage="ru_download" alt=""/>
     </file>
+    <file name="sv_download-favicon.ico" crc="4182333245" ref="sv_download"/>
     <file name="download_ahk_sv.jpg" crc="492311990" seo="true" ref="sv_download">
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
       <caption webpage="sv_download" alt=""/>
     </file>
+    <file name="tr_download-favicon.ico" crc="4182333245" ref="tr_download"/>
     <file name="download_ahk_tr.jpg" crc="4156444221" seo="true" ref="tr_download">
       <caption webpage="tr_download" alt=""/>
       <caption webpage="tr_download" alt=""/>
@@ -6513,6 +6523,7 @@
     <file name="de_tooltip_file.png" crc="343256765" ref="de_pum_word">
       <caption webpage="de_pum_word" alt=""/>
     </file>
+    <file name="photoshop_en-favicon.ico" crc="4182333245" ref="photoshop_en"/>
     <file name="download_photoshop_en.jpg" crc="4077708308" ref="photoshop_en">
       <caption webpage="photoshop_en" alt=""/>
     </file>
@@ -6535,6 +6546,7 @@
     <file name="download_photoshop_rollover_en-u123462-r-fr.jpg" crc="4077414345" ref="photoshop_en"/>
     <file name="download_photoshop_en-u123462-fr2.jpg" crc="63609420" ref="photoshop_en"/>
     <file name="download_photoshop_rollover_en-u123462-r-fr2.jpg" crc="3858092294" ref="photoshop_en"/>
+    <file name="photoshop_de-favicon.ico" crc="4182333245" ref="photoshop_de"/>
     <file name="logo_popupmenu.jpg" crc="113446150" seo="true" ref="photoshop_de">
       <caption webpage="photoshop_de" alt=""/>
       <caption webpage="photoshop_de" alt=""/>
@@ -6558,168 +6570,168 @@
     <file name="download_photoshop_de-u123730-fr2.jpg" crc="4178911449" ref="photoshop_de"/>
     <file name="download_photoshop_rollover_de-u123730-r-fr2.jpg" crc="161394816" ref="photoshop_de"/>
     <file name="link_bg_desktop.jpg" crc="374197739" seo="true" ref="link_en_desktop_folderdownload:link_en_desktop_foldermusic:link_en_desktop_folderpictures:link_en_desktop_whatsapp:link_en_desktop_dreamweaver:link_en_desktop_photoshop:link_en_desktop_acad:link_en_desktop_chrome:link_de_desktop_chrome:link_de_desktop_acad:link_de_desktop_photoshop:link_de_desktop_dreamweaver:link_de_desktop_whatsapp:link_de_desktop_folderpictures:link_de_desktop_foldermusic:link_de_desktop_folderdownload:link_es_desktop_chrome:link_es_desktop_acad:link_es_desktop_photoshop:link_es_desktop_dreamweaver:link_es_desktop_whatsapp:link_es_desktop_folderpictures:link_es_desktop_foldermusic:link_es_desktop_folderdownload:link_fr_desktop_chrome:link_fr_desktop_acad:link_fr_desktop_photoshop:link_fr_desktop_dreamweaver:link_fr_desktop_whatsapp:link_fr_desktop_folderpictures:link_fr_desktop_foldermusic:link_fr_desktop_folderdownload:link_it_desktop_chrome:link_it_desktop_acad:link_it_desktop_photoshop:link_it_desktop_dreamweaver:link_it_desktop_whatsapp:link_it_desktop_folderpictures:link_it_desktop_foldermusic:link_it_desktop_folderdownload:link_pl_desktop_chrome:link_pl_desktop_acad:link_pl_desktop_photoshop:link_pl_desktop_dreamweaver:link_pl_desktop_whatsapp:link_pl_desktop_folderpictures:link_pl_desktop_foldermusic:link_pl_desktop_folderdownload:link_pt_desktop_chrome:link_pt_desktop_acad:link_pt_desktop_photoshop:link_pt_desktop_dreamweaver:link_pt_desktop_whatsapp:link_pt_desktop_folderpictures:link_pt_desktop_foldermusic:link_pt_desktop_folderdownload:link_ru_desktop_chrome:link_ru_desktop_acad:link_ru_desktop_photoshop:link_ru_desktop_dreamweaver:link_ru_desktop_whatsapp:link_ru_desktop_folderpictures:link_ru_desktop_foldermusic:link_ru_desktop_folderdownload:link_sv_desktop_chrome:link_sv_desktop_acad:link_sv_desktop_photoshop:link_sv_desktop_dreamweaver:link_sv_desktop_whatsapp:link_sv_desktop_folderpictures:link_sv_desktop_foldermusic:link_sv_desktop_folderdownload:link_tr_desktop_chrome:link_tr_desktop_acad:link_tr_desktop_photoshop:link_tr_desktop_dreamweaver:link_tr_desktop_whatsapp:link_tr_desktop_folderpictures:link_tr_desktop_foldermusic:link_tr_desktop_folderdownload">
-      <caption webpage="link_tr_desktop_photoshop" alt=""/>
-      <caption webpage="link_tr_desktop_photoshop" alt=""/>
-      <caption webpage="link_ru_desktop_photoshop" alt=""/>
-      <caption webpage="link_ru_desktop_photoshop" alt=""/>
-      <caption webpage="link_pt_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_pt_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_fr_desktop_chrome" alt=""/>
-      <caption webpage="link_fr_desktop_chrome" alt=""/>
-      <caption webpage="link_fr_desktop_acad" alt=""/>
-      <caption webpage="link_fr_desktop_acad" alt=""/>
-      <caption webpage="link_ru_desktop_foldermusic" alt=""/>
-      <caption webpage="link_ru_desktop_foldermusic" alt=""/>
-      <caption webpage="link_en_desktop_folderdownload" alt=""/>
-      <caption webpage="link_en_desktop_folderdownload" alt=""/>
-      <caption webpage="link_de_desktop_acad" alt=""/>
-      <caption webpage="link_de_desktop_acad" alt=""/>
-      <caption webpage="link_it_desktop_photoshop" alt=""/>
-      <caption webpage="link_it_desktop_photoshop" alt=""/>
-      <caption webpage="link_tr_desktop_acad" alt=""/>
-      <caption webpage="link_tr_desktop_acad" alt=""/>
-      <caption webpage="link_it_desktop_chrome" alt=""/>
-      <caption webpage="link_it_desktop_chrome" alt=""/>
-      <caption webpage="link_pl_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_pl_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_de_desktop_whatsapp" alt=""/>
-      <caption webpage="link_de_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_photoshop" alt=""/>
-      <caption webpage="link_en_desktop_photoshop" alt=""/>
-      <caption webpage="link_es_desktop_photoshop" alt=""/>
-      <caption webpage="link_es_desktop_photoshop" alt=""/>
-      <caption webpage="link_pl_desktop_chrome" alt=""/>
-      <caption webpage="link_pl_desktop_chrome" alt=""/>
-      <caption webpage="link_de_desktop_folderdownload" alt=""/>
-      <caption webpage="link_de_desktop_folderdownload" alt=""/>
-      <caption webpage="link_pt_desktop_acad" alt=""/>
-      <caption webpage="link_pt_desktop_acad" alt=""/>
-      <caption webpage="link_de_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_de_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_fr_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_fr_desktop_dreamweaver" alt=""/>
       <caption webpage="link_pt_desktop_foldermusic" alt=""/>
       <caption webpage="link_pt_desktop_foldermusic" alt=""/>
-      <caption webpage="link_it_desktop_whatsapp" alt=""/>
-      <caption webpage="link_it_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_es_desktop_acad" alt=""/>
-      <caption webpage="link_es_desktop_acad" alt=""/>
-      <caption webpage="link_pl_desktop_whatsapp" alt=""/>
-      <caption webpage="link_pl_desktop_whatsapp" alt=""/>
-      <caption webpage="link_pl_desktop_folderpictures" alt=""/>
-      <caption webpage="link_pl_desktop_folderpictures" alt=""/>
-      <caption webpage="link_en_desktop_chrome" alt=""/>
-      <caption webpage="link_en_desktop_chrome" alt=""/>
-      <caption webpage="link_de_desktop_chrome" alt=""/>
-      <caption webpage="link_de_desktop_chrome" alt=""/>
-      <caption webpage="link_pt_desktop_chrome" alt=""/>
-      <caption webpage="link_pt_desktop_chrome" alt=""/>
-      <caption webpage="link_fr_desktop_foldermusic" alt=""/>
-      <caption webpage="link_fr_desktop_foldermusic" alt=""/>
-      <caption webpage="link_es_desktop_chrome" alt=""/>
-      <caption webpage="link_es_desktop_chrome" alt=""/>
-      <caption webpage="link_pt_desktop_folderdownload" alt=""/>
-      <caption webpage="link_pt_desktop_folderdownload" alt=""/>
-      <caption webpage="link_ru_desktop_chrome" alt=""/>
-      <caption webpage="link_ru_desktop_chrome" alt=""/>
-      <caption webpage="link_sv_desktop_acad" alt=""/>
-      <caption webpage="link_sv_desktop_acad" alt=""/>
-      <caption webpage="link_ru_desktop_folderpictures" alt=""/>
-      <caption webpage="link_ru_desktop_folderpictures" alt=""/>
-      <caption webpage="link_sv_desktop_photoshop" alt=""/>
-      <caption webpage="link_sv_desktop_photoshop" alt=""/>
-      <caption webpage="link_ru_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_ru_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_fr_desktop_whatsapp" alt=""/>
-      <caption webpage="link_fr_desktop_whatsapp" alt=""/>
-      <caption webpage="link_it_desktop_folderpictures" alt=""/>
-      <caption webpage="link_it_desktop_folderpictures" alt=""/>
-      <caption webpage="link_fr_desktop_folderpictures" alt=""/>
-      <caption webpage="link_fr_desktop_folderpictures" alt=""/>
-      <caption webpage="link_fr_desktop_folderdownload" alt=""/>
-      <caption webpage="link_fr_desktop_folderdownload" alt=""/>
-      <caption webpage="link_en_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_whatsapp" alt=""/>
-      <caption webpage="link_pl_desktop_photoshop" alt=""/>
-      <caption webpage="link_pl_desktop_photoshop" alt=""/>
-      <caption webpage="link_sv_desktop_foldermusic" alt=""/>
-      <caption webpage="link_sv_desktop_foldermusic" alt=""/>
-      <caption webpage="link_sv_desktop_folderpictures" alt=""/>
-      <caption webpage="link_sv_desktop_folderpictures" alt=""/>
-      <caption webpage="link_de_desktop_photoshop" alt=""/>
-      <caption webpage="link_de_desktop_photoshop" alt=""/>
-      <caption webpage="link_tr_desktop_folderpictures" alt=""/>
-      <caption webpage="link_tr_desktop_folderpictures" alt=""/>
-      <caption webpage="link_en_desktop_acad" alt=""/>
-      <caption webpage="link_en_desktop_acad" alt=""/>
-      <caption webpage="link_es_desktop_foldermusic" alt=""/>
-      <caption webpage="link_es_desktop_foldermusic" alt=""/>
-      <caption webpage="link_it_desktop_foldermusic" alt=""/>
-      <caption webpage="link_it_desktop_foldermusic" alt=""/>
-      <caption webpage="link_tr_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_tr_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_es_desktop_folderdownload" alt=""/>
-      <caption webpage="link_es_desktop_folderdownload" alt=""/>
-      <caption webpage="link_it_desktop_folderdownload" alt=""/>
-      <caption webpage="link_it_desktop_folderdownload" alt=""/>
-      <caption webpage="link_es_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_es_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_pl_desktop_acad" alt=""/>
-      <caption webpage="link_pl_desktop_acad" alt=""/>
-      <caption webpage="link_tr_desktop_foldermusic" alt=""/>
-      <caption webpage="link_tr_desktop_foldermusic" alt=""/>
-      <caption webpage="link_sv_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_sv_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_tr_desktop_chrome" alt=""/>
-      <caption webpage="link_tr_desktop_chrome" alt=""/>
       <caption webpage="link_pl_desktop_folderdownload" alt=""/>
       <caption webpage="link_pl_desktop_folderdownload" alt=""/>
-      <caption webpage="link_pl_desktop_foldermusic" alt=""/>
-      <caption webpage="link_pl_desktop_foldermusic" alt=""/>
-      <caption webpage="link_tr_desktop_whatsapp" alt=""/>
-      <caption webpage="link_tr_desktop_whatsapp" alt=""/>
-      <caption webpage="link_en_desktop_folderpictures" alt=""/>
-      <caption webpage="link_en_desktop_folderpictures" alt=""/>
-      <caption webpage="link_pt_desktop_whatsapp" alt=""/>
-      <caption webpage="link_pt_desktop_whatsapp" alt=""/>
-      <caption webpage="link_pt_desktop_folderpictures" alt=""/>
-      <caption webpage="link_pt_desktop_folderpictures" alt=""/>
-      <caption webpage="link_es_desktop_whatsapp" alt=""/>
-      <caption webpage="link_es_desktop_whatsapp" alt=""/>
-      <caption webpage="link_fr_desktop_photoshop" alt=""/>
-      <caption webpage="link_fr_desktop_photoshop" alt=""/>
-      <caption webpage="link_it_desktop_acad" alt=""/>
-      <caption webpage="link_it_desktop_acad" alt=""/>
+      <caption webpage="link_de_desktop_acad" alt=""/>
+      <caption webpage="link_de_desktop_acad" alt=""/>
+      <caption webpage="link_sv_desktop_photoshop" alt=""/>
+      <caption webpage="link_sv_desktop_photoshop" alt=""/>
+      <caption webpage="link_it_desktop_folderpictures" alt=""/>
+      <caption webpage="link_it_desktop_folderpictures" alt=""/>
+      <caption webpage="link_ru_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_ru_desktop_dreamweaver" alt=""/>
       <caption webpage="link_de_desktop_foldermusic" alt=""/>
       <caption webpage="link_de_desktop_foldermusic" alt=""/>
-      <caption webpage="link_pt_desktop_photoshop" alt=""/>
-      <caption webpage="link_pt_desktop_photoshop" alt=""/>
-      <caption webpage="link_sv_desktop_chrome" alt=""/>
-      <caption webpage="link_sv_desktop_chrome" alt=""/>
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
       <caption webpage="link_en_desktop_foldermusic" alt=""/>
-      <caption webpage="link_sv_desktop_whatsapp" alt=""/>
-      <caption webpage="link_sv_desktop_whatsapp" alt=""/>
-      <caption webpage="link_ru_desktop_whatsapp" alt=""/>
-      <caption webpage="link_ru_desktop_whatsapp" alt=""/>
-      <caption webpage="link_ru_desktop_folderdownload" alt=""/>
-      <caption webpage="link_ru_desktop_folderdownload" alt=""/>
-      <caption webpage="link_es_desktop_folderpictures" alt=""/>
-      <caption webpage="link_es_desktop_folderpictures" alt=""/>
-      <caption webpage="link_tr_desktop_folderdownload" alt=""/>
-      <caption webpage="link_tr_desktop_folderdownload" alt=""/>
-      <caption webpage="link_it_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_it_desktop_dreamweaver" alt=""/>
-      <caption webpage="link_sv_desktop_folderdownload" alt=""/>
-      <caption webpage="link_sv_desktop_folderdownload" alt=""/>
-      <caption webpage="link_de_desktop_folderpictures" alt=""/>
-      <caption webpage="link_de_desktop_folderpictures" alt=""/>
-      <caption webpage="link_de_desktop_folderpictures" alt=""/>
-      <caption webpage="link_de_desktop_folderpictures" alt=""/>
+      <caption webpage="link_ru_desktop_foldermusic" alt=""/>
+      <caption webpage="link_ru_desktop_foldermusic" alt=""/>
       <caption webpage="link_ru_desktop_acad" alt=""/>
       <caption webpage="link_ru_desktop_acad" alt=""/>
+      <caption webpage="link_tr_desktop_photoshop" alt=""/>
+      <caption webpage="link_tr_desktop_photoshop" alt=""/>
+      <caption webpage="link_pl_desktop_chrome" alt=""/>
+      <caption webpage="link_pl_desktop_chrome" alt=""/>
+      <caption webpage="link_es_desktop_chrome" alt=""/>
+      <caption webpage="link_es_desktop_chrome" alt=""/>
+      <caption webpage="link_it_desktop_acad" alt=""/>
+      <caption webpage="link_it_desktop_acad" alt=""/>
+      <caption webpage="link_tr_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_tr_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_de_desktop_whatsapp" alt=""/>
+      <caption webpage="link_de_desktop_whatsapp" alt=""/>
+      <caption webpage="link_de_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_de_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_sv_desktop_acad" alt=""/>
+      <caption webpage="link_sv_desktop_acad" alt=""/>
+      <caption webpage="link_sv_desktop_folderpictures" alt=""/>
+      <caption webpage="link_sv_desktop_folderpictures" alt=""/>
+      <caption webpage="link_pt_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_pt_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_en_desktop_photoshop" alt=""/>
+      <caption webpage="link_it_desktop_photoshop" alt=""/>
+      <caption webpage="link_it_desktop_photoshop" alt=""/>
+      <caption webpage="link_sv_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_sv_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_pt_desktop_chrome" alt=""/>
+      <caption webpage="link_pt_desktop_chrome" alt=""/>
+      <caption webpage="link_es_desktop_photoshop" alt=""/>
+      <caption webpage="link_es_desktop_photoshop" alt=""/>
+      <caption webpage="link_de_desktop_photoshop" alt=""/>
+      <caption webpage="link_de_desktop_photoshop" alt=""/>
+      <caption webpage="link_it_desktop_whatsapp" alt=""/>
+      <caption webpage="link_it_desktop_whatsapp" alt=""/>
+      <caption webpage="link_sv_desktop_chrome" alt=""/>
+      <caption webpage="link_sv_desktop_chrome" alt=""/>
+      <caption webpage="link_fr_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_fr_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_tr_desktop_chrome" alt=""/>
+      <caption webpage="link_tr_desktop_chrome" alt=""/>
+      <caption webpage="link_pl_desktop_folderpictures" alt=""/>
+      <caption webpage="link_pl_desktop_folderpictures" alt=""/>
+      <caption webpage="link_it_desktop_folderdownload" alt=""/>
+      <caption webpage="link_it_desktop_folderdownload" alt=""/>
+      <caption webpage="link_fr_desktop_chrome" alt=""/>
+      <caption webpage="link_fr_desktop_chrome" alt=""/>
+      <caption webpage="link_pt_desktop_acad" alt=""/>
+      <caption webpage="link_pt_desktop_acad" alt=""/>
+      <caption webpage="link_tr_desktop_acad" alt=""/>
+      <caption webpage="link_tr_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_en_desktop_acad" alt=""/>
+      <caption webpage="link_it_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_it_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_sv_desktop_foldermusic" alt=""/>
+      <caption webpage="link_sv_desktop_foldermusic" alt=""/>
+      <caption webpage="link_es_desktop_foldermusic" alt=""/>
+      <caption webpage="link_es_desktop_foldermusic" alt=""/>
+      <caption webpage="link_pl_desktop_foldermusic" alt=""/>
+      <caption webpage="link_pl_desktop_foldermusic" alt=""/>
+      <caption webpage="link_pt_desktop_folderpictures" alt=""/>
+      <caption webpage="link_pt_desktop_folderpictures" alt=""/>
+      <caption webpage="link_en_desktop_folderpictures" alt=""/>
+      <caption webpage="link_en_desktop_folderpictures" alt=""/>
+      <caption webpage="link_tr_desktop_folderpictures" alt=""/>
+      <caption webpage="link_tr_desktop_folderpictures" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_whatsapp" alt=""/>
+      <caption webpage="link_ru_desktop_chrome" alt=""/>
+      <caption webpage="link_ru_desktop_chrome" alt=""/>
+      <caption webpage="link_ru_desktop_folderpictures" alt=""/>
+      <caption webpage="link_ru_desktop_folderpictures" alt=""/>
+      <caption webpage="link_pl_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_pl_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_it_desktop_foldermusic" alt=""/>
+      <caption webpage="link_it_desktop_foldermusic" alt=""/>
+      <caption webpage="link_tr_desktop_folderdownload" alt=""/>
+      <caption webpage="link_tr_desktop_folderdownload" alt=""/>
+      <caption webpage="link_sv_desktop_whatsapp" alt=""/>
+      <caption webpage="link_sv_desktop_whatsapp" alt=""/>
+      <caption webpage="link_ru_desktop_folderdownload" alt=""/>
+      <caption webpage="link_ru_desktop_folderdownload" alt=""/>
+      <caption webpage="link_de_desktop_chrome" alt=""/>
+      <caption webpage="link_de_desktop_chrome" alt=""/>
+      <caption webpage="link_es_desktop_acad" alt=""/>
+      <caption webpage="link_es_desktop_acad" alt=""/>
+      <caption webpage="link_es_desktop_whatsapp" alt=""/>
+      <caption webpage="link_es_desktop_whatsapp" alt=""/>
+      <caption webpage="link_tr_desktop_whatsapp" alt=""/>
+      <caption webpage="link_tr_desktop_whatsapp" alt=""/>
+      <caption webpage="link_fr_desktop_acad" alt=""/>
+      <caption webpage="link_fr_desktop_acad" alt=""/>
+      <caption webpage="link_pt_desktop_whatsapp" alt=""/>
+      <caption webpage="link_pt_desktop_whatsapp" alt=""/>
+      <caption webpage="link_ru_desktop_photoshop" alt=""/>
+      <caption webpage="link_ru_desktop_photoshop" alt=""/>
+      <caption webpage="link_sv_desktop_folderdownload" alt=""/>
+      <caption webpage="link_sv_desktop_folderdownload" alt=""/>
+      <caption webpage="link_es_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_es_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_pt_desktop_folderdownload" alt=""/>
+      <caption webpage="link_pt_desktop_folderdownload" alt=""/>
+      <caption webpage="link_tr_desktop_foldermusic" alt=""/>
+      <caption webpage="link_tr_desktop_foldermusic" alt=""/>
+      <caption webpage="link_de_desktop_folderdownload" alt=""/>
+      <caption webpage="link_de_desktop_folderdownload" alt=""/>
+      <caption webpage="link_pt_desktop_photoshop" alt=""/>
+      <caption webpage="link_pt_desktop_photoshop" alt=""/>
+      <caption webpage="link_es_desktop_folderpictures" alt=""/>
+      <caption webpage="link_es_desktop_folderpictures" alt=""/>
+      <caption webpage="link_fr_desktop_photoshop" alt=""/>
+      <caption webpage="link_fr_desktop_photoshop" alt=""/>
+      <caption webpage="link_pl_desktop_photoshop" alt=""/>
+      <caption webpage="link_pl_desktop_photoshop" alt=""/>
+      <caption webpage="link_fr_desktop_whatsapp" alt=""/>
+      <caption webpage="link_fr_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_en_desktop_chrome" alt=""/>
+      <caption webpage="link_de_desktop_folderpictures" alt=""/>
+      <caption webpage="link_de_desktop_folderpictures" alt=""/>
+      <caption webpage="link_de_desktop_folderpictures" alt=""/>
+      <caption webpage="link_de_desktop_folderpictures" alt=""/>
+      <caption webpage="link_fr_desktop_folderdownload" alt=""/>
+      <caption webpage="link_fr_desktop_folderdownload" alt=""/>
+      <caption webpage="link_en_desktop_folderdownload" alt=""/>
+      <caption webpage="link_en_desktop_folderdownload" alt=""/>
+      <caption webpage="link_fr_desktop_foldermusic" alt=""/>
+      <caption webpage="link_fr_desktop_foldermusic" alt=""/>
+      <caption webpage="link_fr_desktop_folderpictures" alt=""/>
+      <caption webpage="link_fr_desktop_folderpictures" alt=""/>
+      <caption webpage="link_it_desktop_chrome" alt=""/>
+      <caption webpage="link_it_desktop_chrome" alt=""/>
+      <caption webpage="link_pl_desktop_whatsapp" alt=""/>
+      <caption webpage="link_pl_desktop_whatsapp" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_en_desktop_dreamweaver" alt=""/>
+      <caption webpage="link_pl_desktop_acad" alt=""/>
+      <caption webpage="link_pl_desktop_acad" alt=""/>
+      <caption webpage="link_es_desktop_folderdownload" alt=""/>
+      <caption webpage="link_es_desktop_folderdownload" alt=""/>
+      <caption webpage="link_ru_desktop_whatsapp" alt=""/>
+      <caption webpage="link_ru_desktop_whatsapp" alt=""/>
     </file>
     <file name="link_en_desktop_folderdownload.gif" crc="4103194727" seo="true" ref="link_en_desktop_folderdownload">
       <caption webpage="link_en_desktop_folderdownload" alt=""/>
@@ -6776,127 +6788,127 @@
       <caption webpage="link_en_desktop_chrome" alt=""/>
     </file>
     <file name="link_bg_photoshop.jpg" crc="4042229001" seo="true" ref="link_de_photoshop_colorrange:link_de_photoshop_exportas:link_de_photoshop_imagesize:link_de_photoshop_canvassize:link_de_photoshop_adjustbw:link_de_photoshop_folderpictures:link_en_photoshop_colorrange:link_en_photoshop_exportas:link_en_photoshop_imagesize:link_en_photoshop_canvassize:link_en_photoshop_adjustbw:link_en_photoshop_folderpictures:link_es_photoshop_colorrange:link_es_photoshop_exportas:link_es_photoshop_imagesize:link_es_photoshop_canvassize:link_es_photoshop_adjustbw:link_es_photoshop_folderpictures:link_fr_photoshop_colorrange:link_fr_photoshop_exportas:link_fr_photoshop_imagesize:link_fr_photoshop_canvassize:link_fr_photoshop_adjustbw:link_fr_photoshop_folderpictures:link_it_photoshop_colorrange:link_it_photoshop_exportas:link_it_photoshop_imagesize:link_it_photoshop_canvassize:link_it_photoshop_adjustbw:link_it_photoshop_folderpictures:link_pl_photoshop_colorrange:link_pl_photoshop_exportas:link_pl_photoshop_imagesize:link_pl_photoshop_canvassize:link_pl_photoshop_adjustbw:link_pl_photoshop_folderpictures:link_pt_photoshop_colorrange:link_pt_photoshop_exportas:link_pt_photoshop_imagesize:link_pt_photoshop_canvassize:link_pt_photoshop_adjustbw:link_pt_photoshop_folderpictures:link_ru_photoshop_colorrange:link_ru_photoshop_exportas:link_ru_photoshop_imagesize:link_ru_photoshop_canvassize:link_ru_photoshop_adjustbw:link_ru_photoshop_folderpictures:link_sv_photoshop_colorrange:link_sv_photoshop_exportas:link_sv_photoshop_imagesize:link_sv_photoshop_canvassize:link_sv_photoshop_adjustbw:link_sv_photoshop_folderpictures:link_tr_photoshop_colorrange:link_tr_photoshop_exportas:link_tr_photoshop_imagesize:link_tr_photoshop_canvassize:link_tr_photoshop_adjustbw:link_tr_photoshop_folderpictures">
-      <caption webpage="link_pt_photoshop_imagesize" alt=""/>
-      <caption webpage="link_pt_photoshop_imagesize" alt=""/>
-      <caption webpage="link_it_photoshop_exportas" alt=""/>
-      <caption webpage="link_it_photoshop_exportas" alt=""/>
-      <caption webpage="link_pt_photoshop_exportas" alt=""/>
-      <caption webpage="link_pt_photoshop_exportas" alt=""/>
-      <caption webpage="link_fr_photoshop_exportas" alt=""/>
-      <caption webpage="link_fr_photoshop_exportas" alt=""/>
-      <caption webpage="link_tr_photoshop_imagesize" alt=""/>
-      <caption webpage="link_tr_photoshop_imagesize" alt=""/>
-      <caption webpage="link_ru_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_ru_photoshop_adjustbw" alt=""/>
       <caption webpage="link_es_photoshop_folderpictures" alt=""/>
       <caption webpage="link_es_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_pl_photoshop_imagesize" alt=""/>
+      <caption webpage="link_pl_photoshop_imagesize" alt=""/>
+      <caption webpage="link_it_photoshop_imagesize" alt=""/>
+      <caption webpage="link_it_photoshop_imagesize" alt=""/>
+      <caption webpage="link_pl_photoshop_exportas" alt=""/>
+      <caption webpage="link_pl_photoshop_exportas" alt=""/>
+      <caption webpage="link_fr_photoshop_exportas" alt=""/>
+      <caption webpage="link_fr_photoshop_exportas" alt=""/>
+      <caption webpage="link_de_photoshop_exportas" alt=""/>
+      <caption webpage="link_de_photoshop_exportas" alt=""/>
       <caption webpage="link_pl_photoshop_adjustbw" alt=""/>
       <caption webpage="link_pl_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_tr_photoshop_colorrange" alt=""/>
-      <caption webpage="link_tr_photoshop_colorrange" alt=""/>
-      <caption webpage="link_de_photoshop_colorrange" alt=""/>
-      <caption webpage="link_de_photoshop_colorrange" alt=""/>
-      <caption webpage="link_pl_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_pl_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_pl_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_en_photoshop_exportas" alt=""/>
-      <caption webpage="link_en_photoshop_exportas" alt=""/>
-      <caption webpage="link_ru_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_ru_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_de_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_de_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_de_photoshop_canvassize" alt=""/>
-      <caption webpage="link_de_photoshop_canvassize" alt=""/>
-      <caption webpage="link_fr_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_fr_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_de_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_de_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_it_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_it_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_sv_photoshop_exportas" alt=""/>
-      <caption webpage="link_sv_photoshop_exportas" alt=""/>
-      <caption webpage="link_es_photoshop_exportas" alt=""/>
-      <caption webpage="link_es_photoshop_exportas" alt=""/>
       <caption webpage="link_it_photoshop_canvassize" alt=""/>
       <caption webpage="link_it_photoshop_canvassize" alt=""/>
-      <caption webpage="link_pt_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_pt_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_fr_photoshop_colorrange" alt=""/>
-      <caption webpage="link_fr_photoshop_colorrange" alt=""/>
-      <caption webpage="link_fr_photoshop_imagesize" alt=""/>
-      <caption webpage="link_fr_photoshop_imagesize" alt=""/>
-      <caption webpage="link_es_photoshop_imagesize" alt=""/>
-      <caption webpage="link_es_photoshop_imagesize" alt=""/>
-      <caption webpage="link_sv_photoshop_colorrange" alt=""/>
-      <caption webpage="link_sv_photoshop_colorrange" alt=""/>
-      <caption webpage="link_it_photoshop_colorrange" alt=""/>
-      <caption webpage="link_it_photoshop_colorrange" alt=""/>
-      <caption webpage="link_tr_photoshop_canvassize" alt=""/>
-      <caption webpage="link_tr_photoshop_canvassize" alt=""/>
+      <caption webpage="link_de_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_de_photoshop_adjustbw" alt=""/>
       <caption webpage="link_de_photoshop_imagesize" alt=""/>
       <caption webpage="link_de_photoshop_imagesize" alt=""/>
       <caption webpage="link_pl_photoshop_colorrange" alt=""/>
       <caption webpage="link_pl_photoshop_colorrange" alt=""/>
-      <caption webpage="link_sv_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_sv_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_tr_photoshop_exportas" alt=""/>
-      <caption webpage="link_tr_photoshop_exportas" alt=""/>
-      <caption webpage="link_pl_photoshop_exportas" alt=""/>
-      <caption webpage="link_pl_photoshop_exportas" alt=""/>
-      <caption webpage="link_pt_photoshop_colorrange" alt=""/>
-      <caption webpage="link_pt_photoshop_colorrange" alt=""/>
-      <caption webpage="link_ru_photoshop_colorrange" alt=""/>
-      <caption webpage="link_ru_photoshop_colorrange" alt=""/>
-      <caption webpage="link_pl_photoshop_canvassize" alt=""/>
-      <caption webpage="link_pl_photoshop_canvassize" alt=""/>
-      <caption webpage="link_en_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_en_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_it_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_it_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_es_photoshop_canvassize" alt=""/>
-      <caption webpage="link_es_photoshop_canvassize" alt=""/>
-      <caption webpage="link_it_photoshop_imagesize" alt=""/>
-      <caption webpage="link_it_photoshop_imagesize" alt=""/>
-      <caption webpage="link_ru_photoshop_imagesize" alt=""/>
-      <caption webpage="link_ru_photoshop_imagesize" alt=""/>
-      <caption webpage="link_de_photoshop_exportas" alt=""/>
-      <caption webpage="link_de_photoshop_exportas" alt=""/>
-      <caption webpage="link_tr_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_tr_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_es_photoshop_colorrange" alt=""/>
-      <caption webpage="link_es_photoshop_colorrange" alt=""/>
-      <caption webpage="link_ru_photoshop_exportas" alt=""/>
-      <caption webpage="link_ru_photoshop_exportas" alt=""/>
-      <caption webpage="link_en_photoshop_imagesize" alt=""/>
-      <caption webpage="link_en_photoshop_imagesize" alt=""/>
-      <caption webpage="link_sv_photoshop_canvassize" alt=""/>
-      <caption webpage="link_sv_photoshop_canvassize" alt=""/>
-      <caption webpage="link_en_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_en_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_pl_photoshop_imagesize" alt=""/>
-      <caption webpage="link_pl_photoshop_imagesize" alt=""/>
-      <caption webpage="link_pt_photoshop_canvassize" alt=""/>
-      <caption webpage="link_pt_photoshop_canvassize" alt=""/>
-      <caption webpage="link_fr_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_fr_photoshop_folderpictures" alt=""/>
-      <caption webpage="link_pt_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_pt_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_ru_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_ru_photoshop_adjustbw" alt=""/>
       <caption webpage="link_es_photoshop_adjustbw" alt=""/>
       <caption webpage="link_es_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_fr_photoshop_canvassize" alt=""/>
-      <caption webpage="link_fr_photoshop_canvassize" alt=""/>
+      <caption webpage="link_it_photoshop_colorrange" alt=""/>
+      <caption webpage="link_it_photoshop_colorrange" alt=""/>
+      <caption webpage="link_fr_photoshop_colorrange" alt=""/>
+      <caption webpage="link_fr_photoshop_colorrange" alt=""/>
       <caption webpage="link_ru_photoshop_canvassize" alt=""/>
       <caption webpage="link_ru_photoshop_canvassize" alt=""/>
-      <caption webpage="link_en_photoshop_colorrange" alt=""/>
-      <caption webpage="link_en_photoshop_colorrange" alt=""/>
+      <caption webpage="link_tr_photoshop_imagesize" alt=""/>
+      <caption webpage="link_tr_photoshop_imagesize" alt=""/>
       <caption webpage="link_en_photoshop_canvassize" alt=""/>
       <caption webpage="link_en_photoshop_canvassize" alt=""/>
-      <caption webpage="link_tr_photoshop_adjustbw" alt=""/>
-      <caption webpage="link_tr_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_pl_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_pl_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_pl_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_en_photoshop_imagesize" alt=""/>
+      <caption webpage="link_en_photoshop_imagesize" alt=""/>
+      <caption webpage="link_sv_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_sv_photoshop_adjustbw" alt=""/>
       <caption webpage="link_sv_photoshop_folderpictures" alt=""/>
       <caption webpage="link_sv_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_tr_photoshop_exportas" alt=""/>
+      <caption webpage="link_tr_photoshop_exportas" alt=""/>
+      <caption webpage="link_it_photoshop_exportas" alt=""/>
+      <caption webpage="link_it_photoshop_exportas" alt=""/>
       <caption webpage="link_sv_photoshop_imagesize" alt=""/>
       <caption webpage="link_sv_photoshop_imagesize" alt=""/>
+      <caption webpage="link_en_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_en_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_de_photoshop_canvassize" alt=""/>
+      <caption webpage="link_de_photoshop_canvassize" alt=""/>
+      <caption webpage="link_fr_photoshop_canvassize" alt=""/>
+      <caption webpage="link_fr_photoshop_canvassize" alt=""/>
+      <caption webpage="link_es_photoshop_exportas" alt=""/>
+      <caption webpage="link_es_photoshop_exportas" alt=""/>
+      <caption webpage="link_tr_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_tr_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_ru_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_ru_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_de_photoshop_colorrange" alt=""/>
+      <caption webpage="link_de_photoshop_colorrange" alt=""/>
+      <caption webpage="link_de_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_de_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_en_photoshop_exportas" alt=""/>
+      <caption webpage="link_en_photoshop_exportas" alt=""/>
+      <caption webpage="link_sv_photoshop_canvassize" alt=""/>
+      <caption webpage="link_sv_photoshop_canvassize" alt=""/>
+      <caption webpage="link_fr_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_fr_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_pt_photoshop_colorrange" alt=""/>
+      <caption webpage="link_pt_photoshop_colorrange" alt=""/>
+      <caption webpage="link_pt_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_pt_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_es_photoshop_imagesize" alt=""/>
+      <caption webpage="link_es_photoshop_imagesize" alt=""/>
+      <caption webpage="link_pl_photoshop_canvassize" alt=""/>
+      <caption webpage="link_pl_photoshop_canvassize" alt=""/>
+      <caption webpage="link_tr_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_tr_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_pt_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_pt_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_it_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_it_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_pt_photoshop_imagesize" alt=""/>
+      <caption webpage="link_pt_photoshop_imagesize" alt=""/>
+      <caption webpage="link_en_photoshop_colorrange" alt=""/>
+      <caption webpage="link_en_photoshop_colorrange" alt=""/>
+      <caption webpage="link_es_photoshop_colorrange" alt=""/>
+      <caption webpage="link_es_photoshop_colorrange" alt=""/>
+      <caption webpage="link_en_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_en_photoshop_folderpictures" alt=""/>
+      <caption webpage="link_ru_photoshop_colorrange" alt=""/>
+      <caption webpage="link_ru_photoshop_colorrange" alt=""/>
+      <caption webpage="link_tr_photoshop_canvassize" alt=""/>
+      <caption webpage="link_tr_photoshop_canvassize" alt=""/>
+      <caption webpage="link_ru_photoshop_imagesize" alt=""/>
+      <caption webpage="link_ru_photoshop_imagesize" alt=""/>
+      <caption webpage="link_ru_photoshop_exportas" alt=""/>
+      <caption webpage="link_ru_photoshop_exportas" alt=""/>
+      <caption webpage="link_pt_photoshop_canvassize" alt=""/>
+      <caption webpage="link_pt_photoshop_canvassize" alt=""/>
+      <caption webpage="link_it_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_it_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_fr_photoshop_imagesize" alt=""/>
+      <caption webpage="link_fr_photoshop_imagesize" alt=""/>
+      <caption webpage="link_sv_photoshop_exportas" alt=""/>
+      <caption webpage="link_sv_photoshop_exportas" alt=""/>
+      <caption webpage="link_fr_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_fr_photoshop_adjustbw" alt=""/>
+      <caption webpage="link_tr_photoshop_colorrange" alt=""/>
+      <caption webpage="link_tr_photoshop_colorrange" alt=""/>
+      <caption webpage="link_sv_photoshop_colorrange" alt=""/>
+      <caption webpage="link_sv_photoshop_colorrange" alt=""/>
+      <caption webpage="link_pt_photoshop_exportas" alt=""/>
+      <caption webpage="link_pt_photoshop_exportas" alt=""/>
+      <caption webpage="link_es_photoshop_canvassize" alt=""/>
+      <caption webpage="link_es_photoshop_canvassize" alt=""/>
     </file>
     <file name="link_de_photoshop_colorrange.gif" crc="4233234780" seo="true" ref="link_de_photoshop_colorrange">
       <caption webpage="link_de_photoshop_colorrange" alt=""/>
@@ -6941,106 +6953,106 @@
       <caption webpage="link_de_photoshop_folderpictures" alt=""/>
     </file>
     <file name="link_bg_word.jpg" crc="255259968" seo="true" ref="link_de_word_folderdocuments:link_de_word_file2:link_de_word_file1:link_de_word_address:link_de_word_email:link_en_word_folderdocuments:link_en_word_file2:link_en_word_file1:link_en_word_address:link_en_word_email:link_es_word_folderdocuments:link_es_word_file2:link_es_word_file1:link_es_word_address:link_es_word_email:link_fr_word_folderdocuments:link_fr_word_file2:link_fr_word_file1:link_fr_word_address:link_fr_word_email:link_it_word_folderdocuments:link_it_word_file2:link_it_word_file1:link_it_word_address:link_it_word_email:link_pl_word_folderdocuments:link_pl_word_file2:link_pl_word_file1:link_pl_word_address:link_pl_word_email:link_pt_word_folderdocuments:link_pt_word_file2:link_pt_word_file1:link_pt_word_address:link_pt_word_email:link_ru_word_folderdocuments:link_ru_word_file2:link_ru_word_file1:link_ru_word_address:link_ru_word_email:link_sv_word_folderdocuments:link_sv_word_file2:link_sv_word_file1:link_sv_word_address:link_sv_word_email:link_tr_word_folderdocuments:link_tr_word_file2:link_tr_word_file1:link_tr_word_address:link_tr_word_email">
-      <caption webpage="link_it_word_folderdocuments" alt=""/>
-      <caption webpage="link_it_word_folderdocuments" alt=""/>
-      <caption webpage="link_pl_word_email" alt=""/>
-      <caption webpage="link_pl_word_email" alt=""/>
-      <caption webpage="link_en_word_folderdocuments" alt=""/>
-      <caption webpage="link_en_word_folderdocuments" alt=""/>
-      <caption webpage="link_ru_word_folderdocuments" alt=""/>
-      <caption webpage="link_ru_word_folderdocuments" alt=""/>
-      <caption webpage="link_de_word_file2" alt=""/>
-      <caption webpage="link_de_word_file2" alt=""/>
-      <caption webpage="link_pt_word_address" alt=""/>
-      <caption webpage="link_pt_word_address" alt=""/>
-      <caption webpage="link_pt_word_file2" alt=""/>
-      <caption webpage="link_pt_word_file2" alt=""/>
-      <caption webpage="link_de_word_address" alt=""/>
-      <caption webpage="link_de_word_address" alt=""/>
-      <caption webpage="link_sv_word_email" alt=""/>
-      <caption webpage="link_sv_word_email" alt=""/>
-      <caption webpage="link_ru_word_file1" alt=""/>
-      <caption webpage="link_ru_word_file1" alt=""/>
-      <caption webpage="link_ru_word_email" alt=""/>
-      <caption webpage="link_ru_word_email" alt=""/>
-      <caption webpage="link_fr_word_email" alt=""/>
-      <caption webpage="link_fr_word_email" alt=""/>
-      <caption webpage="link_pt_word_email" alt=""/>
-      <caption webpage="link_pt_word_email" alt=""/>
-      <caption webpage="link_ru_word_file2" alt=""/>
-      <caption webpage="link_ru_word_file2" alt=""/>
-      <caption webpage="link_it_word_address" alt=""/>
-      <caption webpage="link_it_word_address" alt=""/>
-      <caption webpage="link_it_word_file2" alt=""/>
-      <caption webpage="link_it_word_file2" alt=""/>
-      <caption webpage="link_fr_word_file2" alt=""/>
-      <caption webpage="link_fr_word_file2" alt=""/>
-      <caption webpage="link_pl_word_address" alt=""/>
-      <caption webpage="link_pl_word_address" alt=""/>
-      <caption webpage="link_it_word_file1" alt=""/>
-      <caption webpage="link_it_word_file1" alt=""/>
-      <caption webpage="link_es_word_file1" alt=""/>
-      <caption webpage="link_es_word_file1" alt=""/>
-      <caption webpage="link_de_word_file1" alt=""/>
-      <caption webpage="link_de_word_file1" alt=""/>
-      <caption webpage="link_tr_word_file1" alt=""/>
-      <caption webpage="link_tr_word_file1" alt=""/>
-      <caption webpage="link_de_word_folderdocuments" alt=""/>
-      <caption webpage="link_de_word_folderdocuments" alt=""/>
-      <caption webpage="link_en_word_file2" alt=""/>
-      <caption webpage="link_en_word_file2" alt=""/>
-      <caption webpage="link_pt_word_folderdocuments" alt=""/>
-      <caption webpage="link_pt_word_folderdocuments" alt=""/>
-      <caption webpage="link_fr_word_folderdocuments" alt=""/>
-      <caption webpage="link_fr_word_folderdocuments" alt=""/>
-      <caption webpage="link_en_word_email" alt=""/>
-      <caption webpage="link_en_word_email" alt=""/>
-      <caption webpage="link_en_word_file1" alt=""/>
-      <caption webpage="link_en_word_file1" alt=""/>
-      <caption webpage="link_fr_word_address" alt=""/>
-      <caption webpage="link_fr_word_address" alt=""/>
-      <caption webpage="link_pl_word_folderdocuments" alt=""/>
-      <caption webpage="link_pl_word_folderdocuments" alt=""/>
-      <caption webpage="link_sv_word_file2" alt=""/>
-      <caption webpage="link_sv_word_file2" alt=""/>
-      <caption webpage="link_sv_word_address" alt=""/>
-      <caption webpage="link_sv_word_address" alt=""/>
       <caption webpage="link_de_word_email" alt=""/>
       <caption webpage="link_de_word_email" alt=""/>
-      <caption webpage="link_ru_word_address" alt=""/>
-      <caption webpage="link_ru_word_address" alt=""/>
-      <caption webpage="link_pl_word_file2" alt=""/>
-      <caption webpage="link_pl_word_file2" alt=""/>
-      <caption webpage="link_es_word_folderdocuments" alt=""/>
-      <caption webpage="link_es_word_folderdocuments" alt=""/>
-      <caption webpage="link_sv_word_file1" alt=""/>
-      <caption webpage="link_sv_word_file1" alt=""/>
-      <caption webpage="link_it_word_email" alt=""/>
-      <caption webpage="link_it_word_email" alt=""/>
-      <caption webpage="link_pt_word_file1" alt=""/>
-      <caption webpage="link_pt_word_file1" alt=""/>
-      <caption webpage="link_pl_word_file1" alt=""/>
-      <caption webpage="link_pl_word_file1" alt=""/>
-      <caption webpage="link_es_word_file2" alt=""/>
-      <caption webpage="link_es_word_file2" alt=""/>
       <caption webpage="link_tr_word_folderdocuments" alt=""/>
       <caption webpage="link_tr_word_folderdocuments" alt=""/>
-      <caption webpage="link_tr_word_email" alt=""/>
-      <caption webpage="link_tr_word_email" alt=""/>
-      <caption webpage="link_sv_word_folderdocuments" alt=""/>
-      <caption webpage="link_sv_word_folderdocuments" alt=""/>
-      <caption webpage="link_en_word_address" alt=""/>
-      <caption webpage="link_en_word_address" alt=""/>
-      <caption webpage="link_tr_word_address" alt=""/>
-      <caption webpage="link_tr_word_address" alt=""/>
-      <caption webpage="link_tr_word_file2" alt=""/>
-      <caption webpage="link_tr_word_file2" alt=""/>
+      <caption webpage="link_ru_word_address" alt=""/>
+      <caption webpage="link_ru_word_address" alt=""/>
+      <caption webpage="link_de_word_folderdocuments" alt=""/>
+      <caption webpage="link_de_word_folderdocuments" alt=""/>
+      <caption webpage="link_pt_word_file1" alt=""/>
+      <caption webpage="link_pt_word_file1" alt=""/>
+      <caption webpage="link_de_word_file2" alt=""/>
+      <caption webpage="link_de_word_file2" alt=""/>
+      <caption webpage="link_en_word_file1" alt=""/>
+      <caption webpage="link_en_word_file1" alt=""/>
+      <caption webpage="link_pl_word_file1" alt=""/>
+      <caption webpage="link_pl_word_file1" alt=""/>
       <caption webpage="link_fr_word_file1" alt=""/>
       <caption webpage="link_fr_word_file1" alt=""/>
-      <caption webpage="link_es_word_address" alt=""/>
-      <caption webpage="link_es_word_address" alt=""/>
+      <caption webpage="link_en_word_folderdocuments" alt=""/>
+      <caption webpage="link_en_word_folderdocuments" alt=""/>
+      <caption webpage="link_ru_word_file2" alt=""/>
+      <caption webpage="link_ru_word_file2" alt=""/>
+      <caption webpage="link_ru_word_folderdocuments" alt=""/>
+      <caption webpage="link_ru_word_folderdocuments" alt=""/>
+      <caption webpage="link_it_word_address" alt=""/>
+      <caption webpage="link_it_word_address" alt=""/>
+      <caption webpage="link_fr_word_address" alt=""/>
+      <caption webpage="link_fr_word_address" alt=""/>
+      <caption webpage="link_it_word_file1" alt=""/>
+      <caption webpage="link_it_word_file1" alt=""/>
+      <caption webpage="link_pt_word_file2" alt=""/>
+      <caption webpage="link_pt_word_file2" alt=""/>
+      <caption webpage="link_tr_word_email" alt=""/>
+      <caption webpage="link_tr_word_email" alt=""/>
+      <caption webpage="link_fr_word_folderdocuments" alt=""/>
+      <caption webpage="link_fr_word_folderdocuments" alt=""/>
+      <caption webpage="link_pl_word_folderdocuments" alt=""/>
+      <caption webpage="link_pl_word_folderdocuments" alt=""/>
+      <caption webpage="link_pl_word_email" alt=""/>
+      <caption webpage="link_pl_word_email" alt=""/>
+      <caption webpage="link_tr_word_file2" alt=""/>
+      <caption webpage="link_tr_word_file2" alt=""/>
+      <caption webpage="link_es_word_folderdocuments" alt=""/>
+      <caption webpage="link_es_word_folderdocuments" alt=""/>
+      <caption webpage="link_ru_word_email" alt=""/>
+      <caption webpage="link_ru_word_email" alt=""/>
+      <caption webpage="link_sv_word_folderdocuments" alt=""/>
+      <caption webpage="link_sv_word_folderdocuments" alt=""/>
+      <caption webpage="link_it_word_email" alt=""/>
+      <caption webpage="link_it_word_email" alt=""/>
+      <caption webpage="link_ru_word_file1" alt=""/>
+      <caption webpage="link_ru_word_file1" alt=""/>
+      <caption webpage="link_es_word_file1" alt=""/>
+      <caption webpage="link_es_word_file1" alt=""/>
+      <caption webpage="link_sv_word_email" alt=""/>
+      <caption webpage="link_sv_word_email" alt=""/>
+      <caption webpage="link_tr_word_file1" alt=""/>
+      <caption webpage="link_tr_word_file1" alt=""/>
+      <caption webpage="link_es_word_file2" alt=""/>
+      <caption webpage="link_es_word_file2" alt=""/>
       <caption webpage="link_es_word_email" alt=""/>
       <caption webpage="link_es_word_email" alt=""/>
+      <caption webpage="link_tr_word_address" alt=""/>
+      <caption webpage="link_tr_word_address" alt=""/>
+      <caption webpage="link_pl_word_file2" alt=""/>
+      <caption webpage="link_pl_word_file2" alt=""/>
+      <caption webpage="link_pt_word_email" alt=""/>
+      <caption webpage="link_pt_word_email" alt=""/>
+      <caption webpage="link_de_word_file1" alt=""/>
+      <caption webpage="link_de_word_file1" alt=""/>
+      <caption webpage="link_en_word_email" alt=""/>
+      <caption webpage="link_en_word_email" alt=""/>
+      <caption webpage="link_pt_word_address" alt=""/>
+      <caption webpage="link_pt_word_address" alt=""/>
+      <caption webpage="link_pl_word_address" alt=""/>
+      <caption webpage="link_pl_word_address" alt=""/>
+      <caption webpage="link_pt_word_folderdocuments" alt=""/>
+      <caption webpage="link_pt_word_folderdocuments" alt=""/>
+      <caption webpage="link_en_word_file2" alt=""/>
+      <caption webpage="link_en_word_file2" alt=""/>
+      <caption webpage="link_it_word_folderdocuments" alt=""/>
+      <caption webpage="link_it_word_folderdocuments" alt=""/>
+      <caption webpage="link_sv_word_address" alt=""/>
+      <caption webpage="link_sv_word_address" alt=""/>
+      <caption webpage="link_fr_word_email" alt=""/>
+      <caption webpage="link_fr_word_email" alt=""/>
+      <caption webpage="link_fr_word_file2" alt=""/>
+      <caption webpage="link_fr_word_file2" alt=""/>
+      <caption webpage="link_sv_word_file1" alt=""/>
+      <caption webpage="link_sv_word_file1" alt=""/>
+      <caption webpage="link_it_word_file2" alt=""/>
+      <caption webpage="link_it_word_file2" alt=""/>
+      <caption webpage="link_en_word_address" alt=""/>
+      <caption webpage="link_en_word_address" alt=""/>
+      <caption webpage="link_de_word_address" alt=""/>
+      <caption webpage="link_de_word_address" alt=""/>
+      <caption webpage="link_es_word_address" alt=""/>
+      <caption webpage="link_es_word_address" alt=""/>
+      <caption webpage="link_sv_word_file2" alt=""/>
+      <caption webpage="link_sv_word_file2" alt=""/>
     </file>
     <file name="link_de_word_folderdocuments.gif" crc="382126965" seo="true" ref="link_de_word_folderdocuments">
       <caption webpage="link_de_word_folderdocuments" alt=""/>
@@ -7079,146 +7091,146 @@
       <caption webpage="link_de_word_email" alt=""/>
     </file>
     <file name="link_bg_chrome.jpg" crc="3835420196" seo="true" ref="link_de_chrome_folderdownload:link_de_chrome_web-air:link_de_chrome_reichelt:link_de_chrome_oceanofgames:link_de_chrome_midnightitsalmost:link_de_chrome_ipcgames:link_de_chrome_getintopc:link_en_chrome_folderdownload:link_en_chrome_web-air:link_en_chrome_reichelt:link_en_chrome_oceanofgames:link_en_chrome_midnightitsalmost:link_en_chrome_ipcgames:link_en_chrome_getintopc:link_es_chrome_folderdownload:link_es_chrome_web-air:link_es_chrome_reichelt:link_es_chrome_oceanofgames:link_es_chrome_midnightitsalmost:link_es_chrome_ipcgames:link_es_chrome_getintopc:link_fr_chrome_folderdownload:link_fr_chrome_web-air:link_fr_chrome_reichelt:link_fr_chrome_oceanofgames:link_fr_chrome_midnightitsalmost:link_fr_chrome_ipcgames:link_fr_chrome_getintopc:link_it_chrome_folderdownload:link_it_chrome_web-air:link_it_chrome_reichelt:link_it_chrome_oceanofgames:link_it_chrome_midnightitsalmost:link_it_chrome_ipcgames:link_it_chrome_getintopc:link_pl_chrome_folderdownload:link_pl_chrome_web-air:link_pl_chrome_reichelt:link_pl_chrome_oceanofgames:link_pl_chrome_midnightitsalmost:link_pl_chrome_ipcgames:link_pl_chrome_getintopc:link_pt_chrome_folderdownload:link_pt_chrome_web-air:link_pt_chrome_reichelt:link_pt_chrome_oceanofgames:link_pt_chrome_midnightitsalmost:link_pt_chrome_ipcgames:link_pt_chrome_getintopc:link_ru_chrome_folderdownload:link_ru_chrome_web-air:link_ru_chrome_reichelt:link_ru_chrome_oceanofgames:link_ru_chrome_midnightitsalmost:link_ru_chrome_ipcgames:link_ru_chrome_getintopc:link_sv_chrome_folderdownload:link_sv_chrome_web-air:link_sv_chrome_reichelt:link_sv_chrome_oceanofgames:link_sv_chrome_midnightitsalmost:link_sv_chrome_ipcgames:link_sv_chrome_getintopc:link_tr_chrome_folderdownload:link_tr_chrome_web-air:link_tr_chrome_reichelt:link_tr_chrome_oceanofgames:link_tr_chrome_midnightitsalmost:link_tr_chrome_ipcgames:link_tr_chrome_getintopc">
-      <caption webpage="link_de_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_de_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_en_chrome_web-air" alt=""/>
-      <caption webpage="link_en_chrome_web-air" alt=""/>
-      <caption webpage="link_pl_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_pl_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_en_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_en_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_fr_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_fr_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_en_chrome_folderdownload" alt=""/>
-      <caption webpage="link_en_chrome_folderdownload" alt=""/>
-      <caption webpage="link_tr_chrome_folderdownload" alt=""/>
-      <caption webpage="link_tr_chrome_folderdownload" alt=""/>
-      <caption webpage="link_es_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_es_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_it_chrome_folderdownload" alt=""/>
-      <caption webpage="link_it_chrome_folderdownload" alt=""/>
-      <caption webpage="link_it_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_it_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_pl_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_pl_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_it_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_it_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_ru_chrome_ipcgames" alt=""/>
-      <caption webpage="link_ru_chrome_ipcgames" alt=""/>
-      <caption webpage="link_tr_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_tr_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_de_chrome_getintopc" alt=""/>
-      <caption webpage="link_de_chrome_getintopc" alt=""/>
-      <caption webpage="link_tr_chrome_ipcgames" alt=""/>
-      <caption webpage="link_tr_chrome_ipcgames" alt=""/>
-      <caption webpage="link_de_chrome_reichelt" alt=""/>
-      <caption webpage="link_de_chrome_reichelt" alt=""/>
-      <caption webpage="link_tr_chrome_web-air" alt=""/>
-      <caption webpage="link_tr_chrome_web-air" alt=""/>
-      <caption webpage="link_it_chrome_ipcgames" alt=""/>
-      <caption webpage="link_it_chrome_ipcgames" alt=""/>
-      <caption webpage="link_pt_chrome_web-air" alt=""/>
-      <caption webpage="link_pt_chrome_web-air" alt=""/>
-      <caption webpage="link_de_chrome_folderdownload" alt=""/>
-      <caption webpage="link_de_chrome_folderdownload" alt=""/>
-      <caption webpage="link_ru_chrome_reichelt" alt=""/>
-      <caption webpage="link_ru_chrome_reichelt" alt=""/>
-      <caption webpage="link_sv_chrome_reichelt" alt=""/>
-      <caption webpage="link_sv_chrome_reichelt" alt=""/>
-      <caption webpage="link_es_chrome_folderdownload" alt=""/>
-      <caption webpage="link_es_chrome_folderdownload" alt=""/>
-      <caption webpage="link_fr_chrome_getintopc" alt=""/>
-      <caption webpage="link_fr_chrome_getintopc" alt=""/>
-      <caption webpage="link_es_chrome_getintopc" alt=""/>
-      <caption webpage="link_es_chrome_getintopc" alt=""/>
       <caption webpage="link_pl_chrome_ipcgames" alt=""/>
       <caption webpage="link_pl_chrome_ipcgames" alt=""/>
-      <caption webpage="link_es_chrome_ipcgames" alt=""/>
-      <caption webpage="link_es_chrome_ipcgames" alt=""/>
-      <caption webpage="link_sv_chrome_getintopc" alt=""/>
-      <caption webpage="link_sv_chrome_getintopc" alt=""/>
-      <caption webpage="link_fr_chrome_folderdownload" alt=""/>
-      <caption webpage="link_fr_chrome_folderdownload" alt=""/>
-      <caption webpage="link_pl_chrome_reichelt" alt=""/>
-      <caption webpage="link_pl_chrome_reichelt" alt=""/>
-      <caption webpage="link_pl_chrome_folderdownload" alt=""/>
-      <caption webpage="link_pl_chrome_folderdownload" alt=""/>
-      <caption webpage="link_pt_chrome_ipcgames" alt=""/>
-      <caption webpage="link_pt_chrome_ipcgames" alt=""/>
-      <caption webpage="link_ru_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_ru_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_de_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_de_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_pt_chrome_folderdownload" alt=""/>
-      <caption webpage="link_pt_chrome_folderdownload" alt=""/>
-      <caption webpage="link_ru_chrome_getintopc" alt=""/>
-      <caption webpage="link_ru_chrome_getintopc" alt=""/>
-      <caption webpage="link_ru_chrome_folderdownload" alt=""/>
-      <caption webpage="link_ru_chrome_folderdownload" alt=""/>
-      <caption webpage="link_tr_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_tr_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_sv_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_sv_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_en_chrome_reichelt" alt=""/>
-      <caption webpage="link_en_chrome_reichelt" alt=""/>
-      <caption webpage="link_sv_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_sv_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_fr_chrome_reichelt" alt=""/>
-      <caption webpage="link_fr_chrome_reichelt" alt=""/>
-      <caption webpage="link_it_chrome_web-air" alt=""/>
-      <caption webpage="link_it_chrome_web-air" alt=""/>
-      <caption webpage="link_en_chrome_ipcgames" alt=""/>
-      <caption webpage="link_en_chrome_ipcgames" alt=""/>
-      <caption webpage="link_es_chrome_web-air" alt=""/>
-      <caption webpage="link_es_chrome_web-air" alt=""/>
-      <caption webpage="link_sv_chrome_ipcgames" alt=""/>
-      <caption webpage="link_sv_chrome_ipcgames" alt=""/>
-      <caption webpage="link_de_chrome_web-air" alt=""/>
-      <caption webpage="link_de_chrome_web-air" alt=""/>
-      <caption webpage="link_tr_chrome_reichelt" alt=""/>
-      <caption webpage="link_tr_chrome_reichelt" alt=""/>
-      <caption webpage="link_ru_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_ru_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_tr_chrome_getintopc" alt=""/>
-      <caption webpage="link_tr_chrome_getintopc" alt=""/>
-      <caption webpage="link_fr_chrome_ipcgames" alt=""/>
-      <caption webpage="link_fr_chrome_ipcgames" alt=""/>
-      <caption webpage="link_de_chrome_ipcgames" alt=""/>
-      <caption webpage="link_de_chrome_ipcgames" alt=""/>
-      <caption webpage="link_es_chrome_reichelt" alt=""/>
-      <caption webpage="link_es_chrome_reichelt" alt=""/>
-      <caption webpage="link_it_chrome_getintopc" alt=""/>
-      <caption webpage="link_it_chrome_getintopc" alt=""/>
-      <caption webpage="link_pt_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_pt_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_fr_chrome_web-air" alt=""/>
-      <caption webpage="link_fr_chrome_web-air" alt=""/>
-      <caption webpage="link_it_chrome_reichelt" alt=""/>
-      <caption webpage="link_it_chrome_reichelt" alt=""/>
-      <caption webpage="link_es_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_es_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_pl_chrome_getintopc" alt=""/>
-      <caption webpage="link_pl_chrome_getintopc" alt=""/>
-      <caption webpage="link_pt_chrome_reichelt" alt=""/>
-      <caption webpage="link_pt_chrome_reichelt" alt=""/>
-      <caption webpage="link_ru_chrome_web-air" alt=""/>
-      <caption webpage="link_ru_chrome_web-air" alt=""/>
-      <caption webpage="link_en_chrome_getintopc" alt=""/>
-      <caption webpage="link_en_chrome_getintopc" alt=""/>
-      <caption webpage="link_pt_chrome_getintopc" alt=""/>
-      <caption webpage="link_pt_chrome_getintopc" alt=""/>
-      <caption webpage="link_sv_chrome_web-air" alt=""/>
-      <caption webpage="link_sv_chrome_web-air" alt=""/>
-      <caption webpage="link_sv_chrome_folderdownload" alt=""/>
-      <caption webpage="link_sv_chrome_folderdownload" alt=""/>
-      <caption webpage="link_fr_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_fr_chrome_oceanofgames" alt=""/>
-      <caption webpage="link_pt_chrome_midnightitsalmost" alt=""/>
-      <caption webpage="link_pt_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_pt_chrome_web-air" alt=""/>
+      <caption webpage="link_pt_chrome_web-air" alt=""/>
+      <caption webpage="link_en_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_en_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_es_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_es_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_ru_chrome_reichelt" alt=""/>
+      <caption webpage="link_ru_chrome_reichelt" alt=""/>
       <caption webpage="link_en_chrome_midnightitsalmost" alt=""/>
       <caption webpage="link_en_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_ru_chrome_ipcgames" alt=""/>
+      <caption webpage="link_ru_chrome_ipcgames" alt=""/>
+      <caption webpage="link_tr_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_tr_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_it_chrome_getintopc" alt=""/>
+      <caption webpage="link_it_chrome_getintopc" alt=""/>
+      <caption webpage="link_fr_chrome_getintopc" alt=""/>
+      <caption webpage="link_fr_chrome_getintopc" alt=""/>
+      <caption webpage="link_ru_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_ru_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_de_chrome_ipcgames" alt=""/>
+      <caption webpage="link_de_chrome_ipcgames" alt=""/>
+      <caption webpage="link_es_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_es_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_fr_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_fr_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_pt_chrome_folderdownload" alt=""/>
+      <caption webpage="link_pt_chrome_folderdownload" alt=""/>
+      <caption webpage="link_tr_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_tr_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_ru_chrome_folderdownload" alt=""/>
+      <caption webpage="link_ru_chrome_folderdownload" alt=""/>
+      <caption webpage="link_es_chrome_reichelt" alt=""/>
+      <caption webpage="link_es_chrome_reichelt" alt=""/>
+      <caption webpage="link_it_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_it_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_en_chrome_reichelt" alt=""/>
+      <caption webpage="link_en_chrome_reichelt" alt=""/>
+      <caption webpage="link_sv_chrome_folderdownload" alt=""/>
+      <caption webpage="link_sv_chrome_folderdownload" alt=""/>
+      <caption webpage="link_de_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_de_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_ru_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_ru_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_pt_chrome_getintopc" alt=""/>
+      <caption webpage="link_pt_chrome_getintopc" alt=""/>
+      <caption webpage="link_en_chrome_folderdownload" alt=""/>
+      <caption webpage="link_en_chrome_folderdownload" alt=""/>
+      <caption webpage="link_sv_chrome_reichelt" alt=""/>
+      <caption webpage="link_sv_chrome_reichelt" alt=""/>
+      <caption webpage="link_en_chrome_web-air" alt=""/>
+      <caption webpage="link_en_chrome_web-air" alt=""/>
+      <caption webpage="link_sv_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_sv_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_it_chrome_reichelt" alt=""/>
+      <caption webpage="link_it_chrome_reichelt" alt=""/>
+      <caption webpage="link_pl_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_pl_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_it_chrome_web-air" alt=""/>
+      <caption webpage="link_it_chrome_web-air" alt=""/>
+      <caption webpage="link_en_chrome_getintopc" alt=""/>
+      <caption webpage="link_en_chrome_getintopc" alt=""/>
+      <caption webpage="link_es_chrome_getintopc" alt=""/>
+      <caption webpage="link_es_chrome_getintopc" alt=""/>
+      <caption webpage="link_it_chrome_folderdownload" alt=""/>
+      <caption webpage="link_it_chrome_folderdownload" alt=""/>
+      <caption webpage="link_fr_chrome_reichelt" alt=""/>
+      <caption webpage="link_fr_chrome_reichelt" alt=""/>
+      <caption webpage="link_ru_chrome_getintopc" alt=""/>
+      <caption webpage="link_ru_chrome_getintopc" alt=""/>
+      <caption webpage="link_pl_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_pl_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_it_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_it_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_fr_chrome_web-air" alt=""/>
+      <caption webpage="link_fr_chrome_web-air" alt=""/>
+      <caption webpage="link_de_chrome_web-air" alt=""/>
+      <caption webpage="link_de_chrome_web-air" alt=""/>
+      <caption webpage="link_sv_chrome_web-air" alt=""/>
+      <caption webpage="link_sv_chrome_web-air" alt=""/>
+      <caption webpage="link_sv_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_sv_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_de_chrome_getintopc" alt=""/>
+      <caption webpage="link_de_chrome_getintopc" alt=""/>
+      <caption webpage="link_es_chrome_folderdownload" alt=""/>
+      <caption webpage="link_es_chrome_folderdownload" alt=""/>
+      <caption webpage="link_fr_chrome_folderdownload" alt=""/>
+      <caption webpage="link_fr_chrome_folderdownload" alt=""/>
+      <caption webpage="link_tr_chrome_ipcgames" alt=""/>
+      <caption webpage="link_tr_chrome_ipcgames" alt=""/>
+      <caption webpage="link_tr_chrome_folderdownload" alt=""/>
+      <caption webpage="link_tr_chrome_folderdownload" alt=""/>
+      <caption webpage="link_es_chrome_ipcgames" alt=""/>
+      <caption webpage="link_es_chrome_ipcgames" alt=""/>
+      <caption webpage="link_pl_chrome_folderdownload" alt=""/>
+      <caption webpage="link_pl_chrome_folderdownload" alt=""/>
       <caption webpage="link_pl_chrome_web-air" alt=""/>
       <caption webpage="link_pl_chrome_web-air" alt=""/>
+      <caption webpage="link_de_chrome_reichelt" alt=""/>
+      <caption webpage="link_de_chrome_reichelt" alt=""/>
+      <caption webpage="link_ru_chrome_web-air" alt=""/>
+      <caption webpage="link_ru_chrome_web-air" alt=""/>
+      <caption webpage="link_sv_chrome_getintopc" alt=""/>
+      <caption webpage="link_sv_chrome_getintopc" alt=""/>
+      <caption webpage="link_fr_chrome_ipcgames" alt=""/>
+      <caption webpage="link_fr_chrome_ipcgames" alt=""/>
+      <caption webpage="link_es_chrome_web-air" alt=""/>
+      <caption webpage="link_es_chrome_web-air" alt=""/>
+      <caption webpage="link_tr_chrome_getintopc" alt=""/>
+      <caption webpage="link_tr_chrome_getintopc" alt=""/>
+      <caption webpage="link_tr_chrome_reichelt" alt=""/>
+      <caption webpage="link_tr_chrome_reichelt" alt=""/>
+      <caption webpage="link_it_chrome_ipcgames" alt=""/>
+      <caption webpage="link_it_chrome_ipcgames" alt=""/>
+      <caption webpage="link_en_chrome_ipcgames" alt=""/>
+      <caption webpage="link_en_chrome_ipcgames" alt=""/>
+      <caption webpage="link_de_chrome_folderdownload" alt=""/>
+      <caption webpage="link_de_chrome_folderdownload" alt=""/>
+      <caption webpage="link_pl_chrome_reichelt" alt=""/>
+      <caption webpage="link_pl_chrome_reichelt" alt=""/>
+      <caption webpage="link_pt_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_pt_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_pt_chrome_reichelt" alt=""/>
+      <caption webpage="link_pt_chrome_reichelt" alt=""/>
+      <caption webpage="link_fr_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_fr_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_pt_chrome_ipcgames" alt=""/>
+      <caption webpage="link_pt_chrome_ipcgames" alt=""/>
+      <caption webpage="link_tr_chrome_web-air" alt=""/>
+      <caption webpage="link_tr_chrome_web-air" alt=""/>
+      <caption webpage="link_pt_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_pt_chrome_oceanofgames" alt=""/>
+      <caption webpage="link_de_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_de_chrome_midnightitsalmost" alt=""/>
+      <caption webpage="link_sv_chrome_ipcgames" alt=""/>
+      <caption webpage="link_sv_chrome_ipcgames" alt=""/>
+      <caption webpage="link_pl_chrome_getintopc" alt=""/>
+      <caption webpage="link_pl_chrome_getintopc" alt=""/>
     </file>
     <file name="link_de_chrome_folderdownloads.gif" crc="32947523" seo="true" ref="link_de_chrome_folderdownload">
       <caption webpage="link_de_chrome_folderdownload" alt=""/>
@@ -8671,16 +8683,16 @@
   <file name="ru.html" crc="308934746" seo="true" mt="1741861083173" redirect="true"/>
   <file name="sv.html" crc="70244314" seo="true" mt="1741861083173" redirect="true"/>
   <file name="tr.html" crc="4152602721" seo="true" mt="1741861083173" redirect="true"/>
-  <file name="en_download.html" crc="469041406" mt="1741860804508" redirect="true"/>
-  <file name="de_download.html" crc="267781120" mt="1741860804508" redirect="true"/>
-  <file name="es_download.html" crc="3836214366" mt="1741860804508" redirect="true"/>
-  <file name="fr_download.html" crc="471655062" mt="1741860804523" redirect="true"/>
-  <file name="it_download.html" crc="4204853461" mt="1741860804523" redirect="true"/>
-  <file name="pl_download.html" crc="184382792" mt="1741860804523" redirect="true"/>
-  <file name="pt_download.html" crc="3795324477" mt="1741860804539" redirect="true"/>
-  <file name="ru_download.html" crc="3944080940" mt="1741860804539" redirect="true"/>
-  <file name="sv_download.html" crc="111071637" mt="1741860804539" redirect="true"/>
-  <file name="tr_download.html" crc="104864134" mt="1741860804555" redirect="true"/>
+  <file name="en_download.html" crc="3813831981" mt="1741860804508" redirect="true"/>
+  <file name="de_download.html" crc="506490433" mt="1741860804508" redirect="true"/>
+  <file name="es_download.html" crc="4036264487" mt="1741860804508" redirect="true"/>
+  <file name="fr_download.html" crc="4209657265" mt="1741860804523" redirect="true"/>
+  <file name="it_download.html" crc="533922401" mt="1741860804523" redirect="true"/>
+  <file name="pl_download.html" crc="4228480873" mt="1741860804523" redirect="true"/>
+  <file name="pt_download.html" crc="483358476" mt="1741860804539" redirect="true"/>
+  <file name="ru_download.html" crc="3980942400" mt="1741860804539" redirect="true"/>
+  <file name="sv_download.html" crc="4194425618" mt="1741860804539" redirect="true"/>
+  <file name="tr_download.html" crc="224462942" mt="1741860804555" redirect="true"/>
   <file name="de.html" crc="3807189584" seo="true" mt="1741861083173" redirect="true"/>
   <file name="tr_pum_desktop.html" crc="262064424" mt="1741860804555" redirect="true"/>
   <file name="tr_pum_word.html" crc="535289617" mt="1741860804555" redirect="true"/>
@@ -8721,8 +8733,8 @@
   <file name="de_pum_word.html" crc="382008288" mt="1741860804659" redirect="true"/>
   <file name="de_pum_chrome.html" crc="3998686351" mt="1741860804659" redirect="true"/>
   <file name="de_pum_desktop.html" crc="3966605411" mt="1741860804659" redirect="true"/>
-  <file name="photoshop_en.html" crc="3974971249" mt="1741860804659" redirect="true"/>
-  <file name="photoshop_de.html" crc="282121636" mt="1741860804676" redirect="true"/>
+  <file name="photoshop_en.html" crc="393243015" mt="1741860804659" redirect="true"/>
+  <file name="photoshop_de.html" crc="3999434998" mt="1741860804676" redirect="true"/>
   <file name="en_pum_chrome.html" crc="64966226" mt="1741860804676" redirect="true"/>
   <file name="link_en_desktop_folderdownload.html" crc="4203543597" mt="1741861014613" redirect="true"/>
   <file name="link_en_desktop_foldermusic.html" crc="3892118175" mt="1741861014613" redirect="true"/>
