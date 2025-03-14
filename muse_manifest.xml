@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741961040236">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="https://popupmenu.github.io" resolutions="1x" timestamp="1741961376902">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_popup.css" crc="3995553195" ref="es:fr:it:pl:pt:ru:sv:tr:de:en"/>
