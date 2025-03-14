@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html class="nojs html css_verticalspacer" lang="ru-RU">
+ <head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="description" content="Внутреннее меню,всплывающее меню,всплывающее меню,всплывающее меню,всплывающее меню"/>
+  <meta name="keywords" content="всплывающее меню, flutter всплывающее меню, html всплывающее меню, css всплывающее меню, react всплывающее меню, javascript всплывающее меню, всплывающее меню flutter, меню всплывающее, ios всплывающее меню, xamarin forms всплывающее меню, jquery всплывающее меню, пользовательское всплывающее меню, пользовательское всплывающее меню flutter, всплывающее меню react native, всплывающее меню во flutter, flutter пользовательское всплывающее меню, flutter пример всплывающего меню, react native всплывающее меню, всплывающее меню flutter, всплывающее меню flutter, swift всплывающее меню, всплывающее меню flutter, ярлык, вставка ярлыков, ярлык новой папки, ярлыки компьютера, ярлык копирования, ярлык закрытия окна, ярлыки клавиатуры windows 10, ярлыки клавиатуры windows 11, ярлыки клавиатуры, горячая клавиша, горячая клавиша, автоматическая горячая клавиша, горячая клавиша, горячая клавиша, ярлык инструмента для вырезания, alt+ f4, зачеркнутый ярлык, ярлык скриншота windows, ярлык диспетчера задач, ярлыки клавиатуры windows, копировать и вставить клавиатуру, выделить все, control f, ярлык в excel, alt tab, горячие клавиши, ярлык скриншота, ярлык emoji, ярлык на весь экран, значки рабочего стола, degree sybol в word,контекстное меню, contextmenu, контекстное меню, контекстное меню windows 11, контекстное меню windows 10, контекстное меню windows, простое контекстное меню, контекстное меню windows, jquery contextmenu, contextmenu js, пользовательское меню правой кнопки мыши, контекстное меню windows terminal, angular right click menu, custom context menu,программное обеспечение для управления проектами, программное обеспечение для управления контрактами, программное обеспечение для управления запасами, программное обеспечение для управления свинцом, лучшее программное обеспечение для управления проектами, лучшие приложения для повышения производительности, программное обеспечение для управления советом директоров, программное обеспечение для управления задачами, программное обеспечение для управления цифровыми активами, инструменты управления проектами,игровой настольный компьютер, игровой ПК, настольный ПК, игровой ПК настройка"/>
+  <meta name="generator" content="2018.1.0.386"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  
+  <script type="text/javascript">
+   // Update the 'nojs'/'js' class on the html node
+document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
+
+// Check that all required assets are uploaded and up-to-date
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "require.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "jquery.museresponsive.js", "ru.css"], "outOfDate":[]};
+</script>
+  
+  <link rel="shortcut icon" href="images/ru-favicon.ico?crc=4182333245"/>
+  <title>PopUpMenu | Ярлыки контекстного рабочего стола Всплывающее приложение</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
+  <link rel="stylesheet" type="text/css" href="css/master_popup.css?crc=3995553195"/>
+  <link rel="stylesheet" type="text/css" href="css/ru.css?crc=3798784707" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_popup.css?crc=84448168"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_ru.css?crc=3899671493" id="nomq_pagesheet"/>
+  <![endif]-->
+    <!--custom head HTML-->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5TNFTPX');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript">
+  function pum_popup(url) {
+    var tbarh, pumw, pumh, pumx, pumy;
+    if (window.screen.width < 404) {
+      pumw = 200
+      pumh = 130
+      pumx = 0
+      pumy = 0
+    } else {
+      tbarh = (window.outerHeight - window.innerHeight)
+      pumw = 404;
+      pumh = 264
+      pumx = (window.screen.width / 2) - ((pumw / 2) + 10);
+      pumy = (window.screen.height / 2) - ((pumh / 2) + 40);
+    }
+    window.open(url, "Window2", "height=" + pumh + ",width=" + pumw + ",left=" + pumx + ",top=" + pumy + ",screenX=" + pumx + ",screenY=" + pumy);
+  }
+</script>
+ </head>
+ <body>
+
+  <div class="breakpoint active" id="bp_infinity" data-min-width="770"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="clearfix grpelem shared_content" id="pu28392" data-content-guid="pu28392_content"><!-- group -->
+     <div class="browser_width shared_content" id="u28392-bw" data-content-guid="u28392-bw_content">
+      <a class="nonblock nontext" id="u28392" href="https://midnightitsalmost.github.io/" target="_blank"><!-- simple frame --></a>
+     </div>
+     <a class="nonblock nontext clip_frame" id="u28383" href="https://midnightitsalmost.github.io/" target="_blank"><!-- image --><img class="block temp_no_img_src" id="u28383_img" data-orig-src="images/midnight.png?crc=4142605195" alt="" width="166" height="18" src="images/blank.gif?crc=4208392903"/></a>
+    </div>
+    <div class="clearfix grpelem" id="pppppu136586"><!-- column -->
+     <div class="clearfix colelem shared_content" id="ppppu136586" data-content-guid="ppppu136586_content"><!-- group -->
+      <div class="clearfix grpelem" id="pppu136586"><!-- column -->
+       <div class="clearfix colelem shared_content" id="ppu136586" data-content-guid="ppu136586_content"><!-- group -->
+        <div class="clearfix grpelem shared_content" id="pu136586" data-content-guid="pu136586_content"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136586" href="de.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136586" data-content-guid="u136586_content"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136587" href="es.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136586" data-content-guid="u136587_content"><!-- simple frame --></a>
+        </div>
+        <div class="clearfix grpelem shared_content" id="pu136588" data-content-guid="pu136588_content"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136588" href="en.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136588" data-content-guid="u136588_content"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136589" href="fr.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136588" data-content-guid="u136589_content"><!-- simple frame --></a>
+        </div>
+        <a class="nonblock nontext clip_frame grpelem shared_content" id="u136596" href="index.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="ppu136586" data-content-guid="u136596_content"><!-- image --><img class="block temp_no_img_src" id="u136596_img" data-orig-src="images/popupmenu.jpg?crc=113446150" alt="" width="51" height="84" src="images/blank.gif?crc=4208392903"/></a>
+        <div class="clearfix grpelem shared_content" id="pu136590" data-content-guid="pu136590_content"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136590" href="it.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136590" data-content-guid="u136590_content"><!-- simple frame --></a>
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136591" href="pl.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136590" data-content-guid="u136591_content"><!-- simple frame --></a>
+        </div>
+        <div class="clearfix grpelem shared_content" id="pu136592" data-content-guid="pu136592_content"><!-- column -->
+         <a class="nonblock nontext museBGSize colelem shared_content" id="u136592" href="pt.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136592" data-content-guid="u136592_content"><!-- simple frame --></a>
+         <div class="museBGSize colelem shared_content" id="u136593" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136592" data-content-guid="u136593_content"><!-- simple frame --></div>
+        </div>
+       </div>
+       <div class="clearfix colelem shared_content" id="pu136594" data-content-guid="pu136594_content"><!-- group -->
+        <a class="nonblock nontext museBGSize grpelem shared_content" id="u136594" href="sv.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136594" data-content-guid="u136594_content"><!-- simple frame --></a>
+        <a class="nonblock nontext museBGSize grpelem shared_content" id="u136595" href="tr.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-leftAdjustmentDoneBy="pu136594" data-content-guid="u136595_content"><!-- simple frame --></a>
+       </div>
+       <div class="clip_frame colelem" id="u136599" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- image -->
+        <img class="block temp_no_img_src" id="u136599_img" data-orig-src="images/free_download.jpg?crc=4047236773" alt="" width="87" height="90" src="images/blank.gif?crc=4208392903"/>
+       </div>
+       <a class="nonblock nontext museBGSize colelem shared_content" id="u136598" href="https://support.google.com/adsense/answer/12654?hl=ru" target="_blank" data-content-guid="u136598_content"><!-- simple frame --></a>
+       <a class="nonblock nontext transition museBGSize colelem shared_content" id="u136585" href="ru_download.html" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-content-guid="u136585_content"><!-- simple frame --></a>
+      </div>
+      <div class="grpelem shared_content" id="u153323" data-content-guid="u153323_content"><!-- custom html -->
+       <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5TNFTPX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+      </div>
+      <div class="grpelem" id="u140008"><!-- custom html -->
+       <video autoplay loop muted width="669" height="411">
+  <source src="../assets/webvideo.mp4" type="video/mp4">
+</video>
+
+      </div>
+     </div>
+     <div class="clearfix colelem shared_content" id="u128121-8" data-sizePolicy="fixed" data-pintopage="page_fluidx" data-content-guid="u128121-8_content"><!-- content -->
+      <h1 id="u128121-2">PopUpMenu - это легкий доступ к файлам, папкам или пунктам меню приложений. Для каждого приложения - свое PopUpMenu (рабочий стол).</h1>
+      <h2 id="u128121-4">Ярлыки для файлов или папок, используемых только для данного приложения.</h2>
+      <h2 id="u128121-6">Запуск любого пункта меню приложения через ярлык PopUpMenu.</h2>
+     </div>
+     <div class="clip_frame colelem" id="u35788"><!-- image -->
+      <img class="block temp_no_img_src" id="u35788_img" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09130434782608696" data-image-width="920" data-image-height="84" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu28373" data-content-guid="pu28373_content"><!-- group -->
+      <a class="nonblock nontext museBGSize transition grpelem" id="u28373" href="javascript:pum_popup('../ru_pum_desktop.html')"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize transition grpelem" id="u28396" href="javascript:pum_popup('../ru_pum_chrome.html')"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize transition grpelem" id="u28374" href="javascript:pum_popup('../ru_pum_word.html')"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize transition grpelem" id="u28405" href="javascript:pum_popup('../ru_pum_photoshop.html')"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu28376" data-content-guid="pu28376_content"><!-- group -->
+      <div class="clip_frame grpelem" id="u28376"><!-- image -->
+       <img class="block temp_no_img_src" id="u28376_img" data-orig-src="images/logo_windows.jpg?crc=4089098927" alt="windows Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.8823529411764706" data-image-width="68" data-image-height="60" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem" id="u28363"><!-- image -->
+       <img class="block temp_no_img_src" id="u28363_img" data-orig-src="images/logo_internet.jpg?crc=3971415081" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="1" data-image-width="60" data-image-height="60" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem" id="u28366"><!-- image -->
+       <img class="block temp_no_img_src" id="u28366_img" data-orig-src="images/logo_word.jpg?crc=3889980227" alt="документ Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9523809523809523" data-image-width="63" data-image-height="60" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem" id="u28386"><!-- image -->
+       <img class="block temp_no_img_src" id="u28386_img" data-orig-src="images/logo_photoshop.jpg?crc=4006722793" alt="приложение Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9836065573770492" data-image-width="61" data-image-height="60" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <div class="colelem shared_content" id="u28365" data-content-guid="u28365_content"><!-- custom html -->
+      <iframe rel="canonical" src="https://www.youtube.com/embed/4YU5s-GWnLM" style="text-align:center;" id="youtube" name="youtube" width="100%" height="315" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu28379" data-content-guid="pu28379_content"><!-- group -->
+      <a class="nonblock nontext museBGSize grpelem" id="u28379" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/JoyC23nlQxM%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28369" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/Z90A7NM7ipg%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28397" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/l4pclS06GG8%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28382" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/JgQhdICH5CM%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu28385" data-content-guid="pu28385_content"><!-- group -->
+      <a class="nonblock nontext museBGSize grpelem" id="u28385" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/sqHjT66OQ5M%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28368" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/gGa4CNVSzBw%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28389" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/7hgkcAz4hc4%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28395" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/4PlWUhClbzk%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+     </div>
+     <div class="clearfix colelem shared_content" id="pu28401" data-content-guid="pu28401_content"><!-- group -->
+      <a class="nonblock nontext museBGSize grpelem" id="u28401" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/_ObPDLk158Q%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28406" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/rD8mQ6BFJlI%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28375" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/GBCVheOzJAo%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+      <a class="nonblock nontext museBGSize grpelem" id="u28400" href="javascript:youtube.location.replace(%22https://www.youtube.com/embed/6PdfP7sdrwA%22)"><!-- simple frame --><div class="fluid_height_spacer"></div></a>
+     </div>
+     <a class="nonblock nontext clearfix colelem shared_content" id="u113400-4" href="mailto:popupmenu.system@gmail.com" data-content-guid="u113400-4_content"><!-- content --><p id="u113400-2">PopUpMenu.system@gmail.com</p></a>
+    </div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link.jpg?crc=105913901" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru.jpg?crc=258363620" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru.jpg?crc=4256004793" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru.jpg?crc=4078259918" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru.jpg?crc=3833832190" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru.jpg?crc=249294830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru.jpg?crc=195205313" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru.jpg?crc=3979658191" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru.jpg?crc=4115381827" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru.jpg?crc=3878759688" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru.jpg?crc=3894889456" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru.jpg?crc=12476282" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru.jpg?crc=3863158959" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru.jpg?crc=176017459" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru.jpg?crc=4252937715" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru.jpg?crc=152870509" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru.jpg?crc=328502549" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru.jpg?crc=4060724826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru.jpg?crc=342488915" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru.jpg?crc=4083614057" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru.jpg?crc=4124232183" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru.jpg?crc=507388233" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru.jpg?crc=185538112" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru.jpg?crc=3909351233" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru.jpg?crc=329455392" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru.jpg?crc=529377575" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru.jpg?crc=366883812" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru.jpg?crc=483170585" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru.jpg?crc=367687153" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru.jpg?crc=3902498597" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru.jpg?crc=3961927275" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru.jpg?crc=274631901" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru.jpg?crc=105935902" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru.jpg?crc=4163954610" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_769" data-min-width="769" data-max-width="769"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pppppu136586"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="ppppu136586_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09090909090909091" data-image-width="737" data-image-height="67" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28376"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28376"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_windows.jpg?crc=4089098927" alt="windows Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.8888888888888888" data-image-width="54" data-image-height="48" data-orig-id="u28376_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28363"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_internet.jpg?crc=3971415081" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="1" data-image-width="48" data-image-height="48" data-orig-id="u28363_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28366"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_word.jpg?crc=3889980227" alt="документ Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9411764705882353" data-image-width="51" data-image-height="48" data-orig-id="u28366_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28386"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_photoshop.jpg?crc=4006722793" alt="приложение Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9795918367346939" data-image-width="49" data-image-height="48" data-orig-id="u28386_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu28392_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="1499" data-content-above-spacer="1498" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr.jpg?crc=3926713596" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru.jpg?crc=258363620" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru.jpg?crc=4256004793" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru.jpg?crc=4078259918" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru.jpg?crc=3833832190" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru.jpg?crc=249294830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru.jpg?crc=195205313" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru.jpg?crc=3979658191" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru.jpg?crc=4115381827" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru.jpg?crc=3878759688" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru-u28379-r-fr.jpg?crc=512961148" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru-u28379-m-fr.jpg?crc=80256221" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru-u28369-r-fr.jpg?crc=3856963305" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru-u28369-m-fr.jpg?crc=4184622528" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru-u28397-r-fr.jpg?crc=124367518" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru-u28397-m-fr.jpg?crc=313348851" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru-u28382-r-fr.jpg?crc=76552816" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru-u28382-m-fr.jpg?crc=4184168617" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru-u28385-r-fr.jpg?crc=58903277" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru-u28385-m-fr.jpg?crc=4050134401" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru-u28368-r-fr.jpg?crc=408569037" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru-u28368-m-fr.jpg?crc=3762921852" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru-u28389-r-fr.jpg?crc=178217102" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru-u28389-m-fr.jpg?crc=209298463" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru-u28395-r-fr.jpg?crc=3789476096" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru-u28395-m-fr.jpg?crc=186599799" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru-u28401-r-fr.jpg?crc=199801208" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru-u28401-m-fr.jpg?crc=341372856" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru-u28406-r-fr.jpg?crc=4097375401" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru-u28406-m-fr.jpg?crc=3911065551" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru-u28375-r-fr.jpg?crc=4179523898" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru-u28375-m-fr.jpg?crc=454292689" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru-u28400-r-fr.jpg?crc=103815670" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru-u28400-m-fr.jpg?crc=3937214119" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_768" data-min-width="602" data-max-width="768"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu28392_content"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pppppu136586"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppppu136586"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pppu136586"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="ppu136586_content"><!-- placeholder node --></span>
+       <div class="clearfix colelem" id="pppu136594"><!-- group -->
+        <div class="clearfix grpelem" id="ppu136594"><!-- column -->
+         <span class="clearfix colelem placeholder" data-placeholder-for="pu136594_content"><!-- placeholder node --></span>
+         <span class="nonblock nontext museBGSize colelem placeholder" data-placeholder-for="u136598_content"><!-- placeholder node --></span>
+        </div>
+        <div class="clip_frame grpelem temp_no_id shared_content" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u136599" data-content-guid="u136599_content"><!-- image -->
+         <img class="block temp_no_id temp_no_img_src" data-orig-src="images/free_download.jpg?crc=4047236773" alt="" width="79" height="82" data-orig-id="u136599_img" src="images/blank.gif?crc=4208392903"/>
+        </div>
+       </div>
+       <span class="nonblock nontext transition museBGSize colelem placeholder" data-placeholder-for="u136585_content"><!-- placeholder node --></span>
+      </div>
+      <span class="grpelem placeholder" data-placeholder-for="u153323_content"><!-- placeholder node --></span>
+      <div class="grpelem shared_content" id="u140283" data-content-guid="u140283_content"><!-- custom html -->
+       <video autoplay loop muted width="465" height="285">
+  <source src="../assets/webvideo.mp4" type="video/mp4">
+</video>
+
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09065934065934066" data-image-width="728" data-image-height="66" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28376_content"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <div class="verticalspacer" data-offset-top="1316" data-content-above-spacer="1315" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr2.jpg?crc=3866994342" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru.jpg?crc=258363620" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru.jpg?crc=4256004793" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru.jpg?crc=4078259918" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru.jpg?crc=3833832190" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru.jpg?crc=249294830" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru.jpg?crc=195205313" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru.jpg?crc=3979658191" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru.jpg?crc=4115381827" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru.jpg?crc=3878759688" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru.jpg?crc=3894889456" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru.jpg?crc=12476282" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru.jpg?crc=3863158959" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru.jpg?crc=176017459" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru.jpg?crc=4252937715" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru.jpg?crc=152870509" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru.jpg?crc=328502549" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru.jpg?crc=4060724826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru.jpg?crc=342488915" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru.jpg?crc=4083614057" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru.jpg?crc=4124232183" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru.jpg?crc=507388233" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru.jpg?crc=185538112" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru.jpg?crc=3909351233" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru.jpg?crc=329455392" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru.jpg?crc=529377575" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru.jpg?crc=366883812" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru.jpg?crc=483170585" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru.jpg?crc=367687153" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru.jpg?crc=3902498597" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru.jpg?crc=3961927275" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru.jpg?crc=274631901" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru.jpg?crc=105935902" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru.jpg?crc=4163954610" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_601" data-min-width="601" data-max-width="601"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pppppu136586"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppppu136586"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pppu136586"><!-- column -->
+       <span class="clearfix colelem placeholder" data-placeholder-for="ppu136586_content"><!-- placeholder node --></span>
+       <div class="clearfix colelem temp_no_id" data-orig-id="pu136594"><!-- group -->
+        <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136594_content"><!-- placeholder node --></span>
+        <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136595_content"><!-- placeholder node --></span>
+        <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136598_content"><!-- placeholder node --></span>
+        <span class="clip_frame grpelem placeholder" data-placeholder-for="u136599_content"><!-- placeholder node --></span>
+       </div>
+       <span class="nonblock nontext transition museBGSize colelem placeholder" data-placeholder-for="u136585_content"><!-- placeholder node --></span>
+      </div>
+      <span class="grpelem placeholder" data-placeholder-for="u153323_content"><!-- placeholder node --></span>
+      <span class="grpelem placeholder" data-placeholder-for="u140283_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.0913884007029877" data-image-width="569" data-image-height="52" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28376"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28376"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_windows.jpg?crc=4089098927" alt="windows Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.8867924528301887" data-image-width="53" data-image-height="47" data-orig-id="u28376_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28363"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_internet.jpg?crc=3971415081" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="1" data-image-width="47" data-image-height="47" data-orig-id="u28363_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28366"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_word.jpg?crc=3889980227" alt="документ Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.94" data-image-width="50" data-image-height="47" data-orig-id="u28366_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28386"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_photoshop.jpg?crc=4006722793" alt="приложение Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9791666666666666" data-image-width="48" data-image-height="47" data-orig-id="u28386_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu28392_content"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="1222" data-content-above-spacer="1221" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr3.jpg?crc=532154983" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru.jpg?crc=258363620" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru-u28373-r-fr.jpg?crc=465760661" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru-u28373-m-fr.jpg?crc=499760691" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru-u28396-r-fr.jpg?crc=4206264721" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru-u28396-m-fr.jpg?crc=4048145607" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru-u28374-r-fr.jpg?crc=229472639" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru-u28374-m-fr.jpg?crc=4201175026" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru-u28405-r-fr.jpg?crc=432304624" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru-u28405-m-fr.jpg?crc=183753035" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru-u28379-r-fr2.jpg?crc=468618742" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru-u28379-m-fr2.jpg?crc=308076798" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru-u28369-r-fr2.jpg?crc=422948538" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru-u28369-m-fr2.jpg?crc=484617513" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru-u28397-r-fr2.jpg?crc=429231663" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru-u28397-m-fr2.jpg?crc=436307487" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru-u28382-r-fr2.jpg?crc=4207245066" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru-u28382-m-fr2.jpg?crc=146937152" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru-u28385-r-fr2.jpg?crc=147813994" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru-u28385-m-fr2.jpg?crc=370430018" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru-u28368-r-fr2.jpg?crc=62052406" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru-u28368-m-fr2.jpg?crc=4288977289" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru-u28389-r-fr2.jpg?crc=322404027" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru-u28389-m-fr2.jpg?crc=4087291161" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru-u28395-r-fr2.jpg?crc=507723856" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru-u28395-m-fr2.jpg?crc=4063484968" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru-u28401-r-fr2.jpg?crc=359027104" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru-u28401-m-fr2.jpg?crc=4022117133" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru-u28406-r-fr2.jpg?crc=129090436" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru-u28406-m-fr2.jpg?crc=4175970168" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru-u28375-r-fr2.jpg?crc=262176559" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru-u28375-m-fr2.jpg?crc=464804587" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru-u28400-r-fr2.jpg?crc=4264822266" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru-u28400-m-fr2.jpg?crc=4292508424" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_600" data-min-width="482" data-max-width="600"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="pu28392" data-content-guid="pu28392_content1"><!-- group -->
+     <span class="browser_width placeholder" data-placeholder-for="u28392-bw_content"><!-- placeholder node --></span>
+     <a class="nonblock nontext clip_frame temp_no_id" href="https://midnightitsalmost.github.io/" target="_blank" data-orig-id="u28383"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/midnight.png?crc=4142605195" alt="" width="166" height="17" data-orig-id="u28383_img" src="images/blank.gif?crc=4208392903"/></a>
+    </div>
+    <div class="clearfix grpelem" id="ppu153323"><!-- column -->
+     <div class="clearfix colelem shared_content" id="pu153323" data-content-guid="pu153323_content"><!-- group -->
+      <span class="grpelem placeholder" data-placeholder-for="u153323_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext transition museBGSize grpelem placeholder" data-placeholder-for="u136585_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136586_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136587_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136588_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136589_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136590_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136591_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136592_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u136593_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136594_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136595_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u136596_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136598_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id shared_content" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u136599" data-content-guid="u136599_content1"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/free_download.jpg?crc=4047236773" alt="" width="62" height="64" data-orig-id="u136599_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="grpelem" id="u140608"><!-- custom html -->
+       <video autoplay loop muted width="312" height="191">
+  <source src="../assets/webvideo.mp4" type="video/mp4">
+</video>
+
+
+      </div>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09107142857142857" data-image-width="560" data-image-height="51" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id shared_content" data-orig-id="pu28376" data-content-guid="pu28376_content1"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28376"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_windows.jpg?crc=4089098927" alt="windows Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.8771929824561403" data-image-width="57" data-image-height="50" data-orig-id="u28376_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28363"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_internet.jpg?crc=3971415081" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="1" data-image-width="50" data-image-height="50" data-orig-id="u28363_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28366"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_word.jpg?crc=3889980227" alt="документ Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9433962264150944" data-image-width="53" data-image-height="50" data-orig-id="u28366_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28386"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_photoshop.jpg?crc=4006722793" alt="приложение Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9803921568627451" data-image-width="51" data-image-height="50" data-orig-id="u28386_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <div class="verticalspacer" data-offset-top="1211" data-content-above-spacer="1210" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru-u136585-r-fr.jpg?crc=3920543765" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr4.jpg?crc=3764030440" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru-u28373-r-fr2.jpg?crc=3971032795" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru-u28373-m-fr2.jpg?crc=3800635367" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru-u28396-r-fr2.jpg?crc=3979440536" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru-u28396-m-fr2.jpg?crc=4019471784" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru-u28374-r-fr2.jpg?crc=3987312449" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru-u28374-m-fr2.jpg?crc=48963505" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru-u28405-r-fr2.jpg?crc=3826740521" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru-u28405-m-fr2.jpg?crc=3870062586" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru.jpg?crc=3894889456" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru.jpg?crc=12476282" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru.jpg?crc=3863158959" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru.jpg?crc=176017459" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru.jpg?crc=4252937715" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru.jpg?crc=152870509" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru.jpg?crc=328502549" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru.jpg?crc=4060724826" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru.jpg?crc=342488915" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru.jpg?crc=4083614057" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru.jpg?crc=4124232183" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru.jpg?crc=507388233" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru.jpg?crc=185538112" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru.jpg?crc=3909351233" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru.jpg?crc=329455392" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru.jpg?crc=529377575" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru.jpg?crc=366883812" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru.jpg?crc=483170585" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru.jpg?crc=367687153" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru.jpg?crc=3902498597" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru.jpg?crc=3961927275" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru.jpg?crc=274631901" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru.jpg?crc=105935902" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru.jpg?crc=4163954610" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_481" data-min-width="481" data-max-width="481"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clearfix grpelem temp_no_id" data-orig-id="ppu153323"><!-- column -->
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu153323_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09131403118040089" data-image-width="449" data-image-height="41" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28376"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28376"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_windows.jpg?crc=4089098927" alt="windows Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.8888888888888888" data-image-width="45" data-image-height="40" data-orig-id="u28376_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28363"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_internet.jpg?crc=3971415081" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="1" data-image-width="40" data-image-height="40" data-orig-id="u28363_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28366"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_word.jpg?crc=3889980227" alt="документ Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9523809523809523" data-image-width="42" data-image-height="40" data-orig-id="u28366_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28386"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_photoshop.jpg?crc=4006722793" alt="приложение Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.975609756097561" data-image-width="41" data-image-height="40" data-orig-id="u28386_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu28392_content1"><!-- placeholder node --></span>
+    <div class="verticalspacer" data-offset-top="1139" data-content-above-spacer="1139" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru-u136585-r-fr.jpg?crc=3920543765" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr5.jpg?crc=329161427" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru-u28373-r-fr3.jpg?crc=475867608" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru-u28373-m-fr3.jpg?crc=472129274" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru-u28396-r-fr3.jpg?crc=524135456" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru-u28396-m-fr3.jpg?crc=60415984" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru-u28374-r-fr3.jpg?crc=4070454939" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru-u28374-m-fr3.jpg?crc=3863042348" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru-u28405-r-fr3.jpg?crc=4156543498" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru-u28405-m-fr3.jpg?crc=3937432727" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru-u28379-r-fr3.jpg?crc=3785830439" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru-u28379-m-fr3.jpg?crc=4144294451" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru-u28369-r-fr3.jpg?crc=3856059068" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru-u28369-m-fr3.jpg?crc=491501181" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru-u28397-r-fr3.jpg?crc=125172992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru-u28397-m-fr3.jpg?crc=4066825916" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru-u28382-r-fr3.jpg?crc=3761315755" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru-u28382-m-fr3.jpg?crc=471291798" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru-u28385-r-fr3.jpg?crc=55056300" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru-u28385-m-fr3.jpg?crc=496285684" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru-u28368-r-fr3.jpg?crc=3968078543" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru-u28368-m-fr3.jpg?crc=4127434753" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru-u28389-r-fr3.jpg?crc=3827408497" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru-u28389-m-fr3.jpg?crc=421247457" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru-u28395-r-fr3.jpg?crc=504749651" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru-u28395-m-fr3.jpg?crc=4002525926" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru-u28401-r-fr3.jpg?crc=141451259" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru-u28401-m-fr3.jpg?crc=271366305" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru-u28406-r-fr3.jpg?crc=3962314113" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru-u28406-m-fr3.jpg?crc=4057506504" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru-u28375-r-fr3.jpg?crc=60470191" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru-u28375-m-fr3.jpg?crc=379678150" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru-u28400-r-fr3.jpg?crc=390592159" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru-u28400-m-fr3.jpg?crc=4194055981" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_480" data-min-width="321" data-max-width="480"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu28392_content1"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pppu136586"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppu136586"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu136586_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu136588_content"><!-- placeholder node --></span>
+      <span class="grpelem placeholder" data-placeholder-for="u153323_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136590_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136591_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136592_content"><!-- placeholder node --></span>
+      <span class="museBGSize grpelem placeholder" data-placeholder-for="u136593_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u136596_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136598_content"><!-- placeholder node --></span>
+      <span class="clip_frame grpelem placeholder" data-placeholder-for="u136599_content1"><!-- placeholder node --></span>
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu136594"><!-- group -->
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136594_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136595_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext transition museBGSize grpelem placeholder" data-placeholder-for="u136585_content"><!-- placeholder node --></span>
+     </div>
+     <div class="colelem" id="u140958"><!-- custom html -->
+      <video autoplay loop muted width="440" height="270">
+  <source src="../assets/webvideo.mp4" type="video/mp4">
+</video>
+
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09090909090909091" data-image-width="440" data-image-height="40" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28376_content1"><!-- placeholder node --></span>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <div class="verticalspacer" data-offset-top="1238" data-content-above-spacer="1237" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr6.jpg?crc=489442311" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru-u136585-r-fr.jpg?crc=3920543765" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru-u28373-r-fr4.jpg?crc=214682704" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru-u28373-m-fr4.jpg?crc=15484323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru-u28396-r-fr4.jpg?crc=191279110" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru-u28396-m-fr4.jpg?crc=375531667" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru-u28374-r-fr4.jpg?crc=397904653" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru-u28374-m-fr4.jpg?crc=4119557611" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru-u28405-r-fr4.jpg?crc=3823546475" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru-u28405-m-fr4.jpg?crc=330709776" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru-u28379-r-fr3.jpg?crc=3785830439" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru-u28379-m-fr3.jpg?crc=4144294451" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru-u28369-r-fr3.jpg?crc=3856059068" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru-u28369-m-fr3.jpg?crc=491501181" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru-u28397-r-fr3.jpg?crc=125172992" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru-u28397-m-fr3.jpg?crc=4066825916" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru-u28382-r-fr3.jpg?crc=3761315755" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru-u28382-m-fr3.jpg?crc=471291798" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru-u28385-r-fr3.jpg?crc=55056300" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru-u28385-m-fr3.jpg?crc=496285684" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru-u28368-r-fr3.jpg?crc=3968078543" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru-u28368-m-fr3.jpg?crc=4127434753" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru-u28389-r-fr3.jpg?crc=3827408497" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru-u28389-m-fr3.jpg?crc=421247457" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru-u28395-r-fr3.jpg?crc=504749651" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru-u28395-m-fr3.jpg?crc=4002525926" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru-u28401-r-fr3.jpg?crc=141451259" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru-u28401-m-fr3.jpg?crc=271366305" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru-u28406-r-fr3.jpg?crc=3962314113" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru-u28406-m-fr3.jpg?crc=4057506504" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru-u28375-r-fr3.jpg?crc=60470191" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru-u28375-m-fr3.jpg?crc=379678150" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru-u28400-r-fr3.jpg?crc=390592159" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru-u28400-m-fr3.jpg?crc=4194055981" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_320" data-max-width="320"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <span class="clearfix grpelem placeholder" data-placeholder-for="pu28392_content1"><!-- placeholder node --></span>
+    <div class="clearfix grpelem temp_no_id" data-orig-id="pppu136586"><!-- column -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppu136586"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu136586_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu136588_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu136590_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu136592_content"><!-- placeholder node --></span>
+      <span class="grpelem placeholder" data-placeholder-for="u153323_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext clip_frame grpelem placeholder" data-placeholder-for="u136596_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clearfix colelem" id="pu136598"><!-- group -->
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136598_content"><!-- placeholder node --></span>
+      <div class="clip_frame grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u136599"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/free_download.jpg?crc=4047236773" alt="" width="40" height="41" data-orig-id="u136599_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136594_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext museBGSize grpelem placeholder" data-placeholder-for="u136595_content"><!-- placeholder node --></span>
+      <span class="nonblock nontext transition museBGSize grpelem placeholder" data-placeholder-for="u136585_content"><!-- placeholder node --></span>
+     </div>
+     <div class="colelem" id="u141283"><!-- custom html -->
+      <video autoplay loop muted width="280" height="174">
+  <source src="../assets/webvideo.mp4" type="video/mp4">
+</video>
+
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u128121-8_content"><!-- placeholder node --></span>
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u35788"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/demo_ru.jpg?crc=4124792828" alt="Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.09285714285714286" data-image-width="280" data-image-height="26" data-orig-id="u35788_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28373_content"><!-- placeholder node --></span>
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu28376"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28376"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_windows.jpg?crc=4089098927" alt="windows Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.8857142857142857" data-image-width="35" data-image-height="31" data-orig-id="u28376_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28363"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_internet.jpg?crc=3971415081" alt="интернет-браузер Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="1" data-image-width="35" data-image-height="35" data-orig-id="u28363_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28366"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_word.jpg?crc=3889980227" alt="документ Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9428571428571428" data-image-width="35" data-image-height="33" data-orig-id="u28366_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u28386"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/logo_photoshop.jpg?crc=4006722793" alt="приложение Интерактивная демонстрация, всплывающее меню" data-heightwidthratio="0.9714285714285714" data-image-width="35" data-image-height="34" data-orig-id="u28386_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+     </div>
+     <span class="colelem placeholder" data-placeholder-for="u28365_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28379_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28385_content"><!-- placeholder node --></span>
+     <span class="clearfix colelem placeholder" data-placeholder-for="pu28401_content"><!-- placeholder node --></span>
+     <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u113400-4_content"><!-- placeholder node --></span>
+    </div>
+    <div class="verticalspacer" data-offset-top="1059" data-content-above-spacer="1058" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
+   <div class="preload_images">
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_de-u135494-r-fr.jpg?crc=516032106" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_de-u135494-m-fr.jpg?crc=4003214235" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_es-u135495-r-fr.jpg?crc=381934569" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_es-u135495-m-fr.jpg?crc=30576962" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_en.jpg?crc=404591671" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_en.jpg?crc=22698648" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_fr-u135497-r-fr.jpg?crc=3777647416" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_fr-u135497-m-fr.jpg?crc=3776231718" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_it-u135498-r-fr.jpg?crc=162464040" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_it-u135498-m-fr.jpg?crc=4265287602" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pl-u135499-r-fr.jpg?crc=445525041" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pl-u135499-m-fr.jpg?crc=4036291470" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_pt-u135500-r-fr.jpg?crc=281170910" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_pt-u135500-m-fr.jpg?crc=303471904" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/ru_javascript_link-u136598-r-fr7.jpg?crc=4008510123" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_sv-u135502-r-fr.jpg?crc=311886323" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_sv-u135502-m-fr.jpg?crc=379022296" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_r_tr-u135503-r-fr.jpg?crc=4010580921" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/flag_s_tr-u135503-m-fr.jpg?crc=366151507" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/download_rollover_ru-u136585-r-fr2.jpg?crc=3892215815" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_2_ru-u28373-r-fr5.jpg?crc=4158673928" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_desktop_3_ru-u28373-m-fr5.jpg?crc=3805216191" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_2_ru-u28396-r-fr5.jpg?crc=411046018" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_chrome_3_ru-u28396-m-fr5.jpg?crc=3958800474" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_2_ru-u28374-r-fr5.jpg?crc=176855194" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_word_3_ru-u28374-m-fr5.jpg?crc=4097211931" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_2_ru-u28405-r-fr5.jpg?crc=4267410241" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/pum_thumb_photoshop_3_ru-u28405-m-fr5.jpg?crc=24291714" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_2_ru-u28379-r-fr4.jpg?crc=47232103" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_app_3_ru-u28379-m-fr4.jpg?crc=3763050588" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_2_ru-u28369-r-fr4.jpg?crc=3831282870" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_files_3_ru-u28369-m-fr4.jpg?crc=73307193" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_2_ru-u28397-r-fr4.jpg?crc=3944389403" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_folders_3_ru-u28397-m-fr4.jpg?crc=4144472615" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_2_ru-u28382-r-fr4.jpg?crc=4181784252" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_internet_3_ru-u28382-m-fr4.jpg?crc=500421534" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_2_ru-u28385-r-fr4.jpg?crc=299498629" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_macro_3_ru-u28385-m-fr4.jpg?crc=3940393300" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_2_ru-u28368-r-fr4.jpg?crc=484605073" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_menu_3_ru-u28368-m-fr4.jpg?crc=3853769155" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_2_ru-u28389-r-fr4.jpg?crc=104697811" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_manage_3_ru-u28389-m-fr4.jpg?crc=350112960" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_2_ru-u28395-r-fr4.jpg?crc=467391420" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_size_3_ru-u28395-m-fr4.jpg?crc=114557483" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_2_ru-u28401-r-fr4.jpg?crc=4209753782" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_color_3_ru-u28401-m-fr4.jpg?crc=486299353" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_2_ru-u28406-r-fr4.jpg?crc=4000589936" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_image_3_ru-u28406-m-fr4.jpg?crc=4071128411" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_2_ru-u28375-r-fr4.jpg?crc=4111147469" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumadd_3_ru-u28375-m-fr4.jpg?crc=211148539" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_2_ru-u28400-r-fr4.jpg?crc=42957198" alt="" src="images/blank.gif?crc=4208392903"/>
+    <img class="preload temp_no_img_src" data-orig-src="images/videolink_pumsub_3_ru-u28400-m-fr4.jpg?crc=3919398575" alt="" src="images/blank.gif?crc=4208392903"/>
+   </div>
+  </div>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   // Decide whether to suppress missing file error or not based on preference setting
+var suppressMissingFileError = false
+</script>
+  <script type="text/javascript">
+   window.Muse.assets.check=function(c){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},d=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
+16);return 0},f=function(f){for(var g=document.getElementsByTagName("link"),j=0;j<g.length;j++)if("text/css"==g[j].type){var l=(g[j].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!l||!l[1]||!l[2])break;b[l[1]]=l[2]}g=document.createElement("div");g.className="version";g.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(g);for(j=0;j<Muse.assets.required.length;){var l=Muse.assets.required[j],k=l.match(/([\w\-\.]+)\.(\w+)$/),i=k&&k[1]?
+k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
+g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
+setTimeout(function(){f(!0)},5E3):f()}};
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
+window.Muse.assets.check($);/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.fullPage('#page');/* 100% height page */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+}catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
+
+</script>
+  <!-- RequireJS script -->
+  <script src="scripts/require.js?crc=7928878" type="text/javascript" async data-main="scripts/museconfig.js?crc=4286661555" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+   </body>
+</html>
