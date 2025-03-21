@@ -2,13 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://popupmenu.github.io/index.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/midnight.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/popupmenu.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/free_download.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/demo_en.jpg</image:loc>
+      <image:caption>Interactive Demonstration, Pop Up Menu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/logo_windows.jpg</image:loc>
+      <image:caption>windows Interactive Demo, Pop Up Menu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/logo_internet.jpg</image:loc>
+      <image:caption>internet browser Interactive Demo, Pop Up Menu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/logo_word.jpg</image:loc>
+      <image:caption>document Interactive Demo, Pop Up Menu</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://popupmenu.github.io/images/logo_photoshop.jpg</image:loc>
+      <image:caption>application Interactive Demo, Pop Up Menu</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://popupmenu.github.io/pl.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -43,7 +72,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/en.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -78,7 +107,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/es.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -113,7 +142,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/fr.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,7 +177,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/it.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -183,7 +212,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/sv.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -218,7 +247,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/pt.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -253,7 +282,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/ru.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -288,7 +317,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/tr.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -322,7 +351,7 @@
   </url>
   <url>
     <loc>https://popupmenu.github.io/de.html</loc>
-    <lastmod>2025-03-17</lastmod>
+    <lastmod>2025-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
